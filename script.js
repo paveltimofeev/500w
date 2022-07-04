@@ -152,23 +152,23 @@ const alg5 = (seed, window, itemsCount) => {
 
   const getId = () => {
     const op = seed % 4;
-    const newCardId = Math.round(seed / 4);
-    const gen1 = newCardId - 7;
-    const gen2 = newCardId - 21;
-    const gen3 = newCardId - 51;
-    const gen4 = Math.round(Math.random() * (newCardId - window));
+    const gen0 = Math.round(seed / 4);
+    const gen1 = gen0 - 7;
+    const gen2 = gen0 - 21;
+    const gen3 = gen0 - 51;
+    const gen4 = Math.round(Math.random() * (gen0 - window));
 
     switch (op) {
       case 0: // NEW
-        return newCardId;
+        return gen0;
       case 1: // REPEAT NEW
-        return gen1 >= 0 ? gen1 : newCardId;
+        return gen1 >= 0 ? gen1 : gen0;
       case 2: // REPEAT OLDER
-        return gen2 >= 0 ? gen2 : gen1 >= 0 ? gen1 : newCardId;
+        return gen2 >= 0 ? gen2 : gen1 >= 0 ? gen1 : gen0;
       case 3: // REPEAT OLDEST
-        return gen3 >= 0 ? gen3 : gen2 >= 0 ? gen2 : newCardId;
+        return gen3 >= 0 ? gen3 : gen2 >= 0 ? gen2 : gen0;
       case 4: // REPEAT OLDEST
-        return gen4 >= 0 ? gen4 : gen3 >= 0 ? gen3 : newCardId;
+        return gen4 >= 0 ? gen4 : gen3 >= 0 ? gen3 : gen0;
       default:
           return 0;
       }
@@ -182,8 +182,8 @@ const alg5 = (seed, window, itemsCount) => {
     }
 
     lastIds.push(id);
-    if (lastIds.length > 3) {
-      lastIds = lastIds.splice(0, 1);
+    if (lastIds.length > 9) {
+      lastIds.splice(0, 1);
     }
 
     return id;
