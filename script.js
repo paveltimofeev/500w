@@ -189,17 +189,6 @@ const alg5 = (seed, window, itemsCount) => {
     return id;
 }
 
-async function loadData (url) {
-
-  return fetch(url)
-  .then(x => x.json())
-  .then(data => { 
-    window.data = data; 
-    return data;
-  })
-  .catch(err => { console.log(err); });
-}
-
 function renderCard (card, selector) {
 
   const cardContailer = document.querySelector(selector);
