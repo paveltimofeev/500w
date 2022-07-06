@@ -76,19 +76,28 @@ button + button {
 }
 .list-item {
   display: flex;
+  justify-content: space-between;
   border: 1px solid #f1f1f1;
   border-radius: 4px;
   margin-bottom: 4px;
   padding: .25em .5em;
   font-size: 1.25em;
 }
-.list-item div:first-child {
+.list-item > div {
+  display: flex;
+}
+.list-item .word {
   padding-right: .5em;
 }
-.list-item div:last-child {
+.list-item .trans {
   display: none;
   color: #5164df;
 }
-.list-item:hover div:last-child {
+.list-item:hover .trans {
   display: block;
+}
+.list-item .play {
+  float: left;
+  cursor: pointer;
+  color: #5164df;
 }
