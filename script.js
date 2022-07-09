@@ -189,20 +189,47 @@ const alg5 = (seed, window, itemsCount) => {
     return id;
 }
 
-function renderCard (card, selector) {
+const playListeners = {};
+
+function renderCard (card, selector, flipped) {
 
   const cardContailer = document.querySelector(selector);
 
+  if (playListeners[selector]) {
+    const oldPlay = cardContailer.querySelector('.play-btn');
+    oldPlay.removeEventListener('click', playListeners[selector]);
+    playListeners[selector] = null;
+  }
+
   cardContailer.innerHTML = null;
+  if(flipped) {
+    cardContailer.classList.add('card--flipped');
+  }
 
   const span1 = document.createElement('span');
+  span1.classList.add('w');
   span1.innerText = card.w;
   cardContailer.appendChild(span1);
 
   const span2 = document.createElement('span');
+  span2.classList.add('t');
   span2.innerText = card.t;
   cardContailer.appendChild(span2);
+
+  const playButton = document.createElement('span');
+  playButton.classList.add('play-btn');
+  playButton.innerHTML = `&#9654;`;
+
+  playListeners[selector] = (el) => {
+    el.preventDefault();
+    el.stopPropagation();
+    play(card.w);
+  };
+
+  playButton.addEventListener('click', playListeners[selector]);
+  cardContailer.appendChild(playButton);
 }
+
 
 function rendedInfo () {
 
@@ -236,28 +263,44 @@ function resetSavedState () {
   rendedInfo();
 }
 
-function nextCard (selector) {
+function nextCard (selector, flipped) {
 
   const totalCards = window.data.length - 1;
-
   const id = alg5(state.seed, state.window, totalCards);
-  // const id = alg4(state.seed, state.window, totalCards);
-  // const id = alg3(state.seed, state.window, totalCards);
-
-  // if (state.seed < totalCards) {
-    state.seed++;
-  // }
+  
+  state.seed++;
 
   if (id === undefined) {
     return;
   }
 
+  changeCard(id, selector, flipped);
+}
+
+function prevCard (selector, flipped) {
+
+  state.seed--;
+
+  if (state.seed <= 0) {
+    return;
+  }
+
+  const totalCards = window.data.length - 1;
+  const id = alg5(state.seed, state.window, totalCards);
+
+  if (id === undefined) {
+    return;
+  }
+
+  changeCard(id, selector, flipped);
+}
+
+function changeCard (id, selector, flipped) {
   const card = window.data[id];
 
-  renderCard(card, selector);
+  renderCard(card, selector, flipped);
   renderGridItem(id);
   rendedInfo();
-
   saveState();
 }
 
@@ -271,8 +314,14 @@ function subscribeButtons () {
   document.querySelector('#next-btn').addEventListener('click', () => { 
     nextCard('#card1'); 
     nextCard('#card2'); 
-    nextCard('#card3');
-    nextCard('#card4');
+    nextCard('#card3', true);
+    nextCard('#card4', true);
+  });
+  document.querySelector('#prev-btn').addEventListener('click', () => { 
+    prevCard('#card1'); 
+    prevCard('#card2'); 
+    prevCard('#card3', true);
+    prevCard('#card4', true);
   });
   document.querySelector('#reset-btn').addEventListener('click', () => { resetSavedState(); });
   document.querySelector('#emu-btn').addEventListener('click', () => { startEmulation(); });
@@ -286,8 +335,8 @@ async function main () {
   renderGrid(rows.length);
   nextCard('#card1');
   nextCard('#card2');
-  nextCard('#card3');
-  nextCard('#card4');
+  nextCard('#card3', true);
+  nextCard('#card4', true);
 }
 
 

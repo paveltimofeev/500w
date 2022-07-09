@@ -39,19 +39,28 @@ body {
   border-radius: .5rem;
   font-size: 1.5rem;
   text-align: center;
+  position: relative;
 }
 
-.card span:first-child {
+.card .w {
   display: block;
 }
-.card span:last-child {
+.card .t {
   display: none;
 }
-.card.card--flipped span:first-child {
+.card.card--flipped .w {
   display: none;
 }
-.card.card--flipped span:last-child {
+.card.card--flipped .t {
   display: block;
+}
+.card .play-btn {
+  position: absolute;
+  right: 16px;
+
+  float: left;
+  cursor: pointer;
+  color: #5164df;
 }
 
 .button,
