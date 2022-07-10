@@ -1,0 +1,22 @@
+{
+  "name": "500w",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "build": "cd app && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "express": "^4.18.1",
+    "pino": "^8.1.0",
+    "uuid": "^8.3.2",
+    "yargs": "^17.5.1"
+  }
+}

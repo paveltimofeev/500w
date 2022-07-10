@@ -1,0 +1,41 @@
+.card {
+    border: 1px solid #f1f1f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.35rem;
+    margin-bottom: .8rem;
+    border-radius: .5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    position: relative;
+}
+
+.card .w {
+    display: block;
+    padding: 0 0.5em;
+}
+.card .t {
+    display: none;
+}
+.card.card--flipped .w {
+    display: none;
+}
+.card.card--flipped .t {
+    display: block;
+    padding: 0 0.5em;
+}
+.card .e {
+    padding-top: .6em;
+    font-size: .6em;
+    color: #aaa;
+}
+.card .play-btn {
+    position: absolute;
+    right: 16px;
+
+    float: left;
+    cursor: pointer;
+    color: #5164df;
+    font-size: .8em;
+}
