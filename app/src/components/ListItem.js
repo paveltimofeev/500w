@@ -1,6 +1,7 @@
 import React from 'react';
 import './ListItem.css';
 import play from '../speech';
+import {Play} from "akar-icons";
 
 class ListItem extends React.Component {
 
@@ -19,7 +20,7 @@ class ListItem extends React.Component {
                 <div>
                     <span className="play-btn"
                           onClick={() => { this.playHandler() }}>
-                        &#9654;
+                        <Play size={16}/>
                     </span>
                 </div>
             </div>

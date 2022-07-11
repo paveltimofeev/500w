@@ -4,7 +4,7 @@ function ProgressBar (props) {
     return (
         <div className="progress-bar">
             <div className="bar" style={{'width': props.value + '%'}}>
-                {props.label}
+                <span>{props.label}</span>
             </div>
         </div>
     );
