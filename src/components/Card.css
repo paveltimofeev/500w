@@ -1,0 +1,79 @@
+.card {
+    border: 1px solid #f1f1f1;
+    background-color: var(--card);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 1.35rem;
+    margin-bottom: 0.8rem;
+    border-radius: 0.25rem;
+    font-size: 1.5rem;
+    text-align: center;
+    position: relative;
+    box-shadow: 0 4px 17px 0 rgb(0 0 0 / 3%);
+}
+
+.card .w {
+    display: block;
+    padding: 0 0.5em;
+}
+.card .t {
+    display: none;
+    padding: 0 0.5em;
+}
+.card.card--flipped .w {
+    display: none;
+}
+.card.card--flipped .t {
+    display: block;
+    padding: 0 0.5em;
+}
+.card .e {
+    padding-top: .6em;
+    font-size: .6em;
+    color: #aaa;
+}
+
+.card .play-btn {
+    position: absolute;
+    float: left;
+    cursor: pointer;
+    color: #5164df;
+    font-size: .8em;
+    background: transparent;
+
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 16px;
+    left: calc(100% - 50px);
+    top: 0;
+    bottom: 0;
+    right: 0;
+
+    transition: left .2s ease-in, background-color .2s ease-in, color .2s ease-in;
+}
+
+.card .play-btn--open {
+    left: 0%;
+    background: var(--footer);
+    color: var(--footer-text);
+}
+.card .play-btn .btn--hidden {
+    color: white;
+    display: none;
+    min-width: 24px;
+    min-height: 24px;
+    margin-right: 24px;
+    font-size: .6em;
+    text-decoration: none;
+}
+.card .play-btn .btn--visible,
+.card .play-btn.play-btn--open .btn--hidden {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

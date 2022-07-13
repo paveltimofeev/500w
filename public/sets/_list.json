@@ -1,0 +1,29 @@
+{
+  "sets": [
+    {
+      "name": "500 основных испанских слов",
+      "path": "basic-500",
+      "pic": "https://images.unsplash.com/photo-1561632669-7f55f7975606?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3BhaW58ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Простые диалоги",
+      "path": "basic-dialogs",
+      "pic": "https://images.unsplash.com/photo-1533854257392-71c5ff28dff7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHNwYWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Online покупки",
+      "path": "online-shopping",
+      "pic": "https://images.unsplash.com/photo-1441015401724-70d16b783f5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzZ8fG9ubGluZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Рабочий словарь",
+      "path": "work",
+      "pic": "https://images.unsplash.com/photo-1535104536244-07c5778bfbfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHNwYWluJTIwdGVjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Test",
+      "path": "test",
+      "hidden": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "alg": "alg5",
+  "name": "Рабочий словарь",
+  "cards": [
+    {"id": "1", "g": "1",  "w": "Lorem ",  "t": " ipsum",  "e": "Lorem ipsum dolor sit amet",  "p": "consectetur adipisicing elit"},
+    {"id": "2", "g": "1",  "w": "Lorem ipsum dolor sit amet ",  "t": " consectetur adipisicing elit",  "e": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",  "p": "Adipisci dolorum, impedit in itaque sint sunt"},
+    {"id": "3", "g": "1",  "w": "Lorem; Ipsum ",  "t": " dolor; sit",  "e": "",  "p": ""},
+    {"id": "4", "g": "1",  "w": "Adipisci ",  "t": " dolorum",  "e": "",  "p": ""},
+    {"id": "5", "g": "1",  "w": "aliquam ",  "t": " aperiam",  "e": "1) Adipisci dolorum; 2) A ad aliquam animi",  "p": "1) impedit in itaque; 2) sint sunt"},
+    {"id": "1", "g": "1",  "w": "Lorem ",  "t": " ipsum",  "e": "Lorem ipsum dolor sit amet",  "p": "consectetur adipisicing elit"},
+    {"id": "2", "g": "1",  "w": "Lorem ipsum dolor sit amet ",  "t": " consectetur adipisicing elit",  "e": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",  "p": "Adipisci dolorum, impedit in itaque sint sunt"},
+    {"id": "3", "g": "1",  "w": "Lorem; Ipsum ",  "t": " dolor; sit",  "e": "",  "p": ""},
+    {"id": "4", "g": "1",  "w": "Adipisci ",  "t": " dolorum",  "e": "",  "p": ""},
+    {"id": "5", "g": "1",  "w": "aliquam ",  "t": " aperiam",  "e": "1) Adipisci dolorum; 2) A ad aliquam animi",  "p": "1) impedit in itaque; 2) sint sunt"},
+    {"id": "1", "g": "1",  "w": "Lorem ",  "t": " ipsum",  "e": "Lorem ipsum dolor sit amet",  "p": "consectetur adipisicing elit"},
+    {"id": "2", "g": "1",  "w": "Lorem ipsum dolor sit amet ",  "t": " consectetur adipisicing elit",  "e": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",  "p": "Adipisci dolorum, impedit in itaque sint sunt"},
+    {"id": "3", "g": "1",  "w": "Lorem; Ipsum ",  "t": " dolor; sit",  "e": "",  "p": ""},
+    {"id": "4", "g": "1",  "w": "Adipisci ",  "t": " dolorum",  "e": "",  "p": ""},
+    {"id": "5", "g": "1",  "w": "aliquam ",  "t": " aperiam",  "e": "1) Adipisci dolorum; 2) A ad aliquam animi",  "p": "1) impedit in itaque; 2) sint sunt"}
+  ]
+}
+

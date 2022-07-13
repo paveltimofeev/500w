@@ -1,0 +1,19 @@
+.set-card {
+    padding: 36px 24px 16px 24px;
+    min-height: 200px;
+    background-color: var(--footer);
+    margin-bottom: 24px;
+    border-radius: 16px;
+    text-decoration: none;
+    display: inline-block;
+    color: var(--card);
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.05);
+    font-size: 2em;
+    font-weight: 300;
+    background-position: center;
+    background-size: cover;
+}
+.set-card-name {
+    background-color: #32346db5;
+    padding: 2px 8px;
+}

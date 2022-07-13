@@ -1,0 +1,69 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+.list-search {
+  width: 100%;
+  padding: 12px 16px;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+footer {
+  padding: 12px 16px 4px 16px;
+  display: flex;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  background-color: var(--footer);
+  justify-content: space-evenly;
+  box-shadow: 0 0 70px 0 rgb(45 42 59 / 10%);
+  border-top: 1px solid #cac8ff;
+  z-index: 100;
+}
+
+
+footer .button,
+footer .button:visited,
+footer button {
+  background-color: var(--footer);
+  color: var(--footer-text);
+  border: none;
+  border-radius: 0.5rem;
+  padding: 1rem 1rem;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+
+.settings-panel {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #5f5b85;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  padding: 24px;
+  color: #f1f1f1;
+  height: 0;
+  transition: height .2s ease-in;
+}
+
+.settings-panel--open {
+  height: 210px;
+}
+
+.settings-panel button {
+  background-color: #fafafa;
+  border: none;
+  border-radius: 0.5rem;
+  padding: .75rem;
+  font-size: 1rem;
+  text-decoration: none;
+}

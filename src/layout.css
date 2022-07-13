@@ -1,0 +1,42 @@
+.vertical {
+    display: flex;
+    flex-direction: column;
+}
+.flex-fill {
+    flex: 1;
+}
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+}
+.hcenter {
+    display: flex;
+    justify-content: center;
+}
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+.w-100 {
+    width: 100%;
+}
+.h-100 {
+    height: 100%;
+}
+.vertical-scroll {
+    overflow-y: auto;
+}
+
+.mb-24 {
+    margin-bottom: 24px;
+}
+.pt-8 {
+    padding-top: 8px;
+}
+.pa-16 {padding: 16px;}
+.px-16 {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.pa-24 {padding: 24px;}
