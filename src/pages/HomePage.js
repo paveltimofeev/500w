@@ -20,7 +20,7 @@ class HomePage extends React.Component  {
             err: null,
         });
 
-        fetch('./sets/_list.json')
+        fetch('./sets/sets.json')
             .then(res => res.json())
             .then(data => {
                 this.setState({
