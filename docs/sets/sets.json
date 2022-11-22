@@ -6,6 +6,12 @@
       "pic": "https://images.unsplash.com/photo-1561632669-7f55f7975606?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3BhaW58ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
     },
     {
+      "name": "Базовые глаголы",
+      "path": "verbs",
+      "pic": "https://images.unsplash.com/photo-1561632669-7f55f7975606?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3BhaW58ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    
+    {
       "name": "Простые диалоги",
       "path": "basic-dialogs",
       "pic": "https://images.unsplash.com/photo-1533854257392-71c5ff28dff7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHNwYWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
