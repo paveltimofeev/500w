@@ -1,0 +1,934 @@
+{
+  "alg": "alg5",
+  "name": "Pretérito Imperfecto — yo и él/ella",
+  "cards": [
+    {
+      "id": "1",
+      "g": "1",
+      "w": "era",
+      "t": "быть (я; ser)",
+      "e": "De niño era muy tímido.",
+      "p": "В детстве я был очень застенчивым."
+    },
+    {
+      "id": "2",
+      "g": "2",
+      "w": "era",
+      "t": "быть (он/она; ser)",
+      "e": "Ella era muy amable.",
+      "p": "Она была очень доброй."
+    },
+    {
+      "id": "3",
+      "g": "1",
+      "w": "estaba",
+      "t": "быть, находиться (я; estar)",
+      "e": "Antes estaba en casa por las tardes.",
+      "p": "Раньше я был дома по вечерам."
+    },
+    {
+      "id": "4",
+      "g": "2",
+      "w": "estaba",
+      "t": "быть, находиться (он/она; estar)",
+      "e": "Él estaba cansado después del trabajo.",
+      "p": "Он был уставшим после работы."
+    },
+    {
+      "id": "5",
+      "g": "1",
+      "w": "comía",
+      "t": "есть (я; comer)",
+      "e": "De pequeño comía muchas manzanas.",
+      "p": "В детстве я ел много яблок."
+    },
+    {
+      "id": "6",
+      "g": "2",
+      "w": "comía",
+      "t": "есть (он/она; comer)",
+      "e": "Ella comía fruta cada mañana.",
+      "p": "Она ела фрукты каждое утро."
+    },
+    {
+      "id": "7",
+      "g": "1",
+      "w": "bebía",
+      "t": "пить (я; beber)",
+      "e": "Antes bebía café todos los días.",
+      "p": "Раньше я пил кофе каждый день."
+    },
+    {
+      "id": "8",
+      "g": "2",
+      "w": "bebía",
+      "t": "пить (он/она; beber)",
+      "e": "Él bebía agua después de correr.",
+      "p": "Он пил воду после пробежки."
+    },
+    {
+      "id": "9",
+      "g": "1",
+      "w": "esperaba",
+      "t": "ждать, надеяться (я; esperar)",
+      "e": "Esperaba el autobús cada mañana.",
+      "p": "Я ждал автобус каждое утро."
+    },
+    {
+      "id": "10",
+      "g": "2",
+      "w": "esperaba",
+      "t": "ждать, надеяться (он/она; esperar)",
+      "e": "Ella esperaba a su amiga en la plaza.",
+      "p": "Она ждала подругу на площади."
+    },
+    {
+      "id": "11",
+      "g": "1",
+      "w": "quería",
+      "t": "хотеть (я; querer)",
+      "e": "Quería aprender español.",
+      "p": "Я хотел выучить испанский."
+    },
+    {
+      "id": "12",
+      "g": "2",
+      "w": "quería",
+      "t": "хотеть (он/она; querer)",
+      "e": "Él quería ir a la playa.",
+      "p": "Он хотел пойти на пляж."
+    },
+    {
+      "id": "13",
+      "g": "1",
+      "w": "tomaba",
+      "t": "брать, принимать (я; tomar)",
+      "e": "Tomaba el desayuno a las ocho.",
+      "p": "Я завтракал в восемь."
+    },
+    {
+      "id": "14",
+      "g": "2",
+      "w": "tomaba",
+      "t": "брать, принимать (он/она; tomar)",
+      "e": "Ella tomaba té por la tarde.",
+      "p": "Она пила чай после обеда."
+    },
+    {
+      "id": "15",
+      "g": "1",
+      "w": "salía",
+      "t": "выходить, уходить (я; salir)",
+      "e": "Salía de casa muy temprano.",
+      "p": "Я выходил из дома очень рано."
+    },
+    {
+      "id": "16",
+      "g": "2",
+      "w": "salía",
+      "t": "выходить, уходить (он/она; salir)",
+      "e": "Él salía a pasear los domingos.",
+      "p": "Он выходил гулять по воскресеньям."
+    },
+    {
+      "id": "17",
+      "g": "1",
+      "w": "hablaba",
+      "t": "говорить (я; hablar)",
+      "e": "Hablaba con mi madre cada día.",
+      "p": "Я разговаривал с мамой каждый день."
+    },
+    {
+      "id": "18",
+      "g": "2",
+      "w": "hablaba",
+      "t": "говорить (он/она; hablar)",
+      "e": "Ella hablaba español muy bien.",
+      "p": "Она очень хорошо говорила по-испански."
+    },
+    {
+      "id": "19",
+      "g": "1",
+      "w": "preguntaba",
+      "t": "спрашивать (я; preguntar)",
+      "e": "Preguntaba cuando no entendía algo.",
+      "p": "Я спрашивал, когда чего-то не понимал."
+    },
+    {
+      "id": "20",
+      "g": "2",
+      "w": "preguntaba",
+      "t": "спрашивать (он/она; preguntar)",
+      "e": "Él preguntaba por el horario.",
+      "p": "Он спрашивал о расписании."
+    },
+    {
+      "id": "21",
+      "g": "1",
+      "w": "llegaba",
+      "t": "приходить, прибывать (я; llegar)",
+      "e": "Llegaba al trabajo a las nueve.",
+      "p": "Я приходил на работу в девять."
+    },
+    {
+      "id": "22",
+      "g": "2",
+      "w": "llegaba",
+      "t": "приходить, прибывать (он/она; llegar)",
+      "e": "Ella llegaba tarde a menudo.",
+      "p": "Она часто опаздывала."
+    },
+    {
+      "id": "23",
+      "g": "1",
+      "w": "entraba",
+      "t": "входить (я; entrar)",
+      "e": "Entraba en la habitación sin hacer ruido.",
+      "p": "Я входил в комнату без шума."
+    },
+    {
+      "id": "24",
+      "g": "2",
+      "w": "entraba",
+      "t": "входить (он/она; entrar)",
+      "e": "Él entraba en la tienda cada mañana.",
+      "p": "Он заходил в магазин каждое утро."
+    },
+    {
+      "id": "25",
+      "g": "1",
+      "w": "molestaba",
+      "t": "мешать, беспокоить (я; molestar)",
+      "e": "Molestaba a mi hermano cuando era pequeño.",
+      "p": "В детстве я мешал брату."
+    },
+    {
+      "id": "26",
+      "g": "2",
+      "w": "molestaba",
+      "t": "мешать, беспокоить (он/она; molestar)",
+      "e": "El ruido la molestaba cuando estudiaba.",
+      "p": "Шум мешал ей, когда она училась."
+    },
+    {
+      "id": "27",
+      "g": "1",
+      "w": "mordía",
+      "t": "кусать (я; morder)",
+      "e": "De niño mordía los lápices.",
+      "p": "В детстве я грыз карандаши."
+    },
+    {
+      "id": "28",
+      "g": "2",
+      "w": "mordía",
+      "t": "кусать (он/она; morder)",
+      "e": "El perro mordía sus juguetes.",
+      "p": "Собака кусала свои игрушки."
+    },
+    {
+      "id": "29",
+      "g": "1",
+      "w": "dormía",
+      "t": "спать (я; dormir)",
+      "e": "Dormía ocho horas cada noche.",
+      "p": "Я спал по восемь часов каждую ночь."
+    },
+    {
+      "id": "30",
+      "g": "2",
+      "w": "dormía",
+      "t": "спать (он/она; dormir)",
+      "e": "Ella dormía en el sillón a veces.",
+      "p": "Она иногда спала в кресле."
+    },
+    {
+      "id": "31",
+      "g": "1",
+      "w": "volvía",
+      "t": "возвращаться (я; volver)",
+      "e": "Volvía a casa en autobús.",
+      "p": "Я возвращался домой на автобусе."
+    },
+    {
+      "id": "32",
+      "g": "2",
+      "w": "volvía",
+      "t": "возвращаться (он/она; volver)",
+      "e": "Él volvía del trabajo a las seis.",
+      "p": "Он возвращался с работы в шесть."
+    },
+    {
+      "id": "33",
+      "g": "1",
+      "w": "escuchaba",
+      "t": "слушать, услышать (я; escuchar)",
+      "e": "Escuchaba música antes de dormir.",
+      "p": "Я слушал музыку перед сном."
+    },
+    {
+      "id": "34",
+      "g": "2",
+      "w": "escuchaba",
+      "t": "слушать, услышать (он/она; escuchar)",
+      "e": "Ella escuchaba el despertador cada mañana.",
+      "p": "Она слышала будильник каждое утро."
+    },
+    {
+      "id": "35",
+      "g": "1",
+      "w": "apagaba",
+      "t": "выключать (я; apagar)",
+      "e": "Apagaba la luz antes de acostarme.",
+      "p": "Я выключал свет перед сном."
+    },
+    {
+      "id": "36",
+      "g": "2",
+      "w": "apagaba",
+      "t": "выключать (он/она; apagar)",
+      "e": "Él apagaba el despertador y seguía durmiendo.",
+      "p": "Он выключал будильник и продолжал спать."
+    },
+    {
+      "id": "37",
+      "g": "1",
+      "w": "había",
+      "t": "вспомогательный глагол (я; haber)",
+      "e": "Ya había terminado cuando llamaste.",
+      "p": "Я уже закончил, когда ты позвонил."
+    },
+    {
+      "id": "38",
+      "g": "2",
+      "w": "había",
+      "t": "вспомогательный глагол (он/она; haber)",
+      "e": "Ella había salido cuando llegué.",
+      "p": "Она уже ушла, когда я пришёл."
+    },
+    {
+      "id": "39",
+      "g": "1",
+      "w": "vivía",
+      "t": "жить (я; vivir)",
+      "e": "Vivía cerca del mar.",
+      "p": "Я жил рядом с морем."
+    },
+    {
+      "id": "40",
+      "g": "2",
+      "w": "vivía",
+      "t": "жить (он/она; vivir)",
+      "e": "Él vivía en un pueblo pequeño.",
+      "p": "Он жил в маленькой деревне."
+    },
+    {
+      "id": "41",
+      "g": "1",
+      "w": "ponía",
+      "t": "класть, ставить (я; poner)",
+      "e": "Ponía la mesa antes de cenar.",
+      "p": "Я накрывал на стол перед ужином."
+    },
+    {
+      "id": "42",
+      "g": "2",
+      "w": "ponía",
+      "t": "класть, ставить (он/она; poner)",
+      "e": "Ella ponía los libros en la estantería.",
+      "p": "Она ставила книги на полку."
+    },
+    {
+      "id": "43",
+      "g": "1",
+      "w": "me acostaba",
+      "t": "ложиться (я; acostarse)",
+      "e": "Me acostaba a las diez.",
+      "p": "Я ложился в десять."
+    },
+    {
+      "id": "44",
+      "g": "2",
+      "w": "se acostaba",
+      "t": "ложиться (он/она; acostarse)",
+      "e": "Él se acostaba temprano los lunes.",
+      "p": "Он ложился рано по понедельникам."
+    },
+    {
+      "id": "45",
+      "g": "1",
+      "w": "me molestaba",
+      "t": "сердиться (я; molestarse)",
+      "e": "Me molestaba cuando había mucho ruido.",
+      "p": "Я сердился, когда было очень шумно."
+    },
+    {
+      "id": "46",
+      "g": "2",
+      "w": "se molestaba",
+      "t": "сердиться (он/она; molestarse)",
+      "e": "Ella se molestaba cuando llegaban tarde.",
+      "p": "Она сердилась, когда они опаздывали."
+    },
+    {
+      "id": "47",
+      "g": "1",
+      "w": "me levantaba",
+      "t": "вставать (я; levantarse)",
+      "e": "Me levantaba a las siete.",
+      "p": "Я вставал в семь."
+    },
+    {
+      "id": "48",
+      "g": "2",
+      "w": "se levantaba",
+      "t": "вставать (он/она; levantarse)",
+      "e": "Él se levantaba antes del amanecer.",
+      "p": "Он вставал до рассвета."
+    },
+    {
+      "id": "49",
+      "g": "1",
+      "w": "me dormía",
+      "t": "засыпать (я; dormirse)",
+      "e": "Me dormía mientras leía.",
+      "p": "Я засыпал во время чтения."
+    },
+    {
+      "id": "50",
+      "g": "2",
+      "w": "se dormía",
+      "t": "засыпать (он/она; dormirse)",
+      "e": "Ella se dormía en el sofá.",
+      "p": "Она засыпала на диване."
+    },
+    {
+      "id": "51",
+      "g": "1",
+      "w": "me despertaba",
+      "t": "просыпаться (я; despertarse)",
+      "e": "Me despertaba con el despertador.",
+      "p": "Я просыпался от будильника."
+    },
+    {
+      "id": "52",
+      "g": "2",
+      "w": "se despertaba",
+      "t": "просыпаться (он/она; despertarse)",
+      "e": "Él se despertaba muy temprano.",
+      "p": "Он просыпался очень рано."
+    },
+    {
+      "id": "53",
+      "g": "1",
+      "w": "veía",
+      "t": "видеть, смотреть (я; ver)",
+      "e": "Veía el mar desde mi ventana.",
+      "p": "Я видел море из своего окна."
+    },
+    {
+      "id": "54",
+      "g": "2",
+      "w": "veía",
+      "t": "видеть, смотреть (он/она; ver)",
+      "e": "Ella veía películas los viernes.",
+      "p": "Она смотрела фильмы по пятницам."
+    },
+    {
+      "id": "55",
+      "g": "1",
+      "w": "me organizaba",
+      "t": "собираться, организовываться (я; organizarse)",
+      "e": "Me organizaba muy rápido por las mañanas.",
+      "p": "Я очень быстро собирался по утрам."
+    },
+    {
+      "id": "56",
+      "g": "2",
+      "w": "se organizaba",
+      "t": "собираться, организовываться (он/она; organizarse)",
+      "e": "Él se organizaba bien antes de viajar.",
+      "p": "Он хорошо организовывался перед поездками."
+    },
+    {
+      "id": "57",
+      "g": "1",
+      "w": "tenía",
+      "t": "иметь (я; tener)",
+      "e": "Tenía un gato gris.",
+      "p": "У меня был серый кот."
+    },
+    {
+      "id": "58",
+      "g": "2",
+      "w": "tenía",
+      "t": "иметь (он/она; tener)",
+      "e": "Ella tenía hambre después de nadar.",
+      "p": "Она была голодна после плавания."
+    },
+    {
+      "id": "59",
+      "g": "1",
+      "w": "gritaba",
+      "t": "кричать (я; gritar)",
+      "e": "Gritaba cuando me asustaba.",
+      "p": "Я кричал, когда пугался."
+    },
+    {
+      "id": "60",
+      "g": "2",
+      "w": "gritaba",
+      "t": "кричать (он/она; gritar)",
+      "e": "Él gritaba durante los partidos.",
+      "p": "Он кричал во время матчей."
+    },
+    {
+      "id": "61",
+      "g": "1",
+      "w": "lloraba",
+      "t": "плакать (я; llorar)",
+      "e": "Lloraba cuando estaba triste.",
+      "p": "Я плакал, когда мне было грустно."
+    },
+    {
+      "id": "62",
+      "g": "2",
+      "w": "lloraba",
+      "t": "плакать (он/она; llorar)",
+      "e": "Ella lloraba al ver esa película.",
+      "p": "Она плакала, когда смотрела тот фильм."
+    },
+    {
+      "id": "63",
+      "g": "1",
+      "w": "maullaba",
+      "t": "мяукать (я; maullar)",
+      "e": "De niño maullaba para imitar a mi gato.",
+      "p": "В детстве я мяукал, подражая своему коту."
+    },
+    {
+      "id": "64",
+      "g": "2",
+      "w": "maullaba",
+      "t": "мяукать (он/она; maullar)",
+      "e": "El gato maullaba cuando tenía hambre.",
+      "p": "Кот мяукал, когда хотел есть."
+    },
+    {
+      "id": "65",
+      "g": "1",
+      "w": "llevaba",
+      "t": "нести, приносить (я; llevar)",
+      "e": "Llevaba una mochila al colegio.",
+      "p": "Я носил рюкзак в школу."
+    },
+    {
+      "id": "66",
+      "g": "2",
+      "w": "llevaba",
+      "t": "нести, приносить (он/она; llevar)",
+      "e": "Ella llevaba comida a su abuela.",
+      "p": "Она приносила еду бабушке."
+    },
+    {
+      "id": "67",
+      "g": "1",
+      "w": "me callaba",
+      "t": "замолчать (я; callarse)",
+      "e": "Me callaba cuando empezaba la película.",
+      "p": "Я замолкал, когда начинался фильм."
+    },
+    {
+      "id": "68",
+      "g": "2",
+      "w": "se callaba",
+      "t": "замолчать (он/она; callarse)",
+      "e": "Él se callaba al entrar el profesor.",
+      "p": "Он замолкал, когда входил учитель."
+    },
+    {
+      "id": "69",
+      "g": "1",
+      "w": "me iba",
+      "t": "уходить (я; irse)",
+      "e": "Me iba a jugar después de comer.",
+      "p": "Я уходил играть после еды."
+    },
+    {
+      "id": "70",
+      "g": "2",
+      "w": "se iba",
+      "t": "уходить (он/она; irse)",
+      "e": "Ella se iba a casa a las cinco.",
+      "p": "Она уходила домой в пять."
+    },
+    {
+      "id": "71",
+      "g": "1",
+      "w": "preparaba",
+      "t": "готовить (я; preparar)",
+      "e": "Preparaba la cena todas las noches.",
+      "p": "Я готовил ужин каждый вечер."
+    },
+    {
+      "id": "72",
+      "g": "2",
+      "w": "preparaba",
+      "t": "готовить (он/она; preparar)",
+      "e": "Ella preparaba la fiesta de Navidad.",
+      "p": "Она готовила рождественский праздник."
+    },
+    {
+      "id": "73",
+      "g": "1",
+      "w": "lavaba",
+      "t": "мыть, стирать (я; lavar)",
+      "e": "Lavaba la ropa los sábados.",
+      "p": "Я стирал одежду по субботам."
+    },
+    {
+      "id": "74",
+      "g": "2",
+      "w": "lavaba",
+      "t": "мыть, стирать (он/она; lavar)",
+      "e": "Él lavaba los platos después de cenar.",
+      "p": "Он мыл посуду после ужина."
+    },
+    {
+      "id": "75",
+      "g": "1",
+      "w": "limpiaba",
+      "t": "чистить, убирать (я; limpiar)",
+      "e": "Limpiaba las ventanas en primavera.",
+      "p": "Я мыл окна весной."
+    },
+    {
+      "id": "76",
+      "g": "2",
+      "w": "limpiaba",
+      "t": "чистить, убирать (он/она; limpiar)",
+      "e": "Ella limpiaba el piso cada semana.",
+      "p": "Она мыла пол каждую неделю."
+    },
+    {
+      "id": "77",
+      "g": "1",
+      "w": "planchaba",
+      "t": "гладить (я; planchar)",
+      "e": "Planchaba las camisas los domingos.",
+      "p": "Я гладил рубашки по воскресеньям."
+    },
+    {
+      "id": "78",
+      "g": "2",
+      "w": "planchaba",
+      "t": "гладить (он/она; planchar)",
+      "e": "Él planchaba su ropa por la noche.",
+      "p": "Он гладил одежду по вечерам."
+    },
+    {
+      "id": "79",
+      "g": "1",
+      "w": "hacía",
+      "t": "делать (я; hacer)",
+      "e": "Hacía los deberes después de clase.",
+      "p": "Я делал домашние задания после уроков."
+    },
+    {
+      "id": "80",
+      "g": "2",
+      "w": "hacía",
+      "t": "делать (он/она; hacer)",
+      "e": "Ella hacía decoraciones para Navidad.",
+      "p": "Она делала украшения к Рождеству."
+    },
+    {
+      "id": "81",
+      "g": "1",
+      "w": "compraba",
+      "t": "покупать (я; comprar)",
+      "e": "Compraba regalos para toda la familia.",
+      "p": "Я покупал подарки для всей семьи."
+    },
+    {
+      "id": "82",
+      "g": "2",
+      "w": "compraba",
+      "t": "покупать (он/она; comprar)",
+      "e": "Él compraba pan cada mañana.",
+      "p": "Он покупал хлеб каждое утро."
+    },
+    {
+      "id": "83",
+      "g": "1",
+      "w": "empacaba",
+      "t": "упаковывать (я; empacar)",
+      "e": "Empacaba los regalos con cuidado.",
+      "p": "Я аккуратно упаковывал подарки."
+    },
+    {
+      "id": "84",
+      "g": "2",
+      "w": "empacaba",
+      "t": "упаковывать (он/она; empacar)",
+      "e": "Ella empacaba su maleta antes de viajar.",
+      "p": "Она собирала чемодан перед поездкой."
+    },
+    {
+      "id": "85",
+      "g": "1",
+      "w": "decoraba",
+      "t": "украшать (я; decorar)",
+      "e": "Decoraba el árbol de Navidad con mi familia.",
+      "p": "Я украшал ёлку вместе с семьёй."
+    },
+    {
+      "id": "86",
+      "g": "2",
+      "w": "decoraba",
+      "t": "украшать (он/она; decorar)",
+      "e": "Él decoraba la casa en diciembre.",
+      "p": "Он украшал дом в декабре."
+    },
+    {
+      "id": "87",
+      "g": "1",
+      "w": "celebraba",
+      "t": "праздновать (я; celebrar)",
+      "e": "Celebraba mi cumpleaños en casa.",
+      "p": "Я праздновал день рождения дома."
+    },
+    {
+      "id": "88",
+      "g": "2",
+      "w": "celebraba",
+      "t": "праздновать (он/она; celebrar)",
+      "e": "Ella celebraba la Navidad con sus padres.",
+      "p": "Она праздновала Рождество с родителями."
+    },
+    {
+      "id": "89",
+      "g": "1",
+      "w": "jugaba",
+      "t": "играть (я; jugar)",
+      "e": "Jugaba en mi habitación.",
+      "p": "Я играл в своей комнате."
+    },
+    {
+      "id": "90",
+      "g": "2",
+      "w": "jugaba",
+      "t": "играть (он/она; jugar)",
+      "e": "Él jugaba con su gato.",
+      "p": "Он играл со своим котом."
+    },
+    {
+      "id": "91",
+      "g": "1",
+      "w": "mandaba",
+      "t": "посылать, приказывать (я; mandar)",
+      "e": "Mandaba mensajes a mis amigos.",
+      "p": "Я отправлял сообщения друзьям."
+    },
+    {
+      "id": "92",
+      "g": "2",
+      "w": "mandaba",
+      "t": "посылать, приказывать (он/она; mandar)",
+      "e": "Ella mandaba al niño a dormir temprano.",
+      "p": "Она отправляла мальчика спать рано."
+    },
+    {
+      "id": "93",
+      "g": "1",
+      "w": "me ponía",
+      "t": "начинать, приниматься (я; ponerse)",
+      "e": "Me ponía a leer antes de dormir.",
+      "p": "Я принимался читать перед сном."
+    },
+    {
+      "id": "94",
+      "g": "2",
+      "w": "se ponía",
+      "t": "начинать, приниматься (он/она; ponerse)",
+      "e": "Él se ponía a llorar cuando tenía sueño.",
+      "p": "Он начинал плакать, когда хотел спать."
+    },
+    {
+      "id": "95",
+      "g": "1",
+      "w": "leía",
+      "t": "читать (я; leer)",
+      "e": "Leía cuentos por la noche.",
+      "p": "Я читал сказки по вечерам."
+    },
+    {
+      "id": "96",
+      "g": "2",
+      "w": "leía",
+      "t": "читать (он/она; leer)",
+      "e": "Ella leía un libro en el jardín.",
+      "p": "Она читала книгу в саду."
+    },
+    {
+      "id": "97",
+      "g": "1",
+      "w": "contaba",
+      "t": "рассказывать, считать (я; contar)",
+      "e": "Contaba historias a mis amigos.",
+      "p": "Я рассказывал истории друзьям."
+    },
+    {
+      "id": "98",
+      "g": "2",
+      "w": "contaba",
+      "t": "рассказывать, считать (он/она; contar)",
+      "e": "Él contaba una historia a su hijo.",
+      "p": "Он рассказывал историю своему сыну."
+    },
+    {
+      "id": "99",
+      "g": "1",
+      "w": "paseaba",
+      "t": "гулять (я; pasear)",
+      "e": "Paseaba por la calle después de cenar.",
+      "p": "Я гулял по улице после ужина."
+    },
+    {
+      "id": "100",
+      "g": "2",
+      "w": "paseaba",
+      "t": "гулять (он/она; pasear)",
+      "e": "Ella paseaba cerca del mar.",
+      "p": "Она гуляла у моря."
+    },
+    {
+      "id": "101",
+      "g": "1",
+      "w": "encontraba",
+      "t": "находить (я; encontrar)",
+      "e": "Encontraba manzanas en el jardín.",
+      "p": "Я находил яблоки в саду."
+    },
+    {
+      "id": "102",
+      "g": "2",
+      "w": "encontraba",
+      "t": "находить (он/она; encontrar)",
+      "e": "Él encontraba monedas en la calle.",
+      "p": "Он находил монеты на улице."
+    },
+    {
+      "id": "103",
+      "g": "1",
+      "w": "me metía",
+      "t": "залезать, забираться (я; meterse)",
+      "e": "Me metía en el jardín por un agujero.",
+      "p": "Я залезал в сад через дырку."
+    },
+    {
+      "id": "104",
+      "g": "2",
+      "w": "se metía",
+      "t": "залезать, забираться (он/она; meterse)",
+      "e": "El gato se metía en la caja.",
+      "p": "Кот залезал в коробку."
+    },
+    {
+      "id": "105",
+      "g": "1",
+      "w": "recogía",
+      "t": "собирать, подбирать (я; recoger)",
+      "e": "Recogía manzanas en otoño.",
+      "p": "Я собирал яблоки осенью."
+    },
+    {
+      "id": "106",
+      "g": "2",
+      "w": "recogía",
+      "t": "собирать, подбирать (он/она; recoger)",
+      "e": "Ella recogía flores en el campo.",
+      "p": "Она собирала цветы в поле."
+    },
+    {
+      "id": "107",
+      "g": "1",
+      "w": "metía",
+      "t": "класть внутрь, засовывать (я; meter)",
+      "e": "Metía los libros en la mochila.",
+      "p": "Я складывал книги в рюкзак."
+    },
+    {
+      "id": "108",
+      "g": "2",
+      "w": "metía",
+      "t": "класть внутрь, засовывать (он/она; meter)",
+      "e": "Él metía las manzanas en su camisa.",
+      "p": "Он засовывал яблоки в рубашку."
+    },
+    {
+      "id": "109",
+      "g": "1",
+      "w": "podía",
+      "t": "мочь (я; poder)",
+      "e": "No podía salir por el agujero.",
+      "p": "Я не мог выбраться через дырку."
+    },
+    {
+      "id": "110",
+      "g": "2",
+      "w": "podía",
+      "t": "мочь (он/она; poder)",
+      "e": "Ella podía nadar muy bien.",
+      "p": "Она умела очень хорошо плавать."
+    },
+    {
+      "id": "111",
+      "g": "1",
+      "w": "cambiaba",
+      "t": "менять (я; cambiar)",
+      "e": "Cambiaba de ropa después del trabajo.",
+      "p": "Я переодевался после работы."
+    },
+    {
+      "id": "112",
+      "g": "2",
+      "w": "cambiaba",
+      "t": "менять (он/она; cambiar)",
+      "e": "Él cambiaba los muebles cada año.",
+      "p": "Он менял мебель каждый год."
+    },
+    {
+      "id": "113",
+      "g": "1",
+      "w": "traía",
+      "t": "приносить, привозить (я; traer)",
+      "e": "Traía pescado para el gato.",
+      "p": "Я приносил рыбу коту."
+    },
+    {
+      "id": "114",
+      "g": "2",
+      "w": "traía",
+      "t": "приносить, привозить (он/она; traer)",
+      "e": "Ella traía regalos de sus viajes.",
+      "p": "Она привозила подарки из поездок."
+    },
+    {
+      "id": "115",
+      "g": "1",
+      "w": "botaba",
+      "t": "выбрасывать, выгонять (я; botar)",
+      "e": "Botaba los papeles viejos.",
+      "p": "Я выбрасывал старые бумаги."
+    },
+    {
+      "id": "116",
+      "g": "2",
+      "w": "botaba",
+      "t": "выбрасывать, выгонять (он/она; botar)",
+      "e": "Él botaba las cosas que no necesitaba.",
+      "p": "Он выбрасывал вещи, которые ему были не нужны."
+    }
+  ]
+}
