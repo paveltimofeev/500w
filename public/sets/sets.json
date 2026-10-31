@@ -11,6 +11,16 @@
       "pic": "https://images.unsplash.com/photo-1533854257392-71c5ff28dff7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHNwYWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
     },
     {
+      "name": "Pretérito Imperfecto (Yo/El)",
+      "path": "preterito_imperfecto_yo_el_ella",
+      "pic": "https://images.unsplash.com/photo-1533854257392-71c5ff28dff7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHNwYWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Pretérito Indefinido (Yo/El)",
+      "path": "preterito_indefinido_yo_el_ella",
+      "pic": "https://images.unsplash.com/photo-1533854257392-71c5ff28dff7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHNwYWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
       "name": "Online покупки",
       "path": "online-shopping",
       "pic": "https://images.unsplash.com/photo-1441015401724-70d16b783f5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzZ8fG9ubGluZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
