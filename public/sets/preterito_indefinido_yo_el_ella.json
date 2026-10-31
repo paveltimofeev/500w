@@ -1,0 +1,934 @@
+{
+  "alg": "alg5",
+  "name": "Pretérito Indefinido — yo и él/ella",
+  "cards": [
+    {
+      "id": "1",
+      "g": "1",
+      "w": "fui",
+      "t": "быть (я; ser)",
+      "e": "Fui estudiante en Madrid.",
+      "p": "Я был студентом в Мадриде."
+    },
+    {
+      "id": "2",
+      "g": "2",
+      "w": "fue",
+      "t": "быть (он/она; ser)",
+      "e": "Ella fue profesora durante años.",
+      "p": "Она много лет была преподавателем."
+    },
+    {
+      "id": "3",
+      "g": "1",
+      "w": "estuve",
+      "t": "быть, находиться (я; estar)",
+      "e": "Estuve en casa ayer.",
+      "p": "Вчера я был дома."
+    },
+    {
+      "id": "4",
+      "g": "2",
+      "w": "estuvo",
+      "t": "быть, находиться (он/она; estar)",
+      "e": "Ella estuvo en casa ayer.",
+      "p": "Вчера она была дома."
+    },
+    {
+      "id": "5",
+      "g": "1",
+      "w": "comí",
+      "t": "есть (я; comer)",
+      "e": "Comí una manzana.",
+      "p": "Я съел яблоко."
+    },
+    {
+      "id": "6",
+      "g": "2",
+      "w": "comió",
+      "t": "есть (он/она; comer)",
+      "e": "Ella comió una manzana.",
+      "p": "Она съела яблоко."
+    },
+    {
+      "id": "7",
+      "g": "1",
+      "w": "bebí",
+      "t": "пить (я; beber)",
+      "e": "Bebí agua después de correr.",
+      "p": "Я выпил воды после пробежки."
+    },
+    {
+      "id": "8",
+      "g": "2",
+      "w": "bebió",
+      "t": "пить (он/она; beber)",
+      "e": "Ella bebió agua después de correr.",
+      "p": "Она выпила воды после пробежки."
+    },
+    {
+      "id": "9",
+      "g": "1",
+      "w": "esperé",
+      "t": "ждать, надеяться (я; esperar)",
+      "e": "Esperé el autobús diez minutos.",
+      "p": "Я ждал автобус десять минут."
+    },
+    {
+      "id": "10",
+      "g": "2",
+      "w": "esperó",
+      "t": "ждать, надеяться (он/она; esperar)",
+      "e": "Ella esperó el autobús diez minutos.",
+      "p": "Она ждала автобус десять минут."
+    },
+    {
+      "id": "11",
+      "g": "1",
+      "w": "quise",
+      "t": "хотеть (я; querer)",
+      "e": "Quise ayudar a mi amigo.",
+      "p": "Я захотел помочь другу."
+    },
+    {
+      "id": "12",
+      "g": "2",
+      "w": "quiso",
+      "t": "хотеть (он/она; querer)",
+      "e": "Ella quiso ayudar a su amigo.",
+      "p": "Она захотела помочь другу."
+    },
+    {
+      "id": "13",
+      "g": "1",
+      "w": "tomé",
+      "t": "брать, принимать (я; tomar)",
+      "e": "Tomé un café por la mañana.",
+      "p": "Утром я выпил кофе."
+    },
+    {
+      "id": "14",
+      "g": "2",
+      "w": "tomó",
+      "t": "брать, принимать (он/она; tomar)",
+      "e": "Ella tomó un café por la mañana.",
+      "p": "Утром она выпила кофе."
+    },
+    {
+      "id": "15",
+      "g": "1",
+      "w": "salí",
+      "t": "выходить, уходить (я; salir)",
+      "e": "Salí de casa temprano.",
+      "p": "Я вышел из дома рано."
+    },
+    {
+      "id": "16",
+      "g": "2",
+      "w": "salió",
+      "t": "выходить, уходить (он/она; salir)",
+      "e": "Ella salió de casa temprano.",
+      "p": "Она вышла из дома рано."
+    },
+    {
+      "id": "17",
+      "g": "1",
+      "w": "hablé",
+      "t": "говорить (я; hablar)",
+      "e": "Hablé con mi jefe.",
+      "p": "Я поговорил со своим начальником."
+    },
+    {
+      "id": "18",
+      "g": "2",
+      "w": "habló",
+      "t": "говорить (он/она; hablar)",
+      "e": "Ella habló con su jefe.",
+      "p": "Она поговорила со своим начальником."
+    },
+    {
+      "id": "19",
+      "g": "1",
+      "w": "pregunté",
+      "t": "спрашивать (я; preguntar)",
+      "e": "Pregunté por el precio.",
+      "p": "Я спросил о цене."
+    },
+    {
+      "id": "20",
+      "g": "2",
+      "w": "preguntó",
+      "t": "спрашивать (он/она; preguntar)",
+      "e": "Ella preguntó por el precio.",
+      "p": "Она спросила о цене."
+    },
+    {
+      "id": "21",
+      "g": "1",
+      "w": "llegué",
+      "t": "приходить, прибывать (я; llegar)",
+      "e": "Llegué a la estación a las ocho.",
+      "p": "Я приехал на вокзал в восемь."
+    },
+    {
+      "id": "22",
+      "g": "2",
+      "w": "llegó",
+      "t": "приходить, прибывать (он/она; llegar)",
+      "e": "Ella llegó a la estación a las ocho.",
+      "p": "Она приехала на вокзал в восемь."
+    },
+    {
+      "id": "23",
+      "g": "1",
+      "w": "entré",
+      "t": "входить (я; entrar)",
+      "e": "Entré en la habitación.",
+      "p": "Я вошёл в комнату."
+    },
+    {
+      "id": "24",
+      "g": "2",
+      "w": "entró",
+      "t": "входить (он/она; entrar)",
+      "e": "Ella entró en la habitación.",
+      "p": "Она вошла в комнату."
+    },
+    {
+      "id": "25",
+      "g": "1",
+      "w": "molesté",
+      "t": "мешать, беспокоить (я; molestar)",
+      "e": "Molesté a mi hermano sin querer.",
+      "p": "Я нечаянно побеспокоил брата."
+    },
+    {
+      "id": "26",
+      "g": "2",
+      "w": "molestó",
+      "t": "мешать, беспокоить (он/она; molestar)",
+      "e": "Ella molestó a su hermano sin querer.",
+      "p": "Она нечаянно побеспокоила брата."
+    },
+    {
+      "id": "27",
+      "g": "1",
+      "w": "mordí",
+      "t": "кусать (я; morder)",
+      "e": "Mordí una manzana.",
+      "p": "Я откусил кусочек яблока."
+    },
+    {
+      "id": "28",
+      "g": "2",
+      "w": "mordió",
+      "t": "кусать (он/она; morder)",
+      "e": "Ella mordió una manzana.",
+      "p": "Она откусила кусочек яблока."
+    },
+    {
+      "id": "29",
+      "g": "1",
+      "w": "dormí",
+      "t": "спать (я; dormir)",
+      "e": "Dormí ocho horas.",
+      "p": "Я спал восемь часов."
+    },
+    {
+      "id": "30",
+      "g": "2",
+      "w": "durmió",
+      "t": "спать (он/она; dormir)",
+      "e": "Ella durmió ocho horas.",
+      "p": "Она спала восемь часов."
+    },
+    {
+      "id": "31",
+      "g": "1",
+      "w": "volví",
+      "t": "возвращаться (я; volver)",
+      "e": "Volví a casa tarde.",
+      "p": "Я вернулся домой поздно."
+    },
+    {
+      "id": "32",
+      "g": "2",
+      "w": "volvió",
+      "t": "возвращаться (он/она; volver)",
+      "e": "Ella volvió a casa tarde.",
+      "p": "Она вернулась домой поздно."
+    },
+    {
+      "id": "33",
+      "g": "1",
+      "w": "escuché",
+      "t": "слушать, услышать (я; escuchar)",
+      "e": "Escuché el despertador.",
+      "p": "Я услышал будильник."
+    },
+    {
+      "id": "34",
+      "g": "2",
+      "w": "escuchó",
+      "t": "слушать, услышать (он/она; escuchar)",
+      "e": "Ella escuchó el despertador.",
+      "p": "Она услышала будильник."
+    },
+    {
+      "id": "35",
+      "g": "1",
+      "w": "apagué",
+      "t": "выключать (я; apagar)",
+      "e": "Apagué el despertador.",
+      "p": "Я выключил будильник."
+    },
+    {
+      "id": "36",
+      "g": "2",
+      "w": "apagó",
+      "t": "выключать (он/она; apagar)",
+      "e": "Ella apagó el despertador.",
+      "p": "Она выключила будильник."
+    },
+    {
+      "id": "37",
+      "g": "1",
+      "w": "hube",
+      "t": "вспомогательный глагол (я; haber)",
+      "e": "Apenas hube terminado, salí.",
+      "p": "Едва я закончил, я вышел."
+    },
+    {
+      "id": "38",
+      "g": "2",
+      "w": "hubo",
+      "t": "вспомогательный глагол (он/она; haber)",
+      "e": "Apenas hubo terminado, salió.",
+      "p": "Едва она закончила, она вышла."
+    },
+    {
+      "id": "39",
+      "g": "1",
+      "w": "viví",
+      "t": "жить (я; vivir)",
+      "e": "Viví cerca del mar.",
+      "p": "Я жил у моря."
+    },
+    {
+      "id": "40",
+      "g": "2",
+      "w": "vivió",
+      "t": "жить (он/она; vivir)",
+      "e": "Ella vivió cerca del mar.",
+      "p": "Она жила у моря."
+    },
+    {
+      "id": "41",
+      "g": "1",
+      "w": "puse",
+      "t": "класть, ставить (я; poner)",
+      "e": "Puse la mesa para cenar.",
+      "p": "Я накрыл на стол к ужину."
+    },
+    {
+      "id": "42",
+      "g": "2",
+      "w": "puso",
+      "t": "класть, ставить (он/она; poner)",
+      "e": "Ella puso la mesa para cenar.",
+      "p": "Она накрыла на стол к ужину."
+    },
+    {
+      "id": "43",
+      "g": "1",
+      "w": "me acosté",
+      "t": "ложиться (я; acostarse)",
+      "e": "Me acosté a las diez.",
+      "p": "Я лёг в десять."
+    },
+    {
+      "id": "44",
+      "g": "2",
+      "w": "se acostó",
+      "t": "ложиться (он/она; acostarse)",
+      "e": "Ella se acostó a las diez.",
+      "p": "Она легла в десять."
+    },
+    {
+      "id": "45",
+      "g": "1",
+      "w": "me molesté",
+      "t": "сердиться (я; molestarse)",
+      "e": "Me molesté por el ruido.",
+      "p": "Я рассердился из-за шума."
+    },
+    {
+      "id": "46",
+      "g": "2",
+      "w": "se molestó",
+      "t": "сердиться (он/она; molestarse)",
+      "e": "Ella se molestó por el ruido.",
+      "p": "Она рассердилась из-за шума."
+    },
+    {
+      "id": "47",
+      "g": "1",
+      "w": "me levanté",
+      "t": "вставать (я; levantarse)",
+      "e": "Me levanté de la cama.",
+      "p": "Я встал с кровати."
+    },
+    {
+      "id": "48",
+      "g": "2",
+      "w": "se levantó",
+      "t": "вставать (он/она; levantarse)",
+      "e": "Ella se levantó de la cama.",
+      "p": "Она встала с кровати."
+    },
+    {
+      "id": "49",
+      "g": "1",
+      "w": "me dormí",
+      "t": "засыпать (я; dormirse)",
+      "e": "Me dormí otra vez.",
+      "p": "Я снова заснул."
+    },
+    {
+      "id": "50",
+      "g": "2",
+      "w": "se durmió",
+      "t": "засыпать (он/она; dormirse)",
+      "e": "Ella se durmió otra vez.",
+      "p": "Она снова заснула."
+    },
+    {
+      "id": "51",
+      "g": "1",
+      "w": "me desperté",
+      "t": "просыпаться (я; despertarse)",
+      "e": "Me desperté a las siete.",
+      "p": "Я проснулся в семь."
+    },
+    {
+      "id": "52",
+      "g": "2",
+      "w": "se despertó",
+      "t": "просыпаться (он/она; despertarse)",
+      "e": "Ella se despertó a las siete.",
+      "p": "Она проснулась в семь."
+    },
+    {
+      "id": "53",
+      "g": "1",
+      "w": "vi",
+      "t": "видеть, смотреть (я; ver)",
+      "e": "Vi la hora en el reloj.",
+      "p": "Я посмотрел время на часах."
+    },
+    {
+      "id": "54",
+      "g": "2",
+      "w": "vio",
+      "t": "видеть, смотреть (он/она; ver)",
+      "e": "Ella vio la hora en el reloj.",
+      "p": "Она посмотрела время на часах."
+    },
+    {
+      "id": "55",
+      "g": "1",
+      "w": "me organicé",
+      "t": "собираться, организовываться (я; organizarse)",
+      "e": "Me organicé muy rápido.",
+      "p": "Я очень быстро собрался."
+    },
+    {
+      "id": "56",
+      "g": "2",
+      "w": "se organizó",
+      "t": "собираться, организовываться (он/она; organizarse)",
+      "e": "Ella se organizó muy rápido.",
+      "p": "Она очень быстро собралась."
+    },
+    {
+      "id": "57",
+      "g": "1",
+      "w": "tuve",
+      "t": "иметь (я; tener)",
+      "e": "Tuve hambre después del paseo.",
+      "p": "Я проголодался после прогулки."
+    },
+    {
+      "id": "58",
+      "g": "2",
+      "w": "tuvo",
+      "t": "иметь (он/она; tener)",
+      "e": "Ella tuvo hambre después del paseo.",
+      "p": "Она проголодалась после прогулки."
+    },
+    {
+      "id": "59",
+      "g": "1",
+      "w": "grité",
+      "t": "кричать (я; gritar)",
+      "e": "Grité al ver al monstruo.",
+      "p": "Я закричал, увидев монстра."
+    },
+    {
+      "id": "60",
+      "g": "2",
+      "w": "gritó",
+      "t": "кричать (он/она; gritar)",
+      "e": "Ella gritó al ver al monstruo.",
+      "p": "Она закричала, увидев монстра."
+    },
+    {
+      "id": "61",
+      "g": "1",
+      "w": "lloré",
+      "t": "плакать (я; llorar)",
+      "e": "Lloré al escuchar la noticia.",
+      "p": "Я заплакал, услышав новость."
+    },
+    {
+      "id": "62",
+      "g": "2",
+      "w": "lloró",
+      "t": "плакать (он/она; llorar)",
+      "e": "Ella lloró al escuchar la noticia.",
+      "p": "Она заплакала, услышав новость."
+    },
+    {
+      "id": "63",
+      "g": "1",
+      "w": "maullé",
+      "t": "мяукать (я; maullar)",
+      "e": "Maullé como un gato en el juego.",
+      "p": "Я мяукнул как кот во время игры."
+    },
+    {
+      "id": "64",
+      "g": "2",
+      "w": "maulló",
+      "t": "мяукать (он/она; maullar)",
+      "e": "El gato maulló junto a la puerta.",
+      "p": "Кот мяукнул у двери."
+    },
+    {
+      "id": "65",
+      "g": "1",
+      "w": "llevé",
+      "t": "нести, приносить (я; llevar)",
+      "e": "Llevé un pescado al gato.",
+      "p": "Я принёс коту рыбу."
+    },
+    {
+      "id": "66",
+      "g": "2",
+      "w": "llevó",
+      "t": "нести, приносить (он/она; llevar)",
+      "e": "Ella llevó un pescado al gato.",
+      "p": "Она принесла коту рыбу."
+    },
+    {
+      "id": "67",
+      "g": "1",
+      "w": "me callé",
+      "t": "замолчать (я; callarse)",
+      "e": "Me callé cuando empezó la película.",
+      "p": "Я замолчал, когда начался фильм."
+    },
+    {
+      "id": "68",
+      "g": "2",
+      "w": "se calló",
+      "t": "замолчать (он/она; callarse)",
+      "e": "Ella se calló cuando empezó la película.",
+      "p": "Она замолчала, когда начался фильм."
+    },
+    {
+      "id": "69",
+      "g": "1",
+      "w": "me fui",
+      "t": "уходить (я; irse)",
+      "e": "Me fui a jugar.",
+      "p": "Я ушёл играть."
+    },
+    {
+      "id": "70",
+      "g": "2",
+      "w": "se fue",
+      "t": "уходить (он/она; irse)",
+      "e": "Ella se fue a jugar.",
+      "p": "Она ушла играть."
+    },
+    {
+      "id": "71",
+      "g": "1",
+      "w": "preparé",
+      "t": "готовить (я; preparar)",
+      "e": "Preparé la fiesta de Navidad.",
+      "p": "Я подготовил рождественский праздник."
+    },
+    {
+      "id": "72",
+      "g": "2",
+      "w": "preparó",
+      "t": "готовить (он/она; preparar)",
+      "e": "Ella preparó la fiesta de Navidad.",
+      "p": "Она подготовила рождественский праздник."
+    },
+    {
+      "id": "73",
+      "g": "1",
+      "w": "lavé",
+      "t": "мыть, стирать (я; lavar)",
+      "e": "Lavé la ropa por la mañana.",
+      "p": "Я постирал одежду утром."
+    },
+    {
+      "id": "74",
+      "g": "2",
+      "w": "lavó",
+      "t": "мыть, стирать (он/она; lavar)",
+      "e": "Ella lavó la ropa por la mañana.",
+      "p": "Она постирала одежду утром."
+    },
+    {
+      "id": "75",
+      "g": "1",
+      "w": "limpié",
+      "t": "чистить, убирать (я; limpiar)",
+      "e": "Limpié las ventanas.",
+      "p": "Я помыл окна."
+    },
+    {
+      "id": "76",
+      "g": "2",
+      "w": "limpió",
+      "t": "чистить, убирать (он/она; limpiar)",
+      "e": "Ella limpió las ventanas.",
+      "p": "Она помыла окна."
+    },
+    {
+      "id": "77",
+      "g": "1",
+      "w": "planché",
+      "t": "гладить (я; planchar)",
+      "e": "Planché la camisa.",
+      "p": "Я погладил рубашку."
+    },
+    {
+      "id": "78",
+      "g": "2",
+      "w": "planchó",
+      "t": "гладить (он/она; planchar)",
+      "e": "Ella planchó la camisa.",
+      "p": "Она погладила рубашку."
+    },
+    {
+      "id": "79",
+      "g": "1",
+      "w": "hice",
+      "t": "делать (я; hacer)",
+      "e": "Hice las decoraciones.",
+      "p": "Я сделал украшения."
+    },
+    {
+      "id": "80",
+      "g": "2",
+      "w": "hizo",
+      "t": "делать (он/она; hacer)",
+      "e": "Ella hizo las decoraciones.",
+      "p": "Она сделала украшения."
+    },
+    {
+      "id": "81",
+      "g": "1",
+      "w": "compré",
+      "t": "покупать (я; comprar)",
+      "e": "Compré regalos para todos.",
+      "p": "Я купил подарки для всех."
+    },
+    {
+      "id": "82",
+      "g": "2",
+      "w": "compró",
+      "t": "покупать (он/она; comprar)",
+      "e": "Ella compró regalos para todos.",
+      "p": "Она купила подарки для всех."
+    },
+    {
+      "id": "83",
+      "g": "1",
+      "w": "empaqué",
+      "t": "упаковывать (я; empacar)",
+      "e": "Empaqué los regalos.",
+      "p": "Я упаковал подарки."
+    },
+    {
+      "id": "84",
+      "g": "2",
+      "w": "empacó",
+      "t": "упаковывать (он/она; empacar)",
+      "e": "Ella empacó los regalos.",
+      "p": "Она упаковала подарки."
+    },
+    {
+      "id": "85",
+      "g": "1",
+      "w": "decoré",
+      "t": "украшать (я; decorar)",
+      "e": "Decoré el árbol de Navidad.",
+      "p": "Я украсил рождественскую ёлку."
+    },
+    {
+      "id": "86",
+      "g": "2",
+      "w": "decoró",
+      "t": "украшать (он/она; decorar)",
+      "e": "Ella decoró el árbol de Navidad.",
+      "p": "Она украсила рождественскую ёлку."
+    },
+    {
+      "id": "87",
+      "g": "1",
+      "w": "celebré",
+      "t": "праздновать (я; celebrar)",
+      "e": "Celebré la Navidad con mi familia.",
+      "p": "Я отпраздновал Рождество с семьёй."
+    },
+    {
+      "id": "88",
+      "g": "2",
+      "w": "celebró",
+      "t": "праздновать (он/она; celebrar)",
+      "e": "Ella celebró la Navidad con su familia.",
+      "p": "Она отпраздновала Рождество с семьёй."
+    },
+    {
+      "id": "89",
+      "g": "1",
+      "w": "jugué",
+      "t": "играть (я; jugar)",
+      "e": "Jugué en mi habitación.",
+      "p": "Я играл в своей комнате."
+    },
+    {
+      "id": "90",
+      "g": "2",
+      "w": "jugó",
+      "t": "играть (он/она; jugar)",
+      "e": "Ella jugó en su habitación.",
+      "p": "Она играла в своей комнате."
+    },
+    {
+      "id": "91",
+      "g": "1",
+      "w": "mandé",
+      "t": "посылать, приказывать (я; mandar)",
+      "e": "Mandé al niño a dormir.",
+      "p": "Я отправил мальчика спать."
+    },
+    {
+      "id": "92",
+      "g": "2",
+      "w": "mandó",
+      "t": "посылать, приказывать (он/она; mandar)",
+      "e": "Ella mandó al niño a dormir.",
+      "p": "Она отправила мальчика спать."
+    },
+    {
+      "id": "93",
+      "g": "1",
+      "w": "me puse",
+      "t": "начинать, приниматься (я; ponerse)",
+      "e": "Me puse a leer.",
+      "p": "Я принялся читать."
+    },
+    {
+      "id": "94",
+      "g": "2",
+      "w": "se puso",
+      "t": "начинать, приниматься (он/она; ponerse)",
+      "e": "Ella se puso a llorar.",
+      "p": "Она принялась плакать."
+    },
+    {
+      "id": "95",
+      "g": "1",
+      "w": "leí",
+      "t": "читать (я; leer)",
+      "e": "Leí un libro antes de dormir.",
+      "p": "Я прочитал книгу перед сном."
+    },
+    {
+      "id": "96",
+      "g": "2",
+      "w": "leyó",
+      "t": "читать (он/она; leer)",
+      "e": "Ella leyó un libro antes de dormir.",
+      "p": "Она прочитала книгу перед сном."
+    },
+    {
+      "id": "97",
+      "g": "1",
+      "w": "conté",
+      "t": "рассказывать, считать (я; contar)",
+      "e": "Conté una historia al niño.",
+      "p": "Я рассказал мальчику историю."
+    },
+    {
+      "id": "98",
+      "g": "2",
+      "w": "contó",
+      "t": "рассказывать, считать (он/она; contar)",
+      "e": "Ella contó una historia al niño.",
+      "p": "Она рассказала мальчику историю."
+    },
+    {
+      "id": "99",
+      "g": "1",
+      "w": "paseé",
+      "t": "гулять (я; pasear)",
+      "e": "Paseé por la calle.",
+      "p": "Я погулял по улице."
+    },
+    {
+      "id": "100",
+      "g": "2",
+      "w": "paseó",
+      "t": "гулять (он/она; pasear)",
+      "e": "Ella paseó por la calle.",
+      "p": "Она погуляла по улице."
+    },
+    {
+      "id": "101",
+      "g": "1",
+      "w": "encontré",
+      "t": "находить (я; encontrar)",
+      "e": "Encontré un hoyo en la cerca.",
+      "p": "Я нашёл дырку в заборе."
+    },
+    {
+      "id": "102",
+      "g": "2",
+      "w": "encontró",
+      "t": "находить (он/она; encontrar)",
+      "e": "Ella encontró un hoyo en la cerca.",
+      "p": "Она нашла дырку в заборе."
+    },
+    {
+      "id": "103",
+      "g": "1",
+      "w": "me metí",
+      "t": "залезать, забираться (я; meterse)",
+      "e": "Me metí en el jardín.",
+      "p": "Я залез в сад."
+    },
+    {
+      "id": "104",
+      "g": "2",
+      "w": "se metió",
+      "t": "залезать, забираться (он/она; meterse)",
+      "e": "Ella se metió en el jardín.",
+      "p": "Она залезла в сад."
+    },
+    {
+      "id": "105",
+      "g": "1",
+      "w": "recogí",
+      "t": "собирать, подбирать (я; recoger)",
+      "e": "Recogí las manzanas.",
+      "p": "Я собрал яблоки."
+    },
+    {
+      "id": "106",
+      "g": "2",
+      "w": "recogió",
+      "t": "собирать, подбирать (он/она; recoger)",
+      "e": "Ella recogió las manzanas.",
+      "p": "Она собрала яблоки."
+    },
+    {
+      "id": "107",
+      "g": "1",
+      "w": "metí",
+      "t": "класть внутрь, засовывать (я; meter)",
+      "e": "Metí las manzanas en mi camisa.",
+      "p": "Я засунул яблоки в рубашку."
+    },
+    {
+      "id": "108",
+      "g": "2",
+      "w": "metió",
+      "t": "класть внутрь, засовывать (он/она; meter)",
+      "e": "Ella metió las manzanas en su camisa.",
+      "p": "Она засунула яблоки в рубашку."
+    },
+    {
+      "id": "109",
+      "g": "1",
+      "w": "pude",
+      "t": "мочь (я; poder)",
+      "e": "No pude salir del jardín.",
+      "p": "Я не смог выбраться из сада."
+    },
+    {
+      "id": "110",
+      "g": "2",
+      "w": "pudo",
+      "t": "мочь (он/она; poder)",
+      "e": "Ella no pudo salir del jardín.",
+      "p": "Она не смогла выбраться из сада."
+    },
+    {
+      "id": "111",
+      "g": "1",
+      "w": "cambié",
+      "t": "менять (я; cambiar)",
+      "e": "Cambié todo en la oficina.",
+      "p": "Я поменял всё в офисе."
+    },
+    {
+      "id": "112",
+      "g": "2",
+      "w": "cambió",
+      "t": "менять (он/она; cambiar)",
+      "e": "Ella cambió todo en la oficina.",
+      "p": "Она поменяла всё в офисе."
+    },
+    {
+      "id": "113",
+      "g": "1",
+      "w": "traje",
+      "t": "приносить, привозить (я; traer)",
+      "e": "Traje una máquina de escribir nueva.",
+      "p": "Я принёс новую печатную машинку."
+    },
+    {
+      "id": "114",
+      "g": "2",
+      "w": "trajo",
+      "t": "приносить, привозить (он/она; traer)",
+      "e": "Ella trajo una máquina de escribir nueva.",
+      "p": "Она принесла новую печатную машинку."
+    },
+    {
+      "id": "115",
+      "g": "1",
+      "w": "boté",
+      "t": "выбрасывать, выгонять (я; botar)",
+      "e": "Boté la vieja máquina de escribir.",
+      "p": "Я выбросил старую печатную машинку."
+    },
+    {
+      "id": "116",
+      "g": "2",
+      "w": "botó",
+      "t": "выбрасывать, выгонять (он/она; botar)",
+      "e": "Ella botó la vieja máquina de escribir.",
+      "p": "Она выбросила старую печатную машинку."
+    }
+  ]
+}
