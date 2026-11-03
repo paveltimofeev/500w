@@ -1,0 +1,1398 @@
+{
+  "alg": "alg5",
+  "name": "Неправильные глаголы из 50 частотных — Presente (1), Pretérito Indefinido (2), Pretérito Imperfecto (3); yo и él",
+  "cards": [
+    {
+      "id": "1",
+      "g": "1",
+      "w": "yo soy",
+      "t": "я являюсь",
+      "e": "Yo soy médico.",
+      "p": "Я врач."
+    },
+    {
+      "id": "2",
+      "g": "1",
+      "w": "él es",
+      "t": "он является",
+      "e": "Él es médico.",
+      "p": "Он врач."
+    },
+    {
+      "id": "3",
+      "g": "2",
+      "w": "yo fui",
+      "t": "я был",
+      "e": "Yo fui profesor durante dos años.",
+      "p": "Я два года работал преподавателем."
+    },
+    {
+      "id": "4",
+      "g": "2",
+      "w": "él fue",
+      "t": "он был",
+      "e": "Él fue profesor durante dos años.",
+      "p": "Он два года работал преподавателем."
+    },
+    {
+      "id": "5",
+      "g": "3",
+      "w": "yo era",
+      "t": "я был",
+      "e": "Yo era muy tímido de niño.",
+      "p": "В детстве я был очень застенчивым."
+    },
+    {
+      "id": "6",
+      "g": "3",
+      "w": "él era",
+      "t": "он был",
+      "e": "Él era muy tímido de niño.",
+      "p": "В детстве он был очень застенчивым."
+    },
+    {
+      "id": "7",
+      "g": "1",
+      "w": "yo estoy",
+      "t": "я нахожусь",
+      "e": "Yo estoy en casa ahora.",
+      "p": "Я сейчас дома."
+    },
+    {
+      "id": "8",
+      "g": "1",
+      "w": "él está",
+      "t": "он находится",
+      "e": "Él está en casa ahora.",
+      "p": "Он сейчас дома."
+    },
+    {
+      "id": "9",
+      "g": "2",
+      "w": "yo estuve",
+      "t": "я находился",
+      "e": "Yo estuve en Granada ayer.",
+      "p": "Вчера я был в Гранаде."
+    },
+    {
+      "id": "10",
+      "g": "2",
+      "w": "él estuvo",
+      "t": "он находился",
+      "e": "Él estuvo en Granada ayer.",
+      "p": "Вчера он был в Гранаде."
+    },
+    {
+      "id": "11",
+      "g": "3",
+      "w": "yo estaba",
+      "t": "я находился",
+      "e": "Yo estaba en casa cuando empezó a llover.",
+      "p": "Я был дома, когда начался дождь."
+    },
+    {
+      "id": "12",
+      "g": "3",
+      "w": "él estaba",
+      "t": "он находился",
+      "e": "Él estaba en casa cuando empezó a llover.",
+      "p": "Он был дома, когда начался дождь."
+    },
+    {
+      "id": "13",
+      "g": "1",
+      "w": "yo he terminado",
+      "t": "я закончил (составная форма)",
+      "e": "Yo he terminado la tarea.",
+      "p": "Я закончил задание."
+    },
+    {
+      "id": "14",
+      "g": "1",
+      "w": "él ha terminado",
+      "t": "он закончил (составная форма)",
+      "e": "Él ha terminado la tarea.",
+      "p": "Он закончил задание."
+    },
+    {
+      "id": "15",
+      "g": "2",
+      "w": "yo hube terminado",
+      "t": "я закончил (книжная форма)",
+      "e": "Apenas hube terminado la tarea, salí.",
+      "p": "Как только я закончил задание, я ушёл."
+    },
+    {
+      "id": "16",
+      "g": "2",
+      "w": "él hubo terminado",
+      "t": "он закончил (книжная форма)",
+      "e": "Apenas hubo terminado la tarea, salió.",
+      "p": "Как только он закончил задание, он ушёл."
+    },
+    {
+      "id": "17",
+      "g": "3",
+      "w": "yo había terminado",
+      "t": "я уже закончил к тому моменту",
+      "e": "Yo había terminado antes de la cena.",
+      "p": "Я закончил ещё до ужина."
+    },
+    {
+      "id": "18",
+      "g": "3",
+      "w": "él había terminado",
+      "t": "он уже закончил к тому моменту",
+      "e": "Él había terminado antes de la cena.",
+      "p": "Он закончил ещё до ужина."
+    },
+    {
+      "id": "19",
+      "g": "1",
+      "w": "yo tengo",
+      "t": "у меня есть",
+      "e": "Yo tengo una bicicleta nueva.",
+      "p": "У меня есть новый велосипед."
+    },
+    {
+      "id": "20",
+      "g": "1",
+      "w": "él tiene",
+      "t": "у него есть",
+      "e": "Él tiene una bicicleta nueva.",
+      "p": "У него есть новый велосипед."
+    },
+    {
+      "id": "21",
+      "g": "2",
+      "w": "yo tuve",
+      "t": "у меня был",
+      "e": "Yo tuve una reunión importante ayer.",
+      "p": "Вчера у меня была важная встреча."
+    },
+    {
+      "id": "22",
+      "g": "2",
+      "w": "él tuvo",
+      "t": "у него был",
+      "e": "Él tuvo una reunión importante ayer.",
+      "p": "Вчера у него была важная встреча."
+    },
+    {
+      "id": "23",
+      "g": "3",
+      "w": "yo tenía",
+      "t": "у меня был",
+      "e": "Yo tenía mucho tiempo libre antes.",
+      "p": "Раньше у меня было много свободного времени."
+    },
+    {
+      "id": "24",
+      "g": "3",
+      "w": "él tenía",
+      "t": "у него был",
+      "e": "Él tenía mucho tiempo libre antes.",
+      "p": "Раньше у него было много свободного времени."
+    },
+    {
+      "id": "25",
+      "g": "1",
+      "w": "yo voy",
+      "t": "я иду / еду",
+      "e": "Yo voy al trabajo en autobús.",
+      "p": "Я езжу на работу на автобусе."
+    },
+    {
+      "id": "26",
+      "g": "1",
+      "w": "él va",
+      "t": "он идёт / едет",
+      "e": "Él va al trabajo en autobús.",
+      "p": "Он ездит на работу на автобусе."
+    },
+    {
+      "id": "27",
+      "g": "2",
+      "w": "yo fui",
+      "t": "я сходил / съездил",
+      "e": "Yo fui al médico ayer.",
+      "p": "Вчера я ходил к врачу."
+    },
+    {
+      "id": "28",
+      "g": "2",
+      "w": "él fue",
+      "t": "он сходил / съездил",
+      "e": "Él fue al médico ayer.",
+      "p": "Вчера он ходил к врачу."
+    },
+    {
+      "id": "29",
+      "g": "3",
+      "w": "yo iba",
+      "t": "я ходил / ездил",
+      "e": "Yo iba al parque todos los domingos.",
+      "p": "Я ходил в парк каждое воскресенье."
+    },
+    {
+      "id": "30",
+      "g": "3",
+      "w": "él iba",
+      "t": "он ходил / ездил",
+      "e": "Él iba al parque todos los domingos.",
+      "p": "Он ходил в парк каждое воскресенье."
+    },
+    {
+      "id": "31",
+      "g": "1",
+      "w": "yo puedo",
+      "t": "я могу",
+      "e": "Yo puedo hablar un poco de español.",
+      "p": "Я могу немного говорить по-испански."
+    },
+    {
+      "id": "32",
+      "g": "1",
+      "w": "él puede",
+      "t": "он может",
+      "e": "Él puede hablar un poco de español.",
+      "p": "Он может немного говорить по-испански."
+    },
+    {
+      "id": "33",
+      "g": "2",
+      "w": "yo pude",
+      "t": "я смог",
+      "e": "Yo pude terminar el informe ayer.",
+      "p": "Вчера я смог закончить отчёт."
+    },
+    {
+      "id": "34",
+      "g": "2",
+      "w": "él pudo",
+      "t": "он смог",
+      "e": "Él pudo terminar el informe ayer.",
+      "p": "Вчера он смог закончить отчёт."
+    },
+    {
+      "id": "35",
+      "g": "3",
+      "w": "yo podía",
+      "t": "я мог",
+      "e": "Yo podía correr muy rápido de joven.",
+      "p": "В молодости я мог очень быстро бегать."
+    },
+    {
+      "id": "36",
+      "g": "3",
+      "w": "él podía",
+      "t": "он мог",
+      "e": "Él podía correr muy rápido de joven.",
+      "p": "В молодости он мог очень быстро бегать."
+    },
+    {
+      "id": "37",
+      "g": "1",
+      "w": "yo hago",
+      "t": "я делаю",
+      "e": "Yo hago ejercicio por la mañana.",
+      "p": "Я делаю зарядку по утрам."
+    },
+    {
+      "id": "38",
+      "g": "1",
+      "w": "él hace",
+      "t": "он делает",
+      "e": "Él hace ejercicio por la mañana.",
+      "p": "Он делает зарядку по утрам."
+    },
+    {
+      "id": "39",
+      "g": "2",
+      "w": "yo hice",
+      "t": "я сделал",
+      "e": "Yo hice una tarta el sábado.",
+      "p": "В субботу я испёк торт."
+    },
+    {
+      "id": "40",
+      "g": "2",
+      "w": "él hizo",
+      "t": "он сделал",
+      "e": "Él hizo una tarta el sábado.",
+      "p": "В субботу он испёк торт."
+    },
+    {
+      "id": "41",
+      "g": "3",
+      "w": "yo hacía",
+      "t": "я делал",
+      "e": "Yo hacía los deberes después de clase.",
+      "p": "Я делал домашние задания после занятий."
+    },
+    {
+      "id": "42",
+      "g": "3",
+      "w": "él hacía",
+      "t": "он делал",
+      "e": "Él hacía los deberes después de clase.",
+      "p": "Он делал домашние задания после занятий."
+    },
+    {
+      "id": "43",
+      "g": "1",
+      "w": "yo digo",
+      "t": "я говорю",
+      "e": "Yo digo la verdad.",
+      "p": "Я говорю правду."
+    },
+    {
+      "id": "44",
+      "g": "1",
+      "w": "él dice",
+      "t": "он говорит",
+      "e": "Él dice la verdad.",
+      "p": "Он говорит правду."
+    },
+    {
+      "id": "45",
+      "g": "2",
+      "w": "yo dije",
+      "t": "я сказал",
+      "e": "Yo dije la verdad ayer.",
+      "p": "Вчера я сказал правду."
+    },
+    {
+      "id": "46",
+      "g": "2",
+      "w": "él dijo",
+      "t": "он сказал",
+      "e": "Él dijo la verdad ayer.",
+      "p": "Вчера он сказал правду."
+    },
+    {
+      "id": "47",
+      "g": "3",
+      "w": "yo decía",
+      "t": "я говорил",
+      "e": "Yo decía siempre lo mismo.",
+      "p": "Я всегда говорил одно и то же."
+    },
+    {
+      "id": "48",
+      "g": "3",
+      "w": "él decía",
+      "t": "он говорил",
+      "e": "Él decía siempre lo mismo.",
+      "p": "Он всегда говорил одно и то же."
+    },
+    {
+      "id": "49",
+      "g": "1",
+      "w": "yo sé",
+      "t": "я знаю",
+      "e": "Yo sé la respuesta.",
+      "p": "Я знаю ответ."
+    },
+    {
+      "id": "50",
+      "g": "1",
+      "w": "él sabe",
+      "t": "он знает",
+      "e": "Él sabe la respuesta.",
+      "p": "Он знает ответ."
+    },
+    {
+      "id": "51",
+      "g": "2",
+      "w": "yo supe",
+      "t": "я узнал",
+      "e": "Yo supe la noticia ayer.",
+      "p": "Вчера я узнал новость."
+    },
+    {
+      "id": "52",
+      "g": "2",
+      "w": "él supo",
+      "t": "он узнал",
+      "e": "Él supo la noticia ayer.",
+      "p": "Вчера он узнал новость."
+    },
+    {
+      "id": "53",
+      "g": "3",
+      "w": "yo sabía",
+      "t": "я знал",
+      "e": "Yo sabía la respuesta desde el principio.",
+      "p": "Я знал ответ с самого начала."
+    },
+    {
+      "id": "54",
+      "g": "3",
+      "w": "él sabía",
+      "t": "он знал",
+      "e": "Él sabía la respuesta desde el principio.",
+      "p": "Он знал ответ с самого начала."
+    },
+    {
+      "id": "55",
+      "g": "1",
+      "w": "yo quiero",
+      "t": "я хочу",
+      "e": "Yo quiero aprender español.",
+      "p": "Я хочу выучить испанский."
+    },
+    {
+      "id": "56",
+      "g": "1",
+      "w": "él quiere",
+      "t": "он хочет",
+      "e": "Él quiere aprender español.",
+      "p": "Он хочет выучить испанский."
+    },
+    {
+      "id": "57",
+      "g": "2",
+      "w": "yo quise",
+      "t": "я захотел / попытался",
+      "e": "Yo quise ayudar, pero no pude.",
+      "p": "Я хотел помочь, но не смог."
+    },
+    {
+      "id": "58",
+      "g": "2",
+      "w": "él quiso",
+      "t": "он захотел / попытался",
+      "e": "Él quiso ayudar, pero no pudo.",
+      "p": "Он хотел помочь, но не смог."
+    },
+    {
+      "id": "59",
+      "g": "3",
+      "w": "yo quería",
+      "t": "я хотел",
+      "e": "Yo quería viajar por España.",
+      "p": "Я хотел путешествовать по Испании."
+    },
+    {
+      "id": "60",
+      "g": "3",
+      "w": "él quería",
+      "t": "он хотел",
+      "e": "Él quería viajar por España.",
+      "p": "Он хотел путешествовать по Испании."
+    },
+    {
+      "id": "61",
+      "g": "1",
+      "w": "yo veo",
+      "t": "я вижу",
+      "e": "Yo veo las montañas desde mi ventana.",
+      "p": "Я вижу горы из своего окна."
+    },
+    {
+      "id": "62",
+      "g": "1",
+      "w": "él ve",
+      "t": "он видит",
+      "e": "Él ve las montañas desde su ventana.",
+      "p": "Он видит горы из своего окна."
+    },
+    {
+      "id": "63",
+      "g": "2",
+      "w": "yo vi",
+      "t": "я увидел",
+      "e": "Yo vi una película anoche.",
+      "p": "Вчера вечером я посмотрел фильм."
+    },
+    {
+      "id": "64",
+      "g": "2",
+      "w": "él vio",
+      "t": "он увидел",
+      "e": "Él vio una película anoche.",
+      "p": "Вчера вечером он посмотрел фильм."
+    },
+    {
+      "id": "65",
+      "g": "3",
+      "w": "yo veía",
+      "t": "я видел",
+      "e": "Yo veía dibujos animados de niño.",
+      "p": "В детстве я смотрел мультфильмы."
+    },
+    {
+      "id": "66",
+      "g": "3",
+      "w": "él veía",
+      "t": "он видел",
+      "e": "Él veía dibujos animados de niño.",
+      "p": "В детстве он смотрел мультфильмы."
+    },
+    {
+      "id": "67",
+      "g": "1",
+      "w": "yo creo",
+      "t": "я верю / считаю",
+      "e": "Yo creo que tienes razón.",
+      "p": "Я думаю, что ты прав."
+    },
+    {
+      "id": "68",
+      "g": "1",
+      "w": "él cree",
+      "t": "он верит / считает",
+      "e": "Él cree que tienes razón.",
+      "p": "Он думает, что ты прав."
+    },
+    {
+      "id": "69",
+      "g": "2",
+      "w": "yo creí",
+      "t": "я поверил",
+      "e": "Yo creí su historia al principio.",
+      "p": "Сначала я поверил его истории."
+    },
+    {
+      "id": "70",
+      "g": "2",
+      "w": "él creyó",
+      "t": "он поверил",
+      "e": "Él creyó su historia al principio.",
+      "p": "Сначала он поверил его истории."
+    },
+    {
+      "id": "71",
+      "g": "3",
+      "w": "yo creía",
+      "t": "я верил / считал",
+      "e": "Yo creía que la tienda abría a las nueve.",
+      "p": "Я думал, что магазин открывается в девять."
+    },
+    {
+      "id": "72",
+      "g": "3",
+      "w": "él creía",
+      "t": "он верил / считал",
+      "e": "Él creía que la tienda abría a las nueve.",
+      "p": "Он думал, что магазин открывается в девять."
+    },
+    {
+      "id": "73",
+      "g": "1",
+      "w": "yo doy",
+      "t": "я даю",
+      "e": "Yo doy clases de español.",
+      "p": "Я преподаю испанский."
+    },
+    {
+      "id": "74",
+      "g": "1",
+      "w": "él da",
+      "t": "он даёт",
+      "e": "Él da clases de español.",
+      "p": "Он преподаёт испанский."
+    },
+    {
+      "id": "75",
+      "g": "2",
+      "w": "yo di",
+      "t": "я дал",
+      "e": "Yo di un regalo a mi hermana.",
+      "p": "Я подарил подарок своей сестре."
+    },
+    {
+      "id": "76",
+      "g": "2",
+      "w": "él dio",
+      "t": "он дал",
+      "e": "Él dio un regalo a su hermana.",
+      "p": "Он подарил подарок своей сестре."
+    },
+    {
+      "id": "77",
+      "g": "3",
+      "w": "yo daba",
+      "t": "я давал",
+      "e": "Yo daba un paseo después de comer.",
+      "p": "Я гулял после обеда."
+    },
+    {
+      "id": "78",
+      "g": "3",
+      "w": "él daba",
+      "t": "он давал",
+      "e": "Él daba un paseo después de comer.",
+      "p": "Он гулял после обеда."
+    },
+    {
+      "id": "79",
+      "g": "1",
+      "w": "yo siento",
+      "t": "я чувствую",
+      "e": "Yo siento mucho frío en invierno.",
+      "p": "Зимой мне очень холодно."
+    },
+    {
+      "id": "80",
+      "g": "1",
+      "w": "él siente",
+      "t": "он чувствует",
+      "e": "Él siente mucho frío en invierno.",
+      "p": "Зимой ему очень холодно."
+    },
+    {
+      "id": "81",
+      "g": "2",
+      "w": "yo sentí",
+      "t": "я почувствовал",
+      "e": "Yo sentí miedo durante la tormenta.",
+      "p": "Во время грозы я почувствовал страх."
+    },
+    {
+      "id": "82",
+      "g": "2",
+      "w": "él sintió",
+      "t": "он почувствовал",
+      "e": "Él sintió miedo durante la tormenta.",
+      "p": "Во время грозы он почувствовал страх."
+    },
+    {
+      "id": "83",
+      "g": "3",
+      "w": "yo sentía",
+      "t": "я чувствовал",
+      "e": "Yo sentía nervios antes de cada examen.",
+      "p": "Я волновался перед каждым экзаменом."
+    },
+    {
+      "id": "84",
+      "g": "3",
+      "w": "él sentía",
+      "t": "он чувствовал",
+      "e": "Él sentía nervios antes de cada examen.",
+      "p": "Он волновался перед каждым экзаменом."
+    },
+    {
+      "id": "85",
+      "g": "1",
+      "w": "yo pienso",
+      "t": "я думаю",
+      "e": "Yo pienso en mis vacaciones.",
+      "p": "Я думаю о своём отпуске."
+    },
+    {
+      "id": "86",
+      "g": "1",
+      "w": "él piensa",
+      "t": "он думает",
+      "e": "Él piensa en sus vacaciones.",
+      "p": "Он думает о своём отпуске."
+    },
+    {
+      "id": "87",
+      "g": "2",
+      "w": "yo pensé",
+      "t": "я подумал",
+      "e": "Yo pensé en una solución ayer.",
+      "p": "Вчера я подумал о решении."
+    },
+    {
+      "id": "88",
+      "g": "2",
+      "w": "él pensó",
+      "t": "он подумал",
+      "e": "Él pensó en una solución ayer.",
+      "p": "Вчера он подумал о решении."
+    },
+    {
+      "id": "89",
+      "g": "3",
+      "w": "yo pensaba",
+      "t": "я думал",
+      "e": "Yo pensaba en mi familia durante el viaje.",
+      "p": "Во время поездки я думал о семье."
+    },
+    {
+      "id": "90",
+      "g": "3",
+      "w": "él pensaba",
+      "t": "он думал",
+      "e": "Él pensaba en su familia durante el viaje.",
+      "p": "Во время поездки он думал о семье."
+    },
+    {
+      "id": "91",
+      "g": "1",
+      "w": "yo vengo",
+      "t": "я прихожу",
+      "e": "Yo vengo aquí los lunes.",
+      "p": "Я прихожу сюда по понедельникам."
+    },
+    {
+      "id": "92",
+      "g": "1",
+      "w": "él viene",
+      "t": "он приходит",
+      "e": "Él viene aquí los lunes.",
+      "p": "Он приходит сюда по понедельникам."
+    },
+    {
+      "id": "93",
+      "g": "2",
+      "w": "yo vine",
+      "t": "я пришёл",
+      "e": "Yo vine a España hace cuatro años.",
+      "p": "Я приехал в Испанию четыре года назад."
+    },
+    {
+      "id": "94",
+      "g": "2",
+      "w": "él vino",
+      "t": "он пришёл",
+      "e": "Él vino a España hace cuatro años.",
+      "p": "Он приехал в Испанию четыре года назад."
+    },
+    {
+      "id": "95",
+      "g": "3",
+      "w": "yo venía",
+      "t": "я приходил",
+      "e": "Yo venía a esta cafetería cada semana.",
+      "p": "Раньше я приходил в это кафе каждую неделю."
+    },
+    {
+      "id": "96",
+      "g": "3",
+      "w": "él venía",
+      "t": "он приходил",
+      "e": "Él venía a esta cafetería cada semana.",
+      "p": "Раньше он приходил в это кафе каждую неделю."
+    },
+    {
+      "id": "97",
+      "g": "1",
+      "w": "yo vuelvo",
+      "t": "я возвращаюсь",
+      "e": "Yo vuelvo a casa a las seis.",
+      "p": "Я возвращаюсь домой в шесть."
+    },
+    {
+      "id": "98",
+      "g": "1",
+      "w": "él vuelve",
+      "t": "он возвращается",
+      "e": "Él vuelve a casa a las seis.",
+      "p": "Он возвращается домой в шесть."
+    },
+    {
+      "id": "99",
+      "g": "2",
+      "w": "yo volví",
+      "t": "я вернулся",
+      "e": "Yo volví de Madrid el domingo.",
+      "p": "В воскресенье я вернулся из Мадрида."
+    },
+    {
+      "id": "100",
+      "g": "2",
+      "w": "él volvió",
+      "t": "он вернулся",
+      "e": "Él volvió de Madrid el domingo.",
+      "p": "В воскресенье он вернулся из Мадрида."
+    },
+    {
+      "id": "101",
+      "g": "3",
+      "w": "yo volvía",
+      "t": "я возвращался",
+      "e": "Yo volvía tarde del trabajo.",
+      "p": "Я возвращался с работы поздно."
+    },
+    {
+      "id": "102",
+      "g": "3",
+      "w": "él volvía",
+      "t": "он возвращался",
+      "e": "Él volvía tarde del trabajo.",
+      "p": "Он возвращался с работы поздно."
+    },
+    {
+      "id": "103",
+      "g": "1",
+      "w": "yo parezco",
+      "t": "я кажусь",
+      "e": "Yo parezco más joven en esta foto.",
+      "p": "На этом фото я выгляжу моложе."
+    },
+    {
+      "id": "104",
+      "g": "1",
+      "w": "él parece",
+      "t": "он кажется",
+      "e": "Él parece más joven en esta foto.",
+      "p": "На этом фото он выглядит моложе."
+    },
+    {
+      "id": "105",
+      "g": "2",
+      "w": "yo parecí",
+      "t": "я показался",
+      "e": "Yo parecí tranquilo durante la entrevista.",
+      "p": "Во время собеседования я показался спокойным."
+    },
+    {
+      "id": "106",
+      "g": "2",
+      "w": "él pareció",
+      "t": "он показался",
+      "e": "Él pareció tranquilo durante la entrevista.",
+      "p": "Во время собеседования он показался спокойным."
+    },
+    {
+      "id": "107",
+      "g": "3",
+      "w": "yo parecía",
+      "t": "я казался",
+      "e": "Yo parecía cansado después del trabajo.",
+      "p": "После работы я выглядел уставшим."
+    },
+    {
+      "id": "108",
+      "g": "3",
+      "w": "él parecía",
+      "t": "он казался",
+      "e": "Él parecía cansado después del trabajo.",
+      "p": "После работы он выглядел уставшим."
+    },
+    {
+      "id": "109",
+      "g": "1",
+      "w": "yo encuentro",
+      "t": "я нахожу",
+      "e": "Yo encuentro buenos libros en esta tienda.",
+      "p": "Я нахожу хорошие книги в этом магазине."
+    },
+    {
+      "id": "110",
+      "g": "1",
+      "w": "él encuentra",
+      "t": "он находит",
+      "e": "Él encuentra buenos libros en esta tienda.",
+      "p": "Он находит хорошие книги в этом магазине."
+    },
+    {
+      "id": "111",
+      "g": "2",
+      "w": "yo encontré",
+      "t": "я нашёл",
+      "e": "Yo encontré mis llaves debajo del sofá.",
+      "p": "Я нашёл ключи под диваном."
+    },
+    {
+      "id": "112",
+      "g": "2",
+      "w": "él encontró",
+      "t": "он нашёл",
+      "e": "Él encontró sus llaves debajo del sofá.",
+      "p": "Он нашёл ключи под диваном."
+    },
+    {
+      "id": "113",
+      "g": "3",
+      "w": "yo encontraba",
+      "t": "я находил",
+      "e": "Yo encontraba monedas en la calle de niño.",
+      "p": "В детстве я находил монеты на улице."
+    },
+    {
+      "id": "114",
+      "g": "3",
+      "w": "él encontraba",
+      "t": "он находил",
+      "e": "Él encontraba monedas en la calle de niño.",
+      "p": "В детстве он находил монеты на улице."
+    },
+    {
+      "id": "115",
+      "g": "1",
+      "w": "yo salgo",
+      "t": "я выхожу",
+      "e": "Yo salgo de casa a las ocho.",
+      "p": "Я выхожу из дома в восемь."
+    },
+    {
+      "id": "116",
+      "g": "1",
+      "w": "él sale",
+      "t": "он выходит",
+      "e": "Él sale de casa a las ocho.",
+      "p": "Он выходит из дома в восемь."
+    },
+    {
+      "id": "117",
+      "g": "2",
+      "w": "yo salí",
+      "t": "я вышел",
+      "e": "Yo salí del cine a las diez.",
+      "p": "Я вышел из кинотеатра в десять."
+    },
+    {
+      "id": "118",
+      "g": "2",
+      "w": "él salió",
+      "t": "он вышел",
+      "e": "Él salió del cine a las diez.",
+      "p": "Он вышел из кинотеатра в десять."
+    },
+    {
+      "id": "119",
+      "g": "3",
+      "w": "yo salía",
+      "t": "я выходил",
+      "e": "Yo salía a pasear después de cenar.",
+      "p": "Я выходил гулять после ужина."
+    },
+    {
+      "id": "120",
+      "g": "3",
+      "w": "él salía",
+      "t": "он выходил",
+      "e": "Él salía a pasear después de cenar.",
+      "p": "Он выходил гулять после ужина."
+    },
+    {
+      "id": "121",
+      "g": "1",
+      "w": "yo sigo",
+      "t": "я продолжаю",
+      "e": "Yo sigo estudiando español.",
+      "p": "Я продолжаю учить испанский."
+    },
+    {
+      "id": "122",
+      "g": "1",
+      "w": "él sigue",
+      "t": "он продолжает",
+      "e": "Él sigue estudiando español.",
+      "p": "Он продолжает учить испанский."
+    },
+    {
+      "id": "123",
+      "g": "2",
+      "w": "yo seguí",
+      "t": "я продолжил",
+      "e": "Yo seguí trabajando después de comer.",
+      "p": "Я продолжил работать после обеда."
+    },
+    {
+      "id": "124",
+      "g": "2",
+      "w": "él siguió",
+      "t": "он продолжил",
+      "e": "Él siguió trabajando después de comer.",
+      "p": "Он продолжил работать после обеда."
+    },
+    {
+      "id": "125",
+      "g": "3",
+      "w": "yo seguía",
+      "t": "я продолжал",
+      "e": "Yo seguía leyendo mientras llovía.",
+      "p": "Я продолжал читать, пока шёл дождь."
+    },
+    {
+      "id": "126",
+      "g": "3",
+      "w": "él seguía",
+      "t": "он продолжал",
+      "e": "Él seguía leyendo mientras llovía.",
+      "p": "Он продолжал читать, пока шёл дождь."
+    },
+    {
+      "id": "127",
+      "g": "1",
+      "w": "yo pongo",
+      "t": "я кладу / ставлю",
+      "e": "Yo pongo el libro sobre la mesa.",
+      "p": "Я кладу книгу на стол."
+    },
+    {
+      "id": "128",
+      "g": "1",
+      "w": "él pone",
+      "t": "он кладёт / ставит",
+      "e": "Él pone el libro sobre la mesa.",
+      "p": "Он кладёт книгу на стол."
+    },
+    {
+      "id": "129",
+      "g": "2",
+      "w": "yo puse",
+      "t": "я положил / поставил",
+      "e": "Yo puse el vaso junto al plato.",
+      "p": "Я поставил стакан рядом с тарелкой."
+    },
+    {
+      "id": "130",
+      "g": "2",
+      "w": "él puso",
+      "t": "он положил / поставил",
+      "e": "Él puso el vaso junto al plato.",
+      "p": "Он поставил стакан рядом с тарелкой."
+    },
+    {
+      "id": "131",
+      "g": "3",
+      "w": "yo ponía",
+      "t": "я клал / ставил",
+      "e": "Yo ponía música mientras cocinaba.",
+      "p": "Я включал музыку, пока готовил."
+    },
+    {
+      "id": "132",
+      "g": "3",
+      "w": "él ponía",
+      "t": "он клал / ставил",
+      "e": "Él ponía música mientras cocinaba.",
+      "p": "Он включал музыку, пока готовил."
+    },
+    {
+      "id": "133",
+      "g": "1",
+      "w": "yo oigo",
+      "t": "я слышу",
+      "e": "Yo oigo música desde la calle.",
+      "p": "Я слышу музыку с улицы."
+    },
+    {
+      "id": "134",
+      "g": "1",
+      "w": "él oye",
+      "t": "он слышит",
+      "e": "Él oye música desde la calle.",
+      "p": "Он слышит музыку с улицы."
+    },
+    {
+      "id": "135",
+      "g": "2",
+      "w": "yo oí",
+      "t": "я услышал",
+      "e": "Yo oí un ruido extraño anoche.",
+      "p": "Вчера вечером я услышал странный шум."
+    },
+    {
+      "id": "136",
+      "g": "2",
+      "w": "él oyó",
+      "t": "он услышал",
+      "e": "Él oyó un ruido extraño anoche.",
+      "p": "Вчера вечером он услышал странный шум."
+    },
+    {
+      "id": "137",
+      "g": "3",
+      "w": "yo oía",
+      "t": "я слышал",
+      "e": "Yo oía los pájaros cada mañana.",
+      "p": "Я слышал птиц каждое утро."
+    },
+    {
+      "id": "138",
+      "g": "3",
+      "w": "él oía",
+      "t": "он слышал",
+      "e": "Él oía los pájaros cada mañana.",
+      "p": "Он слышал птиц каждое утро."
+    },
+    {
+      "id": "139",
+      "g": "1",
+      "w": "yo conozco",
+      "t": "я знаю / знаком",
+      "e": "Yo conozco bien esta ciudad.",
+      "p": "Я хорошо знаю этот город."
+    },
+    {
+      "id": "140",
+      "g": "1",
+      "w": "él conoce",
+      "t": "он знает / знаком",
+      "e": "Él conoce bien esta ciudad.",
+      "p": "Он хорошо знает этот город."
+    },
+    {
+      "id": "141",
+      "g": "2",
+      "w": "yo conocí",
+      "t": "я познакомился",
+      "e": "Yo conocí a Ana en la universidad.",
+      "p": "Я познакомился с Аной в университете."
+    },
+    {
+      "id": "142",
+      "g": "2",
+      "w": "él conoció",
+      "t": "он познакомился",
+      "e": "Él conoció a Ana en la universidad.",
+      "p": "Он познакомился с Аной в университете."
+    },
+    {
+      "id": "143",
+      "g": "3",
+      "w": "yo conocía",
+      "t": "я знал / был знаком",
+      "e": "Yo conocía a todos los vecinos.",
+      "p": "Я знал всех соседей."
+    },
+    {
+      "id": "144",
+      "g": "3",
+      "w": "él conocía",
+      "t": "он знал / был знаком",
+      "e": "Él conocía a todos los vecinos.",
+      "p": "Он знал всех соседей."
+    },
+    {
+      "id": "145",
+      "g": "1",
+      "w": "yo entiendo",
+      "t": "я понимаю",
+      "e": "Yo entiendo esta pregunta.",
+      "p": "Я понимаю этот вопрос."
+    },
+    {
+      "id": "146",
+      "g": "1",
+      "w": "él entiende",
+      "t": "он понимает",
+      "e": "Él entiende esta pregunta.",
+      "p": "Он понимает этот вопрос."
+    },
+    {
+      "id": "147",
+      "g": "2",
+      "w": "yo entendí",
+      "t": "я понял",
+      "e": "Yo entendí la explicación del profesor.",
+      "p": "Я понял объяснение преподавателя."
+    },
+    {
+      "id": "148",
+      "g": "2",
+      "w": "él entendió",
+      "t": "он понял",
+      "e": "Él entendió la explicación del profesor.",
+      "p": "Он понял объяснение преподавателя."
+    },
+    {
+      "id": "149",
+      "g": "3",
+      "w": "yo entendía",
+      "t": "я понимал",
+      "e": "Yo entendía poco cuando empecé a estudiar.",
+      "p": "Я мало понимал, когда начал учиться."
+    },
+    {
+      "id": "150",
+      "g": "3",
+      "w": "él entendía",
+      "t": "он понимал",
+      "e": "Él entendía poco cuando empezó a estudiar.",
+      "p": "Он мало понимал, когда начал учиться."
+    },
+    {
+      "id": "151",
+      "g": "1",
+      "w": "yo muero",
+      "t": "я умираю",
+      "e": "Yo muero en este videojuego cuando caigo al agua.",
+      "p": "В этой видеоигре я погибаю, когда падаю в воду."
+    },
+    {
+      "id": "152",
+      "g": "1",
+      "w": "él muere",
+      "t": "он умирает",
+      "e": "Él muere en este videojuego cuando cae al agua.",
+      "p": "В этой видеоигре он погибает, когда падает в воду."
+    },
+    {
+      "id": "153",
+      "g": "2",
+      "w": "yo morí",
+      "t": "я умер",
+      "e": "Yo morí tres veces en el videojuego ayer.",
+      "p": "Вчера я три раза погиб в видеоигре."
+    },
+    {
+      "id": "154",
+      "g": "2",
+      "w": "él murió",
+      "t": "он умер",
+      "e": "Él murió tres veces en el videojuego ayer.",
+      "p": "Вчера он три раза погиб в видеоигре."
+    },
+    {
+      "id": "155",
+      "g": "3",
+      "w": "yo moría",
+      "t": "я умирал",
+      "e": "Yo moría muchas veces al principio del juego.",
+      "p": "В начале игры я часто погибал."
+    },
+    {
+      "id": "156",
+      "g": "3",
+      "w": "él moría",
+      "t": "он умирал",
+      "e": "Él moría muchas veces al principio del juego.",
+      "p": "В начале игры он часто погибал."
+    },
+    {
+      "id": "157",
+      "g": "1",
+      "w": "yo supongo",
+      "t": "я предполагаю",
+      "e": "Yo supongo que mañana hará sol.",
+      "p": "Я предполагаю, что завтра будет солнечно."
+    },
+    {
+      "id": "158",
+      "g": "1",
+      "w": "él supone",
+      "t": "он предполагает",
+      "e": "Él supone que mañana hará sol.",
+      "p": "Он предполагает, что завтра будет солнечно."
+    },
+    {
+      "id": "159",
+      "g": "2",
+      "w": "yo supuse",
+      "t": "я предположил",
+      "e": "Yo supuse que la tienda estaba cerrada.",
+      "p": "Я предположил, что магазин был закрыт."
+    },
+    {
+      "id": "160",
+      "g": "2",
+      "w": "él supuso",
+      "t": "он предположил",
+      "e": "Él supuso que la tienda estaba cerrada.",
+      "p": "Он предположил, что магазин был закрыт."
+    },
+    {
+      "id": "161",
+      "g": "3",
+      "w": "yo suponía",
+      "t": "я предполагал",
+      "e": "Yo suponía que el examen sería fácil.",
+      "p": "Я предполагал, что экзамен будет лёгким."
+    },
+    {
+      "id": "162",
+      "g": "3",
+      "w": "él suponía",
+      "t": "он предполагал",
+      "e": "Él suponía que el examen sería fácil.",
+      "p": "Он предполагал, что экзамен будет лёгким."
+    },
+    {
+      "id": "163",
+      "g": "1",
+      "w": "yo empiezo",
+      "t": "я начинаю",
+      "e": "Yo empiezo a trabajar a las nueve.",
+      "p": "Я начинаю работать в девять."
+    },
+    {
+      "id": "164",
+      "g": "1",
+      "w": "él empieza",
+      "t": "он начинает",
+      "e": "Él empieza a trabajar a las nueve.",
+      "p": "Он начинает работать в девять."
+    },
+    {
+      "id": "165",
+      "g": "2",
+      "w": "yo empecé",
+      "t": "я начал",
+      "e": "Yo empecé a estudiar español el año pasado.",
+      "p": "Я начал учить испанский в прошлом году."
+    },
+    {
+      "id": "166",
+      "g": "2",
+      "w": "él empezó",
+      "t": "он начал",
+      "e": "Él empezó a estudiar español el año pasado.",
+      "p": "Он начал учить испанский в прошлом году."
+    },
+    {
+      "id": "167",
+      "g": "3",
+      "w": "yo empezaba",
+      "t": "я начинал",
+      "e": "Yo empezaba el día con un café.",
+      "p": "Раньше я начинал день с кофе."
+    },
+    {
+      "id": "168",
+      "g": "3",
+      "w": "él empezaba",
+      "t": "он начинал",
+      "e": "Él empezaba el día con un café.",
+      "p": "Раньше он начинал день с кофе."
+    },
+    {
+      "id": "169",
+      "g": "1",
+      "w": "yo pierdo",
+      "t": "я теряю",
+      "e": "Yo pierdo las llaves con frecuencia.",
+      "p": "Я часто теряю ключи."
+    },
+    {
+      "id": "170",
+      "g": "1",
+      "w": "él pierde",
+      "t": "он теряет",
+      "e": "Él pierde las llaves con frecuencia.",
+      "p": "Он часто теряет ключи."
+    },
+    {
+      "id": "171",
+      "g": "2",
+      "w": "yo perdí",
+      "t": "я потерял",
+      "e": "Yo perdí el tren ayer.",
+      "p": "Вчера я опоздал на поезд."
+    },
+    {
+      "id": "172",
+      "g": "2",
+      "w": "él perdió",
+      "t": "он потерял",
+      "e": "Él perdió el tren ayer.",
+      "p": "Вчера он опоздал на поезд."
+    },
+    {
+      "id": "173",
+      "g": "3",
+      "w": "yo perdía",
+      "t": "я терял",
+      "e": "Yo perdía mucho tiempo en el tráfico.",
+      "p": "Раньше я тратил много времени в пробках."
+    },
+    {
+      "id": "174",
+      "g": "3",
+      "w": "él perdía",
+      "t": "он терял",
+      "e": "Él perdía mucho tiempo en el tráfico.",
+      "p": "Раньше он тратил много времени в пробках."
+    }
+  ]
+}
