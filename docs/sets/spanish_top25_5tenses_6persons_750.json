@@ -1,0 +1,6006 @@
+{
+  "alg": "alg5",
+  "name": "25 частотных испанских глаголов: Presente, Indefinido, Imperfecto, Futuro Simple, Perfecto (6 лиц)",
+  "cards": [
+    {
+      "id": "1",
+      "g": "1",
+      "w": "yo soy",
+      "t": "я (быть, являться)",
+      "e": "Yo soy de otra ciudad.",
+      "p": "Я из другого города."
+    },
+    {
+      "id": "2",
+      "g": "1",
+      "w": "tú eres",
+      "t": "ты (быть, являться)",
+      "e": "Tú eres de otra ciudad.",
+      "p": "Ты из другого города."
+    },
+    {
+      "id": "3",
+      "g": "1",
+      "w": "él/ella es",
+      "t": "он (быть, являться)",
+      "e": "Él es de otra ciudad.",
+      "p": "Он из другого города."
+    },
+    {
+      "id": "4",
+      "g": "1",
+      "w": "nosotros somos",
+      "t": "мы (быть, являться)",
+      "e": "Nosotros somos de otra ciudad.",
+      "p": "Мы из другого города."
+    },
+    {
+      "id": "5",
+      "g": "1",
+      "w": "vosotros sois",
+      "t": "вы (быть, являться)",
+      "e": "Vosotros sois de otra ciudad.",
+      "p": "Вы из другого города."
+    },
+    {
+      "id": "6",
+      "g": "1",
+      "w": "ellos son",
+      "t": "они (быть, являться)",
+      "e": "Ellos son de otra ciudad.",
+      "p": "Они из другого города."
+    },
+    {
+      "id": "7",
+      "g": "1",
+      "w": "yo estoy",
+      "t": "я нахожусь",
+      "e": "Yo estoy en la oficina ahora.",
+      "p": "Я нахожусь сейчас в офисе."
+    },
+    {
+      "id": "8",
+      "g": "1",
+      "w": "tú estás",
+      "t": "ты находишься",
+      "e": "Tú estás en la oficina ahora.",
+      "p": "Ты находишься сейчас в офисе."
+    },
+    {
+      "id": "9",
+      "g": "1",
+      "w": "él/ella está",
+      "t": "он находится",
+      "e": "Él está en la oficina ahora.",
+      "p": "Он находится сейчас в офисе."
+    },
+    {
+      "id": "10",
+      "g": "1",
+      "w": "nosotros estamos",
+      "t": "мы находимся",
+      "e": "Nosotros estamos en la oficina ahora.",
+      "p": "Мы находимся сейчас в офисе."
+    },
+    {
+      "id": "11",
+      "g": "1",
+      "w": "vosotros estáis",
+      "t": "вы находитесь",
+      "e": "Vosotros estáis en la oficina ahora.",
+      "p": "Вы находитесь сейчас в офисе."
+    },
+    {
+      "id": "12",
+      "g": "1",
+      "w": "ellos están",
+      "t": "они находятся",
+      "e": "Ellos están en la oficina ahora.",
+      "p": "Они находятся сейчас в офисе."
+    },
+    {
+      "id": "13",
+      "g": "1",
+      "w": "yo he comprado",
+      "t": "я купил",
+      "e": "Yo he comprado un billete de tren esta semana.",
+      "p": "Я купил билет на поезд на этой неделе."
+    },
+    {
+      "id": "14",
+      "g": "1",
+      "w": "tú has comprado",
+      "t": "ты купил",
+      "e": "Tú has comprado un billete de tren esta semana.",
+      "p": "Ты купил билет на поезд на этой неделе."
+    },
+    {
+      "id": "15",
+      "g": "1",
+      "w": "él/ella ha comprado",
+      "t": "он купил",
+      "e": "Él ha comprado un billete de tren esta semana.",
+      "p": "Он купил билет на поезд на этой неделе."
+    },
+    {
+      "id": "16",
+      "g": "1",
+      "w": "nosotros hemos comprado",
+      "t": "мы купили",
+      "e": "Nosotros hemos comprado un billete de tren esta semana.",
+      "p": "Мы купили билет на поезд на этой неделе."
+    },
+    {
+      "id": "17",
+      "g": "1",
+      "w": "vosotros habéis comprado",
+      "t": "вы купили",
+      "e": "Vosotros habéis comprado un billete de tren esta semana.",
+      "p": "Вы купили билет на поезд на этой неделе."
+    },
+    {
+      "id": "18",
+      "g": "1",
+      "w": "ellos han comprado",
+      "t": "они купили",
+      "e": "Ellos han comprado un billete de tren esta semana.",
+      "p": "Они купили билет на поезд на этой неделе."
+    },
+    {
+      "id": "19",
+      "g": "1",
+      "w": "yo tengo",
+      "t": "я имею",
+      "e": "Yo tengo una cita con el médico hoy.",
+      "p": "У меня сегодня есть запись к врачу."
+    },
+    {
+      "id": "20",
+      "g": "1",
+      "w": "tú tienes",
+      "t": "ты имеешь",
+      "e": "Tú tienes una cita con el médico hoy.",
+      "p": "У тебя сегодня есть запись к врачу."
+    },
+    {
+      "id": "21",
+      "g": "1",
+      "w": "él/ella tiene",
+      "t": "он имеет",
+      "e": "Él tiene una cita con el médico hoy.",
+      "p": "У него сегодня есть запись к врачу."
+    },
+    {
+      "id": "22",
+      "g": "1",
+      "w": "nosotros tenemos",
+      "t": "мы имеем",
+      "e": "Nosotros tenemos una cita con el médico hoy.",
+      "p": "У нас сегодня есть запись к врачу."
+    },
+    {
+      "id": "23",
+      "g": "1",
+      "w": "vosotros tenéis",
+      "t": "вы имеете",
+      "e": "Vosotros tenéis una cita con el médico hoy.",
+      "p": "У вас сегодня есть запись к врачу."
+    },
+    {
+      "id": "24",
+      "g": "1",
+      "w": "ellos tienen",
+      "t": "они имеют",
+      "e": "Ellos tienen una cita con el médico hoy.",
+      "p": "У них сегодня есть запись к врачу."
+    },
+    {
+      "id": "25",
+      "g": "1",
+      "w": "yo voy",
+      "t": "я езжу",
+      "e": "Yo voy al trabajo en coche.",
+      "p": "Я езжу на работу на машине."
+    },
+    {
+      "id": "26",
+      "g": "1",
+      "w": "tú vas",
+      "t": "ты ездишь",
+      "e": "Tú vas al trabajo en coche.",
+      "p": "Ты ездишь на работу на машине."
+    },
+    {
+      "id": "27",
+      "g": "1",
+      "w": "él/ella va",
+      "t": "он ездит",
+      "e": "Él va al trabajo en coche.",
+      "p": "Он ездит на работу на машине."
+    },
+    {
+      "id": "28",
+      "g": "1",
+      "w": "nosotros vamos",
+      "t": "мы ездим",
+      "e": "Nosotros vamos al trabajo en coche.",
+      "p": "Мы ездим на работу на машине."
+    },
+    {
+      "id": "29",
+      "g": "1",
+      "w": "vosotros vais",
+      "t": "вы ездите",
+      "e": "Vosotros vais al trabajo en coche.",
+      "p": "Вы ездите на работу на машине."
+    },
+    {
+      "id": "30",
+      "g": "1",
+      "w": "ellos van",
+      "t": "они ездят",
+      "e": "Ellos van al trabajo en coche.",
+      "p": "Они ездят на работу на машине."
+    },
+    {
+      "id": "31",
+      "g": "1",
+      "w": "yo puedo",
+      "t": "я могу",
+      "e": "Yo puedo hablar con el jefe ahora.",
+      "p": "Я могу поговорить с начальником сейчас."
+    },
+    {
+      "id": "32",
+      "g": "1",
+      "w": "tú puedes",
+      "t": "ты можешь",
+      "e": "Tú puedes hablar con el jefe ahora.",
+      "p": "Ты можешь поговорить с начальником сейчас."
+    },
+    {
+      "id": "33",
+      "g": "1",
+      "w": "él/ella puede",
+      "t": "он может",
+      "e": "Él puede hablar con el jefe ahora.",
+      "p": "Он может поговорить с начальником сейчас."
+    },
+    {
+      "id": "34",
+      "g": "1",
+      "w": "nosotros podemos",
+      "t": "мы можем",
+      "e": "Nosotros podemos hablar con el jefe ahora.",
+      "p": "Мы можем поговорить с начальником сейчас."
+    },
+    {
+      "id": "35",
+      "g": "1",
+      "w": "vosotros podéis",
+      "t": "вы можете",
+      "e": "Vosotros podéis hablar con el jefe ahora.",
+      "p": "Вы можете поговорить с начальником сейчас."
+    },
+    {
+      "id": "36",
+      "g": "1",
+      "w": "ellos pueden",
+      "t": "они могут",
+      "e": "Ellos pueden hablar con el jefe ahora.",
+      "p": "Они могут поговорить с начальником сейчас."
+    },
+    {
+      "id": "37",
+      "g": "1",
+      "w": "yo hago",
+      "t": "я делаю",
+      "e": "Yo hago la compra los sábados.",
+      "p": "Я делаю покупки по субботам."
+    },
+    {
+      "id": "38",
+      "g": "1",
+      "w": "tú haces",
+      "t": "ты делаешь",
+      "e": "Tú haces la compra los sábados.",
+      "p": "Ты делаешь покупки по субботам."
+    },
+    {
+      "id": "39",
+      "g": "1",
+      "w": "él/ella hace",
+      "t": "он делает",
+      "e": "Él hace la compra los sábados.",
+      "p": "Он делает покупки по субботам."
+    },
+    {
+      "id": "40",
+      "g": "1",
+      "w": "nosotros hacemos",
+      "t": "мы делаем",
+      "e": "Nosotros hacemos la compra los sábados.",
+      "p": "Мы делаем покупки по субботам."
+    },
+    {
+      "id": "41",
+      "g": "1",
+      "w": "vosotros hacéis",
+      "t": "вы делаете",
+      "e": "Vosotros hacéis la compra los sábados.",
+      "p": "Вы делаете покупки по субботам."
+    },
+    {
+      "id": "42",
+      "g": "1",
+      "w": "ellos hacen",
+      "t": "они делают",
+      "e": "Ellos hacen la compra los sábados.",
+      "p": "Они делают покупки по субботам."
+    },
+    {
+      "id": "43",
+      "g": "1",
+      "w": "yo digo",
+      "t": "я говорю",
+      "e": "Yo digo la verdad a mis amigos.",
+      "p": "Я говорю правду друзьям."
+    },
+    {
+      "id": "44",
+      "g": "1",
+      "w": "tú dices",
+      "t": "ты говоришь",
+      "e": "Tú dices la verdad a mis amigos.",
+      "p": "Ты говоришь правду друзьям."
+    },
+    {
+      "id": "45",
+      "g": "1",
+      "w": "él/ella dice",
+      "t": "он говорит",
+      "e": "Él dice la verdad a mis amigos.",
+      "p": "Он говорит правду друзьям."
+    },
+    {
+      "id": "46",
+      "g": "1",
+      "w": "nosotros decimos",
+      "t": "мы говорим",
+      "e": "Nosotros decimos la verdad a mis amigos.",
+      "p": "Мы говорим правду друзьям."
+    },
+    {
+      "id": "47",
+      "g": "1",
+      "w": "vosotros decís",
+      "t": "вы говорите",
+      "e": "Vosotros decís la verdad a mis amigos.",
+      "p": "Вы говорите правду друзьям."
+    },
+    {
+      "id": "48",
+      "g": "1",
+      "w": "ellos dicen",
+      "t": "они говорят",
+      "e": "Ellos dicen la verdad a mis amigos.",
+      "p": "Они говорят правду друзьям."
+    },
+    {
+      "id": "49",
+      "g": "1",
+      "w": "yo sé",
+      "t": "я знаю",
+      "e": "Yo sé la dirección del hotel.",
+      "p": "Я знаю адрес отеля."
+    },
+    {
+      "id": "50",
+      "g": "1",
+      "w": "tú sabes",
+      "t": "ты знаешь",
+      "e": "Tú sabes la dirección del hotel.",
+      "p": "Ты знаешь адрес отеля."
+    },
+    {
+      "id": "51",
+      "g": "1",
+      "w": "él/ella sabe",
+      "t": "он знает",
+      "e": "Él sabe la dirección del hotel.",
+      "p": "Он знает адрес отеля."
+    },
+    {
+      "id": "52",
+      "g": "1",
+      "w": "nosotros sabemos",
+      "t": "мы знаем",
+      "e": "Nosotros sabemos la dirección del hotel.",
+      "p": "Мы знаем адрес отеля."
+    },
+    {
+      "id": "53",
+      "g": "1",
+      "w": "vosotros sabéis",
+      "t": "вы знаете",
+      "e": "Vosotros sabéis la dirección del hotel.",
+      "p": "Вы знаете адрес отеля."
+    },
+    {
+      "id": "54",
+      "g": "1",
+      "w": "ellos saben",
+      "t": "они знают",
+      "e": "Ellos saben la dirección del hotel.",
+      "p": "Они знают адрес отеля."
+    },
+    {
+      "id": "55",
+      "g": "1",
+      "w": "yo quiero",
+      "t": "я хочу",
+      "e": "Yo quiero un café con leche.",
+      "p": "Я хочу кофе с молоком."
+    },
+    {
+      "id": "56",
+      "g": "1",
+      "w": "tú quieres",
+      "t": "ты хочешь",
+      "e": "Tú quieres un café con leche.",
+      "p": "Ты хочешь кофе с молоком."
+    },
+    {
+      "id": "57",
+      "g": "1",
+      "w": "él/ella quiere",
+      "t": "он хочет",
+      "e": "Él quiere un café con leche.",
+      "p": "Он хочет кофе с молоком."
+    },
+    {
+      "id": "58",
+      "g": "1",
+      "w": "nosotros queremos",
+      "t": "мы хотим",
+      "e": "Nosotros queremos un café con leche.",
+      "p": "Мы хотим кофе с молоком."
+    },
+    {
+      "id": "59",
+      "g": "1",
+      "w": "vosotros queréis",
+      "t": "вы хотите",
+      "e": "Vosotros queréis un café con leche.",
+      "p": "Вы хотите кофе с молоком."
+    },
+    {
+      "id": "60",
+      "g": "1",
+      "w": "ellos quieren",
+      "t": "они хотят",
+      "e": "Ellos quieren un café con leche.",
+      "p": "Они хотят кофе с молоком."
+    },
+    {
+      "id": "61",
+      "g": "1",
+      "w": "yo veo",
+      "t": "я вижу",
+      "e": "Yo veo el mar desde la ventana.",
+      "p": "Я вижу море из окна."
+    },
+    {
+      "id": "62",
+      "g": "1",
+      "w": "tú ves",
+      "t": "ты видишь",
+      "e": "Tú ves el mar desde la ventana.",
+      "p": "Ты видишь море из окна."
+    },
+    {
+      "id": "63",
+      "g": "1",
+      "w": "él/ella ve",
+      "t": "он видит",
+      "e": "Él ve el mar desde la ventana.",
+      "p": "Он видит море из окна."
+    },
+    {
+      "id": "64",
+      "g": "1",
+      "w": "nosotros vemos",
+      "t": "мы видим",
+      "e": "Nosotros vemos el mar desde la ventana.",
+      "p": "Мы видим море из окна."
+    },
+    {
+      "id": "65",
+      "g": "1",
+      "w": "vosotros veis",
+      "t": "вы видите",
+      "e": "Vosotros veis el mar desde la ventana.",
+      "p": "Вы видите море из окна."
+    },
+    {
+      "id": "66",
+      "g": "1",
+      "w": "ellos ven",
+      "t": "они видят",
+      "e": "Ellos ven el mar desde la ventana.",
+      "p": "Они видят море из окна."
+    },
+    {
+      "id": "67",
+      "g": "1",
+      "w": "yo creo",
+      "t": "я думаю",
+      "e": "Yo creo que el tren llega a las ocho.",
+      "p": "Я думаю что поезд прибывает в восемь."
+    },
+    {
+      "id": "68",
+      "g": "1",
+      "w": "tú crees",
+      "t": "ты думаешь",
+      "e": "Tú crees que el tren llega a las ocho.",
+      "p": "Ты думаешь что поезд прибывает в восемь."
+    },
+    {
+      "id": "69",
+      "g": "1",
+      "w": "él/ella cree",
+      "t": "он думает",
+      "e": "Él cree que el tren llega a las ocho.",
+      "p": "Он думает что поезд прибывает в восемь."
+    },
+    {
+      "id": "70",
+      "g": "1",
+      "w": "nosotros creemos",
+      "t": "мы думаем",
+      "e": "Nosotros creemos que el tren llega a las ocho.",
+      "p": "Мы думаем что поезд прибывает в восемь."
+    },
+    {
+      "id": "71",
+      "g": "1",
+      "w": "vosotros creéis",
+      "t": "вы думаете",
+      "e": "Vosotros creéis que el tren llega a las ocho.",
+      "p": "Вы думаете что поезд прибывает в восемь."
+    },
+    {
+      "id": "72",
+      "g": "1",
+      "w": "ellos creen",
+      "t": "они думают",
+      "e": "Ellos creen que el tren llega a las ocho.",
+      "p": "Они думают что поезд прибывает в восемь."
+    },
+    {
+      "id": "73",
+      "g": "1",
+      "w": "yo debo",
+      "t": "я должен",
+      "e": "Yo debo llevar el pasaporte al aeropuerto.",
+      "p": "Я должен взять паспорт в аэропорт."
+    },
+    {
+      "id": "74",
+      "g": "1",
+      "w": "tú debes",
+      "t": "ты должен",
+      "e": "Tú debes llevar el pasaporte al aeropuerto.",
+      "p": "Ты должен взять паспорт в аэропорт."
+    },
+    {
+      "id": "75",
+      "g": "1",
+      "w": "él/ella debe",
+      "t": "он должен",
+      "e": "Él debe llevar el pasaporte al aeropuerto.",
+      "p": "Он должен взять паспорт в аэропорт."
+    },
+    {
+      "id": "76",
+      "g": "1",
+      "w": "nosotros debemos",
+      "t": "мы должны",
+      "e": "Nosotros debemos llevar el pasaporte al aeropuerto.",
+      "p": "Мы должны взять паспорт в аэропорт."
+    },
+    {
+      "id": "77",
+      "g": "1",
+      "w": "vosotros debéis",
+      "t": "вы должны",
+      "e": "Vosotros debéis llevar el pasaporte al aeropuerto.",
+      "p": "Вы должны взять паспорт в аэропорт."
+    },
+    {
+      "id": "78",
+      "g": "1",
+      "w": "ellos deben",
+      "t": "они должны",
+      "e": "Ellos deben llevar el pasaporte al aeropuerto.",
+      "p": "Они должны взять паспорт в аэропорт."
+    },
+    {
+      "id": "79",
+      "g": "1",
+      "w": "yo doy",
+      "t": "я даю",
+      "e": "Yo doy clases de español los martes.",
+      "p": "Я даю уроки испанского по вторникам."
+    },
+    {
+      "id": "80",
+      "g": "1",
+      "w": "tú das",
+      "t": "ты даёшь",
+      "e": "Tú das clases de español los martes.",
+      "p": "Ты даёшь уроки испанского по вторникам."
+    },
+    {
+      "id": "81",
+      "g": "1",
+      "w": "él/ella da",
+      "t": "он даёт",
+      "e": "Él da clases de español los martes.",
+      "p": "Он даёт уроки испанского по вторникам."
+    },
+    {
+      "id": "82",
+      "g": "1",
+      "w": "nosotros damos",
+      "t": "мы даём",
+      "e": "Nosotros damos clases de español los martes.",
+      "p": "Мы даём уроки испанского по вторникам."
+    },
+    {
+      "id": "83",
+      "g": "1",
+      "w": "vosotros dais",
+      "t": "вы даёте",
+      "e": "Vosotros dais clases de español los martes.",
+      "p": "Вы даёте уроки испанского по вторникам."
+    },
+    {
+      "id": "84",
+      "g": "1",
+      "w": "ellos dan",
+      "t": "они дают",
+      "e": "Ellos dan clases de español los martes.",
+      "p": "Они дают уроки испанского по вторникам."
+    },
+    {
+      "id": "85",
+      "g": "1",
+      "w": "yo paso",
+      "t": "я провожу",
+      "e": "Yo paso mucho tiempo en la oficina.",
+      "p": "Я провожу много времени в офисе."
+    },
+    {
+      "id": "86",
+      "g": "1",
+      "w": "tú pasas",
+      "t": "ты проводишь",
+      "e": "Tú pasas mucho tiempo en la oficina.",
+      "p": "Ты проводишь много времени в офисе."
+    },
+    {
+      "id": "87",
+      "g": "1",
+      "w": "él/ella pasa",
+      "t": "он проводит",
+      "e": "Él pasa mucho tiempo en la oficina.",
+      "p": "Он проводит много времени в офисе."
+    },
+    {
+      "id": "88",
+      "g": "1",
+      "w": "nosotros pasamos",
+      "t": "мы проводим",
+      "e": "Nosotros pasamos mucho tiempo en la oficina.",
+      "p": "Мы проводим много времени в офисе."
+    },
+    {
+      "id": "89",
+      "g": "1",
+      "w": "vosotros pasáis",
+      "t": "вы проводите",
+      "e": "Vosotros pasáis mucho tiempo en la oficina.",
+      "p": "Вы проводите много времени в офисе."
+    },
+    {
+      "id": "90",
+      "g": "1",
+      "w": "ellos pasan",
+      "t": "они проводят",
+      "e": "Ellos pasan mucho tiempo en la oficina.",
+      "p": "Они проводят много времени в офисе."
+    },
+    {
+      "id": "91",
+      "g": "1",
+      "w": "yo hablo",
+      "t": "я разговариваю",
+      "e": "Yo hablo con mis compañeros en el trabajo.",
+      "p": "Я разговариваю с коллегами на работе."
+    },
+    {
+      "id": "92",
+      "g": "1",
+      "w": "tú hablas",
+      "t": "ты разговариваешь",
+      "e": "Tú hablas con mis compañeros en el trabajo.",
+      "p": "Ты разговариваешь с коллегами на работе."
+    },
+    {
+      "id": "93",
+      "g": "1",
+      "w": "él/ella habla",
+      "t": "он разговаривает",
+      "e": "Él habla con mis compañeros en el trabajo.",
+      "p": "Он разговаривает с коллегами на работе."
+    },
+    {
+      "id": "94",
+      "g": "1",
+      "w": "nosotros hablamos",
+      "t": "мы разговариваем",
+      "e": "Nosotros hablamos con mis compañeros en el trabajo.",
+      "p": "Мы разговариваем с коллегами на работе."
+    },
+    {
+      "id": "95",
+      "g": "1",
+      "w": "vosotros habláis",
+      "t": "вы разговариваете",
+      "e": "Vosotros habláis con mis compañeros en el trabajo.",
+      "p": "Вы разговариваете с коллегами на работе."
+    },
+    {
+      "id": "96",
+      "g": "1",
+      "w": "ellos hablan",
+      "t": "они разговаривают",
+      "e": "Ellos hablan con mis compañeros en el trabajo.",
+      "p": "Они разговаривают с коллегами на работе."
+    },
+    {
+      "id": "97",
+      "g": "1",
+      "w": "yo dejo",
+      "t": "я оставляю",
+      "e": "Yo dejo el coche cerca de casa.",
+      "p": "Я оставляю машину рядом с домом."
+    },
+    {
+      "id": "98",
+      "g": "1",
+      "w": "tú dejas",
+      "t": "ты оставляешь",
+      "e": "Tú dejas el coche cerca de casa.",
+      "p": "Ты оставляешь машину рядом с домом."
+    },
+    {
+      "id": "99",
+      "g": "1",
+      "w": "él/ella deja",
+      "t": "он оставляет",
+      "e": "Él deja el coche cerca de casa.",
+      "p": "Он оставляет машину рядом с домом."
+    },
+    {
+      "id": "100",
+      "g": "1",
+      "w": "nosotros dejamos",
+      "t": "мы оставляем",
+      "e": "Nosotros dejamos el coche cerca de casa.",
+      "p": "Мы оставляем машину рядом с домом."
+    },
+    {
+      "id": "101",
+      "g": "1",
+      "w": "vosotros dejáis",
+      "t": "вы оставляете",
+      "e": "Vosotros dejáis el coche cerca de casa.",
+      "p": "Вы оставляете машину рядом с домом."
+    },
+    {
+      "id": "102",
+      "g": "1",
+      "w": "ellos dejan",
+      "t": "они оставляют",
+      "e": "Ellos dejan el coche cerca de casa.",
+      "p": "Они оставляют машину рядом с домом."
+    },
+    {
+      "id": "103",
+      "g": "1",
+      "w": "yo siento",
+      "t": "я чувствую",
+      "e": "Yo siento dolor en la espalda.",
+      "p": "Я чувствую боль в спине."
+    },
+    {
+      "id": "104",
+      "g": "1",
+      "w": "tú sientes",
+      "t": "ты чувствуешь",
+      "e": "Tú sientes dolor en la espalda.",
+      "p": "Ты чувствуешь боль в спине."
+    },
+    {
+      "id": "105",
+      "g": "1",
+      "w": "él/ella siente",
+      "t": "он чувствует",
+      "e": "Él siente dolor en la espalda.",
+      "p": "Он чувствует боль в спине."
+    },
+    {
+      "id": "106",
+      "g": "1",
+      "w": "nosotros sentimos",
+      "t": "мы чувствуем",
+      "e": "Nosotros sentimos dolor en la espalda.",
+      "p": "Мы чувствуем боль в спине."
+    },
+    {
+      "id": "107",
+      "g": "1",
+      "w": "vosotros sentís",
+      "t": "вы чувствуете",
+      "e": "Vosotros sentís dolor en la espalda.",
+      "p": "Вы чувствуете боль в спине."
+    },
+    {
+      "id": "108",
+      "g": "1",
+      "w": "ellos sienten",
+      "t": "они чувствуют",
+      "e": "Ellos sienten dolor en la espalda.",
+      "p": "Они чувствуют боль в спине."
+    },
+    {
+      "id": "109",
+      "g": "1",
+      "w": "yo pienso",
+      "t": "я думаю",
+      "e": "Yo pienso en las próximas vacaciones.",
+      "p": "Я думаю о предстоящем отпуске."
+    },
+    {
+      "id": "110",
+      "g": "1",
+      "w": "tú piensas",
+      "t": "ты думаешь",
+      "e": "Tú piensas en las próximas vacaciones.",
+      "p": "Ты думаешь о предстоящем отпуске."
+    },
+    {
+      "id": "111",
+      "g": "1",
+      "w": "él/ella piensa",
+      "t": "он думает",
+      "e": "Él piensa en las próximas vacaciones.",
+      "p": "Он думает о предстоящем отпуске."
+    },
+    {
+      "id": "112",
+      "g": "1",
+      "w": "nosotros pensamos",
+      "t": "мы думаем",
+      "e": "Nosotros pensamos en las próximas vacaciones.",
+      "p": "Мы думаем о предстоящем отпуске."
+    },
+    {
+      "id": "113",
+      "g": "1",
+      "w": "vosotros pensáis",
+      "t": "вы думаете",
+      "e": "Vosotros pensáis en las próximas vacaciones.",
+      "p": "Вы думаете о предстоящем отпуске."
+    },
+    {
+      "id": "114",
+      "g": "1",
+      "w": "ellos piensan",
+      "t": "они думают",
+      "e": "Ellos piensan en las próximas vacaciones.",
+      "p": "Они думают о предстоящем отпуске."
+    },
+    {
+      "id": "115",
+      "g": "1",
+      "w": "yo espero",
+      "t": "я жду",
+      "e": "Yo espero el autobús cada mañana.",
+      "p": "Я жду автобус каждое утро."
+    },
+    {
+      "id": "116",
+      "g": "1",
+      "w": "tú esperas",
+      "t": "ты ждёшь",
+      "e": "Tú esperas el autobús cada mañana.",
+      "p": "Ты ждёшь автобус каждое утро."
+    },
+    {
+      "id": "117",
+      "g": "1",
+      "w": "él/ella espera",
+      "t": "он ждёт",
+      "e": "Él espera el autobús cada mañana.",
+      "p": "Он ждёт автобус каждое утро."
+    },
+    {
+      "id": "118",
+      "g": "1",
+      "w": "nosotros esperamos",
+      "t": "мы ждём",
+      "e": "Nosotros esperamos el autobús cada mañana.",
+      "p": "Мы ждём автобус каждое утро."
+    },
+    {
+      "id": "119",
+      "g": "1",
+      "w": "vosotros esperáis",
+      "t": "вы ждёте",
+      "e": "Vosotros esperáis el autobús cada mañana.",
+      "p": "Вы ждёте автобус каждое утро."
+    },
+    {
+      "id": "120",
+      "g": "1",
+      "w": "ellos esperan",
+      "t": "они ждут",
+      "e": "Ellos esperan el autobús cada mañana.",
+      "p": "Они ждут автобус каждое утро."
+    },
+    {
+      "id": "121",
+      "g": "1",
+      "w": "yo vengo",
+      "t": "я приезжаю",
+      "e": "Yo vengo a trabajar en autobús.",
+      "p": "Я приезжаю на работу на автобусе."
+    },
+    {
+      "id": "122",
+      "g": "1",
+      "w": "tú vienes",
+      "t": "ты приезжаешь",
+      "e": "Tú vienes a trabajar en autobús.",
+      "p": "Ты приезжаешь на работу на автобусе."
+    },
+    {
+      "id": "123",
+      "g": "1",
+      "w": "él/ella viene",
+      "t": "он приезжает",
+      "e": "Él viene a trabajar en autobús.",
+      "p": "Он приезжает на работу на автобусе."
+    },
+    {
+      "id": "124",
+      "g": "1",
+      "w": "nosotros venimos",
+      "t": "мы приезжаем",
+      "e": "Nosotros venimos a trabajar en autobús.",
+      "p": "Мы приезжаем на работу на автобусе."
+    },
+    {
+      "id": "125",
+      "g": "1",
+      "w": "vosotros venís",
+      "t": "вы приезжаете",
+      "e": "Vosotros venís a trabajar en autobús.",
+      "p": "Вы приезжаете на работу на автобусе."
+    },
+    {
+      "id": "126",
+      "g": "1",
+      "w": "ellos vienen",
+      "t": "они приезжают",
+      "e": "Ellos vienen a trabajar en autobús.",
+      "p": "Они приезжают на работу на автобусе."
+    },
+    {
+      "id": "127",
+      "g": "1",
+      "w": "yo necesito",
+      "t": "я нуждаюсь в",
+      "e": "Yo necesito más tiempo para estudiar.",
+      "p": "Мне нужно больше времени для учёбы."
+    },
+    {
+      "id": "128",
+      "g": "1",
+      "w": "tú necesitas",
+      "t": "ты нуждаешься в",
+      "e": "Tú necesitas más tiempo para estudiar.",
+      "p": "Тебе нужно больше времени для учёбы."
+    },
+    {
+      "id": "129",
+      "g": "1",
+      "w": "él/ella necesita",
+      "t": "он нуждается в",
+      "e": "Él necesita más tiempo para estudiar.",
+      "p": "Ему нужно больше времени для учёбы."
+    },
+    {
+      "id": "130",
+      "g": "1",
+      "w": "nosotros necesitamos",
+      "t": "мы нуждаемся в",
+      "e": "Nosotros necesitamos más tiempo para estudiar.",
+      "p": "Нам нужно больше времени для учёбы."
+    },
+    {
+      "id": "131",
+      "g": "1",
+      "w": "vosotros necesitáis",
+      "t": "вы нуждаетесь в",
+      "e": "Vosotros necesitáis más tiempo para estudiar.",
+      "p": "Вам нужно больше времени для учёбы."
+    },
+    {
+      "id": "132",
+      "g": "1",
+      "w": "ellos necesitan",
+      "t": "они нуждаются в",
+      "e": "Ellos necesitan más tiempo para estudiar.",
+      "p": "Им нужно больше времени для учёбы."
+    },
+    {
+      "id": "133",
+      "g": "1",
+      "w": "yo miro",
+      "t": "я смотрю",
+      "e": "Yo miro el mapa antes de salir.",
+      "p": "Я смотрю карту перед выходом."
+    },
+    {
+      "id": "134",
+      "g": "1",
+      "w": "tú miras",
+      "t": "ты смотришь",
+      "e": "Tú miras el mapa antes de salir.",
+      "p": "Ты смотришь карту перед выходом."
+    },
+    {
+      "id": "135",
+      "g": "1",
+      "w": "él/ella mira",
+      "t": "он смотрит",
+      "e": "Él mira el mapa antes de salir.",
+      "p": "Он смотрит карту перед выходом."
+    },
+    {
+      "id": "136",
+      "g": "1",
+      "w": "nosotros miramos",
+      "t": "мы смотрим",
+      "e": "Nosotros miramos el mapa antes de salir.",
+      "p": "Мы смотрим карту перед выходом."
+    },
+    {
+      "id": "137",
+      "g": "1",
+      "w": "vosotros miráis",
+      "t": "вы смотрите",
+      "e": "Vosotros miráis el mapa antes de salir.",
+      "p": "Вы смотрите карту перед выходом."
+    },
+    {
+      "id": "138",
+      "g": "1",
+      "w": "ellos miran",
+      "t": "они смотрят",
+      "e": "Ellos miran el mapa antes de salir.",
+      "p": "Они смотрят карту перед выходом."
+    },
+    {
+      "id": "139",
+      "g": "1",
+      "w": "yo vuelvo",
+      "t": "я возвращаюсь",
+      "e": "Yo vuelvo a casa después del trabajo.",
+      "p": "Я возвращаюсь домой после работы."
+    },
+    {
+      "id": "140",
+      "g": "1",
+      "w": "tú vuelves",
+      "t": "ты возвращаешься",
+      "e": "Tú vuelves a casa después del trabajo.",
+      "p": "Ты возвращаешься домой после работы."
+    },
+    {
+      "id": "141",
+      "g": "1",
+      "w": "él/ella vuelve",
+      "t": "он возвращается",
+      "e": "Él vuelve a casa después del trabajo.",
+      "p": "Он возвращается домой после работы."
+    },
+    {
+      "id": "142",
+      "g": "1",
+      "w": "nosotros volvemos",
+      "t": "мы возвращаемся",
+      "e": "Nosotros volvemos a casa después del trabajo.",
+      "p": "Мы возвращаемся домой после работы."
+    },
+    {
+      "id": "143",
+      "g": "1",
+      "w": "vosotros volvéis",
+      "t": "вы возвращаетесь",
+      "e": "Vosotros volvéis a casa después del trabajo.",
+      "p": "Вы возвращаетесь домой после работы."
+    },
+    {
+      "id": "144",
+      "g": "1",
+      "w": "ellos vuelven",
+      "t": "они возвращаются",
+      "e": "Ellos vuelven a casa después del trabajo.",
+      "p": "Они возвращаются домой после работы."
+    },
+    {
+      "id": "145",
+      "g": "1",
+      "w": "yo parezco",
+      "t": "я кажусь",
+      "e": "Yo parezco una persona tranquila.",
+      "p": "Я кажусь спокойным человеком."
+    },
+    {
+      "id": "146",
+      "g": "1",
+      "w": "tú pareces",
+      "t": "ты кажешься",
+      "e": "Tú pareces una persona tranquila.",
+      "p": "Ты кажешься спокойным человеком."
+    },
+    {
+      "id": "147",
+      "g": "1",
+      "w": "él/ella parece",
+      "t": "он кажется",
+      "e": "Él parece una persona tranquila.",
+      "p": "Он кажется спокойным человеком."
+    },
+    {
+      "id": "148",
+      "g": "1",
+      "w": "nosotros parecemos",
+      "t": "мы кажемся",
+      "e": "Nosotros parecemos personas tranquilas.",
+      "p": "Мы кажемся спокойными людьми."
+    },
+    {
+      "id": "149",
+      "g": "1",
+      "w": "vosotros parecéis",
+      "t": "вы кажетесь",
+      "e": "Vosotros parecéis personas tranquilas.",
+      "p": "Вы кажетесь спокойными людьми."
+    },
+    {
+      "id": "150",
+      "g": "1",
+      "w": "ellos parecen",
+      "t": "они кажутся",
+      "e": "Ellos parecen personas tranquilas.",
+      "p": "Они кажутся спокойными людьми."
+    },
+    {
+      "id": "151",
+      "g": "2",
+      "w": "yo fui",
+      "t": "я был",
+      "e": "Yo fui responsable de las compras el año pasado.",
+      "p": "Я был ответственным за покупки в прошлом году."
+    },
+    {
+      "id": "152",
+      "g": "2",
+      "w": "tú fuiste",
+      "t": "ты был",
+      "e": "Tú fuiste responsable de las compras el año pasado.",
+      "p": "Ты был ответственным за покупки в прошлом году."
+    },
+    {
+      "id": "153",
+      "g": "2",
+      "w": "él/ella fue",
+      "t": "он был",
+      "e": "Él fue responsable de las compras el año pasado.",
+      "p": "Он был ответственным за покупки в прошлом году."
+    },
+    {
+      "id": "154",
+      "g": "2",
+      "w": "nosotros fuimos",
+      "t": "мы были",
+      "e": "Nosotros fuimos responsables de las compras el año pasado.",
+      "p": "Мы были ответственными за покупки в прошлом году."
+    },
+    {
+      "id": "155",
+      "g": "2",
+      "w": "vosotros fuisteis",
+      "t": "вы были",
+      "e": "Vosotros fuisteis responsables de las compras el año pasado.",
+      "p": "Вы были ответственными за покупки в прошлом году."
+    },
+    {
+      "id": "156",
+      "g": "2",
+      "w": "ellos fueron",
+      "t": "они были",
+      "e": "Ellos fueron responsables de las compras el año pasado.",
+      "p": "Они были ответственными за покупки в прошлом году."
+    },
+    {
+      "id": "157",
+      "g": "2",
+      "w": "yo estuve",
+      "t": "я был",
+      "e": "Yo estuve en la consulta del médico ayer.",
+      "p": "Я был вчера в кабинете врача."
+    },
+    {
+      "id": "158",
+      "g": "2",
+      "w": "tú estuviste",
+      "t": "ты был",
+      "e": "Tú estuviste en la consulta del médico ayer.",
+      "p": "Ты был вчера в кабинете врача."
+    },
+    {
+      "id": "159",
+      "g": "2",
+      "w": "él/ella estuvo",
+      "t": "он был",
+      "e": "Él estuvo en la consulta del médico ayer.",
+      "p": "Он был вчера в кабинете врача."
+    },
+    {
+      "id": "160",
+      "g": "2",
+      "w": "nosotros estuvimos",
+      "t": "мы были",
+      "e": "Nosotros estuvimos en la consulta del médico ayer.",
+      "p": "Мы были вчера в кабинете врача."
+    },
+    {
+      "id": "161",
+      "g": "2",
+      "w": "vosotros estuvisteis",
+      "t": "вы были",
+      "e": "Vosotros estuvisteis en la consulta del médico ayer.",
+      "p": "Вы были вчера в кабинете врача."
+    },
+    {
+      "id": "162",
+      "g": "2",
+      "w": "ellos estuvieron",
+      "t": "они были",
+      "e": "Ellos estuvieron en la consulta del médico ayer.",
+      "p": "Они были вчера в кабинете врача."
+    },
+    {
+      "id": "163",
+      "g": "2",
+      "w": "yo hube pagado",
+      "t": "я оплатил (книжная форма)",
+      "e": "En cuanto hube pagado la cuenta, salí del restaurante.",
+      "p": "Как только я оплатил счёт, вышел из ресторана."
+    },
+    {
+      "id": "164",
+      "g": "2",
+      "w": "tú hubiste pagado",
+      "t": "ты оплатил (книжная форма)",
+      "e": "En cuanto hubiste pagado la cuenta, saliste del restaurante.",
+      "p": "Как только ты оплатил счёт, вышел из ресторана."
+    },
+    {
+      "id": "165",
+      "g": "2",
+      "w": "él/ella hubo pagado",
+      "t": "он оплатил (книжная форма)",
+      "e": "En cuanto hubo pagado la cuenta, salió del restaurante.",
+      "p": "Как только он оплатил счёт, вышел из ресторана."
+    },
+    {
+      "id": "166",
+      "g": "2",
+      "w": "nosotros hubimos pagado",
+      "t": "мы оплатили (книжная форма)",
+      "e": "En cuanto hubimos pagado la cuenta, salimos del restaurante.",
+      "p": "Как только мы оплатили счёт, вышли из ресторана."
+    },
+    {
+      "id": "167",
+      "g": "2",
+      "w": "vosotros hubisteis pagado",
+      "t": "вы оплатили (книжная форма)",
+      "e": "En cuanto hubisteis pagado la cuenta, salisteis del restaurante.",
+      "p": "Как только вы оплатили счёт, вышли из ресторана."
+    },
+    {
+      "id": "168",
+      "g": "2",
+      "w": "ellos hubieron pagado",
+      "t": "они оплатили (книжная форма)",
+      "e": "En cuanto hubieron pagado la cuenta, salieron del restaurante.",
+      "p": "Как только они оплатили счёт, вышли из ресторана."
+    },
+    {
+      "id": "169",
+      "g": "2",
+      "w": "yo tuve",
+      "t": "я имел",
+      "e": "Yo tuve un problema con el coche ayer.",
+      "p": "У меня вчера была проблема с машиной."
+    },
+    {
+      "id": "170",
+      "g": "2",
+      "w": "tú tuviste",
+      "t": "ты имел",
+      "e": "Tú tuviste un problema con el coche ayer.",
+      "p": "У тебя вчера была проблема с машиной."
+    },
+    {
+      "id": "171",
+      "g": "2",
+      "w": "él/ella tuvo",
+      "t": "он имел",
+      "e": "Él tuvo un problema con el coche ayer.",
+      "p": "У него вчера была проблема с машиной."
+    },
+    {
+      "id": "172",
+      "g": "2",
+      "w": "nosotros tuvimos",
+      "t": "мы имели",
+      "e": "Nosotros tuvimos un problema con el coche ayer.",
+      "p": "У нас вчера была проблема с машиной."
+    },
+    {
+      "id": "173",
+      "g": "2",
+      "w": "vosotros tuvisteis",
+      "t": "вы имели",
+      "e": "Vosotros tuvisteis un problema con el coche ayer.",
+      "p": "У вас вчера была проблема с машиной."
+    },
+    {
+      "id": "174",
+      "g": "2",
+      "w": "ellos tuvieron",
+      "t": "они имели",
+      "e": "Ellos tuvieron un problema con el coche ayer.",
+      "p": "У них вчера была проблема с машиной."
+    },
+    {
+      "id": "175",
+      "g": "2",
+      "w": "yo fui",
+      "t": "я сходил",
+      "e": "Yo fui al centro ayer por la tarde.",
+      "p": "Я сходил в центр вчера днём."
+    },
+    {
+      "id": "176",
+      "g": "2",
+      "w": "tú fuiste",
+      "t": "ты сходил",
+      "e": "Tú fuiste al centro ayer por la tarde.",
+      "p": "Ты сходил в центр вчера днём."
+    },
+    {
+      "id": "177",
+      "g": "2",
+      "w": "él/ella fue",
+      "t": "он сходил",
+      "e": "Él fue al centro ayer por la tarde.",
+      "p": "Он сходил в центр вчера днём."
+    },
+    {
+      "id": "178",
+      "g": "2",
+      "w": "nosotros fuimos",
+      "t": "мы сходили",
+      "e": "Nosotros fuimos al centro ayer por la tarde.",
+      "p": "Мы сходили в центр вчера днём."
+    },
+    {
+      "id": "179",
+      "g": "2",
+      "w": "vosotros fuisteis",
+      "t": "вы сходили",
+      "e": "Vosotros fuisteis al centro ayer por la tarde.",
+      "p": "Вы сходили в центр вчера днём."
+    },
+    {
+      "id": "180",
+      "g": "2",
+      "w": "ellos fueron",
+      "t": "они сходили",
+      "e": "Ellos fueron al centro ayer por la tarde.",
+      "p": "Они сходили в центр вчера днём."
+    },
+    {
+      "id": "181",
+      "g": "2",
+      "w": "yo pude",
+      "t": "я смог",
+      "e": "Yo pude aparcar cerca del hotel ayer.",
+      "p": "Я смог припарковаться рядом с отелем вчера."
+    },
+    {
+      "id": "182",
+      "g": "2",
+      "w": "tú pudiste",
+      "t": "ты смог",
+      "e": "Tú pudiste aparcar cerca del hotel ayer.",
+      "p": "Ты смог припарковаться рядом с отелем вчера."
+    },
+    {
+      "id": "183",
+      "g": "2",
+      "w": "él/ella pudo",
+      "t": "он смог",
+      "e": "Él pudo aparcar cerca del hotel ayer.",
+      "p": "Он смог припарковаться рядом с отелем вчера."
+    },
+    {
+      "id": "184",
+      "g": "2",
+      "w": "nosotros pudimos",
+      "t": "мы смогли",
+      "e": "Nosotros pudimos aparcar cerca del hotel ayer.",
+      "p": "Мы смогли припарковаться рядом с отелем вчера."
+    },
+    {
+      "id": "185",
+      "g": "2",
+      "w": "vosotros pudisteis",
+      "t": "вы смогли",
+      "e": "Vosotros pudisteis aparcar cerca del hotel ayer.",
+      "p": "Вы смогли припарковаться рядом с отелем вчера."
+    },
+    {
+      "id": "186",
+      "g": "2",
+      "w": "ellos pudieron",
+      "t": "они смогли",
+      "e": "Ellos pudieron aparcar cerca del hotel ayer.",
+      "p": "Они смогли припарковаться рядом с отелем вчера."
+    },
+    {
+      "id": "187",
+      "g": "2",
+      "w": "yo hice",
+      "t": "я сделал",
+      "e": "Yo hice una reserva en el restaurante ayer.",
+      "p": "Я сделал бронь в ресторане вчера."
+    },
+    {
+      "id": "188",
+      "g": "2",
+      "w": "tú hiciste",
+      "t": "ты сделал",
+      "e": "Tú hiciste una reserva en el restaurante ayer.",
+      "p": "Ты сделал бронь в ресторане вчера."
+    },
+    {
+      "id": "189",
+      "g": "2",
+      "w": "él/ella hizo",
+      "t": "он сделал",
+      "e": "Él hizo una reserva en el restaurante ayer.",
+      "p": "Он сделал бронь в ресторане вчера."
+    },
+    {
+      "id": "190",
+      "g": "2",
+      "w": "nosotros hicimos",
+      "t": "мы сделали",
+      "e": "Nosotros hicimos una reserva en el restaurante ayer.",
+      "p": "Мы сделали бронь в ресторане вчера."
+    },
+    {
+      "id": "191",
+      "g": "2",
+      "w": "vosotros hicisteis",
+      "t": "вы сделали",
+      "e": "Vosotros hicisteis una reserva en el restaurante ayer.",
+      "p": "Вы сделали бронь в ресторане вчера."
+    },
+    {
+      "id": "192",
+      "g": "2",
+      "w": "ellos hicieron",
+      "t": "они сделали",
+      "e": "Ellos hicieron una reserva en el restaurante ayer.",
+      "p": "Они сделали бронь в ресторане вчера."
+    },
+    {
+      "id": "193",
+      "g": "2",
+      "w": "yo dije",
+      "t": "я сказал",
+      "e": "Yo dije adiós al conductor ayer.",
+      "p": "Я сказал до свидания водителю вчера."
+    },
+    {
+      "id": "194",
+      "g": "2",
+      "w": "tú dijiste",
+      "t": "ты сказал",
+      "e": "Tú dijiste adiós al conductor ayer.",
+      "p": "Ты сказал до свидания водителю вчера."
+    },
+    {
+      "id": "195",
+      "g": "2",
+      "w": "él/ella dijo",
+      "t": "он сказал",
+      "e": "Él dijo adiós al conductor ayer.",
+      "p": "Он сказал до свидания водителю вчера."
+    },
+    {
+      "id": "196",
+      "g": "2",
+      "w": "nosotros dijimos",
+      "t": "мы сказали",
+      "e": "Nosotros dijimos adiós al conductor ayer.",
+      "p": "Мы сказали до свидания водителю вчера."
+    },
+    {
+      "id": "197",
+      "g": "2",
+      "w": "vosotros dijisteis",
+      "t": "вы сказали",
+      "e": "Vosotros dijisteis adiós al conductor ayer.",
+      "p": "Вы сказали до свидания водителю вчера."
+    },
+    {
+      "id": "198",
+      "g": "2",
+      "w": "ellos dijeron",
+      "t": "они сказали",
+      "e": "Ellos dijeron adiós al conductor ayer.",
+      "p": "Они сказали до свидания водителю вчера."
+    },
+    {
+      "id": "199",
+      "g": "2",
+      "w": "yo supe",
+      "t": "я узнал",
+      "e": "Yo supe la noticia por la mañana.",
+      "p": "Я узнал новость утром."
+    },
+    {
+      "id": "200",
+      "g": "2",
+      "w": "tú supiste",
+      "t": "ты узнал",
+      "e": "Tú supiste la noticia por la mañana.",
+      "p": "Ты узнал новость утром."
+    },
+    {
+      "id": "201",
+      "g": "2",
+      "w": "él/ella supo",
+      "t": "он узнал",
+      "e": "Él supo la noticia por la mañana.",
+      "p": "Он узнал новость утром."
+    },
+    {
+      "id": "202",
+      "g": "2",
+      "w": "nosotros supimos",
+      "t": "мы узнали",
+      "e": "Nosotros supimos la noticia por la mañana.",
+      "p": "Мы узнали новость утром."
+    },
+    {
+      "id": "203",
+      "g": "2",
+      "w": "vosotros supisteis",
+      "t": "вы узнали",
+      "e": "Vosotros supisteis la noticia por la mañana.",
+      "p": "Вы узнали новость утром."
+    },
+    {
+      "id": "204",
+      "g": "2",
+      "w": "ellos supieron",
+      "t": "они узнали",
+      "e": "Ellos supieron la noticia por la mañana.",
+      "p": "Они узнали новость утром."
+    },
+    {
+      "id": "205",
+      "g": "2",
+      "w": "yo quise",
+      "t": "я захотел",
+      "e": "Yo quise descansar después del viaje.",
+      "p": "Я захотел отдохнуть после поездки."
+    },
+    {
+      "id": "206",
+      "g": "2",
+      "w": "tú quisiste",
+      "t": "ты захотел",
+      "e": "Tú quisiste descansar después del viaje.",
+      "p": "Ты захотел отдохнуть после поездки."
+    },
+    {
+      "id": "207",
+      "g": "2",
+      "w": "él/ella quiso",
+      "t": "он захотел",
+      "e": "Él quiso descansar después del viaje.",
+      "p": "Он захотел отдохнуть после поездки."
+    },
+    {
+      "id": "208",
+      "g": "2",
+      "w": "nosotros quisimos",
+      "t": "мы захотели",
+      "e": "Nosotros quisimos descansar después del viaje.",
+      "p": "Мы захотели отдохнуть после поездки."
+    },
+    {
+      "id": "209",
+      "g": "2",
+      "w": "vosotros quisisteis",
+      "t": "вы захотели",
+      "e": "Vosotros quisisteis descansar después del viaje.",
+      "p": "Вы захотели отдохнуть после поездки."
+    },
+    {
+      "id": "210",
+      "g": "2",
+      "w": "ellos quisieron",
+      "t": "они захотели",
+      "e": "Ellos quisieron descansar después del viaje.",
+      "p": "Они захотели отдохнуть после поездки."
+    },
+    {
+      "id": "211",
+      "g": "2",
+      "w": "yo vi",
+      "t": "я посмотрел",
+      "e": "Yo vi una película ayer.",
+      "p": "Я посмотрел фильм вчера."
+    },
+    {
+      "id": "212",
+      "g": "2",
+      "w": "tú viste",
+      "t": "ты посмотрел",
+      "e": "Tú viste una película ayer.",
+      "p": "Ты посмотрел фильм вчера."
+    },
+    {
+      "id": "213",
+      "g": "2",
+      "w": "él/ella vio",
+      "t": "он посмотрел",
+      "e": "Él vio una película ayer.",
+      "p": "Он посмотрел фильм вчера."
+    },
+    {
+      "id": "214",
+      "g": "2",
+      "w": "nosotros vimos",
+      "t": "мы посмотрели",
+      "e": "Nosotros vimos una película ayer.",
+      "p": "Мы посмотрели фильм вчера."
+    },
+    {
+      "id": "215",
+      "g": "2",
+      "w": "vosotros visteis",
+      "t": "вы посмотрели",
+      "e": "Vosotros visteis una película ayer.",
+      "p": "Вы посмотрели фильм вчера."
+    },
+    {
+      "id": "216",
+      "g": "2",
+      "w": "ellos vieron",
+      "t": "они посмотрели",
+      "e": "Ellos vieron una película ayer.",
+      "p": "Они посмотрели фильм вчера."
+    },
+    {
+      "id": "217",
+      "g": "2",
+      "w": "yo creí",
+      "t": "я подумал",
+      "e": "Yo creí que la tienda estaba cerrada.",
+      "p": "Я подумал что магазин был закрыт."
+    },
+    {
+      "id": "218",
+      "g": "2",
+      "w": "tú creíste",
+      "t": "ты подумал",
+      "e": "Tú creíste que la tienda estaba cerrada.",
+      "p": "Ты подумал что магазин был закрыт."
+    },
+    {
+      "id": "219",
+      "g": "2",
+      "w": "él/ella creyó",
+      "t": "он подумал",
+      "e": "Él creyó que la tienda estaba cerrada.",
+      "p": "Он подумал что магазин был закрыт."
+    },
+    {
+      "id": "220",
+      "g": "2",
+      "w": "nosotros creímos",
+      "t": "мы подумали",
+      "e": "Nosotros creímos que la tienda estaba cerrada.",
+      "p": "Мы подумали что магазин был закрыт."
+    },
+    {
+      "id": "221",
+      "g": "2",
+      "w": "vosotros creísteis",
+      "t": "вы подумали",
+      "e": "Vosotros creísteis que la tienda estaba cerrada.",
+      "p": "Вы подумали что магазин был закрыт."
+    },
+    {
+      "id": "222",
+      "g": "2",
+      "w": "ellos creyeron",
+      "t": "они подумали",
+      "e": "Ellos creyeron que la tienda estaba cerrada.",
+      "p": "Они подумали что магазин был закрыт."
+    },
+    {
+      "id": "223",
+      "g": "2",
+      "w": "yo debí",
+      "t": "я должен был",
+      "e": "Yo debí llamar al médico ayer.",
+      "p": "Я должен был позвонить врачу вчера."
+    },
+    {
+      "id": "224",
+      "g": "2",
+      "w": "tú debiste",
+      "t": "ты должен был",
+      "e": "Tú debiste llamar al médico ayer.",
+      "p": "Ты должен был позвонить врачу вчера."
+    },
+    {
+      "id": "225",
+      "g": "2",
+      "w": "él/ella debió",
+      "t": "он должен был",
+      "e": "Él debió llamar al médico ayer.",
+      "p": "Он должен был позвонить врачу вчера."
+    },
+    {
+      "id": "226",
+      "g": "2",
+      "w": "nosotros debimos",
+      "t": "мы должны были",
+      "e": "Nosotros debimos llamar al médico ayer.",
+      "p": "Мы должны были позвонить врачу вчера."
+    },
+    {
+      "id": "227",
+      "g": "2",
+      "w": "vosotros debisteis",
+      "t": "вы должны были",
+      "e": "Vosotros debisteis llamar al médico ayer.",
+      "p": "Вы должны были позвонить врачу вчера."
+    },
+    {
+      "id": "228",
+      "g": "2",
+      "w": "ellos debieron",
+      "t": "они должны были",
+      "e": "Ellos debieron llamar al médico ayer.",
+      "p": "Они должны были позвонить врачу вчера."
+    },
+    {
+      "id": "229",
+      "g": "2",
+      "w": "yo di",
+      "t": "я подарил",
+      "e": "Yo di un regalo a un amigo ayer.",
+      "p": "Я подарил подарок другу вчера."
+    },
+    {
+      "id": "230",
+      "g": "2",
+      "w": "tú diste",
+      "t": "ты подарил",
+      "e": "Tú diste un regalo a un amigo ayer.",
+      "p": "Ты подарил подарок другу вчера."
+    },
+    {
+      "id": "231",
+      "g": "2",
+      "w": "él/ella dio",
+      "t": "он подарил",
+      "e": "Él dio un regalo a un amigo ayer.",
+      "p": "Он подарил подарок другу вчера."
+    },
+    {
+      "id": "232",
+      "g": "2",
+      "w": "nosotros dimos",
+      "t": "мы подарили",
+      "e": "Nosotros dimos un regalo a un amigo ayer.",
+      "p": "Мы подарили подарок другу вчера."
+    },
+    {
+      "id": "233",
+      "g": "2",
+      "w": "vosotros disteis",
+      "t": "вы подарили",
+      "e": "Vosotros disteis un regalo a un amigo ayer.",
+      "p": "Вы подарили подарок другу вчера."
+    },
+    {
+      "id": "234",
+      "g": "2",
+      "w": "ellos dieron",
+      "t": "они подарили",
+      "e": "Ellos dieron un regalo a un amigo ayer.",
+      "p": "Они подарили подарок другу вчера."
+    },
+    {
+      "id": "235",
+      "g": "2",
+      "w": "yo pasé",
+      "t": "я провёл",
+      "e": "Yo pasé la tarde en la playa.",
+      "p": "Я провёл вторую половину дня на пляже."
+    },
+    {
+      "id": "236",
+      "g": "2",
+      "w": "tú pasaste",
+      "t": "ты провёл",
+      "e": "Tú pasaste la tarde en la playa.",
+      "p": "Ты провёл вторую половину дня на пляже."
+    },
+    {
+      "id": "237",
+      "g": "2",
+      "w": "él/ella pasó",
+      "t": "он провёл",
+      "e": "Él pasó la tarde en la playa.",
+      "p": "Он провёл вторую половину дня на пляже."
+    },
+    {
+      "id": "238",
+      "g": "2",
+      "w": "nosotros pasamos",
+      "t": "мы провели",
+      "e": "Nosotros pasamos la tarde en la playa.",
+      "p": "Мы провели вторую половину дня на пляже."
+    },
+    {
+      "id": "239",
+      "g": "2",
+      "w": "vosotros pasasteis",
+      "t": "вы провели",
+      "e": "Vosotros pasasteis la tarde en la playa.",
+      "p": "Вы провели вторую половину дня на пляже."
+    },
+    {
+      "id": "240",
+      "g": "2",
+      "w": "ellos pasaron",
+      "t": "они провели",
+      "e": "Ellos pasaron la tarde en la playa.",
+      "p": "Они провели вторую половину дня на пляже."
+    },
+    {
+      "id": "241",
+      "g": "2",
+      "w": "yo hablé",
+      "t": "я поговорил",
+      "e": "Yo hablé con un turista ayer.",
+      "p": "Я поговорил с туристом вчера."
+    },
+    {
+      "id": "242",
+      "g": "2",
+      "w": "tú hablaste",
+      "t": "ты поговорил",
+      "e": "Tú hablaste con un turista ayer.",
+      "p": "Ты поговорил с туристом вчера."
+    },
+    {
+      "id": "243",
+      "g": "2",
+      "w": "él/ella habló",
+      "t": "он поговорил",
+      "e": "Él habló con un turista ayer.",
+      "p": "Он поговорил с туристом вчера."
+    },
+    {
+      "id": "244",
+      "g": "2",
+      "w": "nosotros hablamos",
+      "t": "мы поговорили",
+      "e": "Nosotros hablamos con un turista ayer.",
+      "p": "Мы поговорили с туристом вчера."
+    },
+    {
+      "id": "245",
+      "g": "2",
+      "w": "vosotros hablasteis",
+      "t": "вы поговорили",
+      "e": "Vosotros hablasteis con un turista ayer.",
+      "p": "Вы поговорили с туристом вчера."
+    },
+    {
+      "id": "246",
+      "g": "2",
+      "w": "ellos hablaron",
+      "t": "они поговорили",
+      "e": "Ellos hablaron con un turista ayer.",
+      "p": "Они поговорили с туристом вчера."
+    },
+    {
+      "id": "247",
+      "g": "2",
+      "w": "yo dejé",
+      "t": "я оставил",
+      "e": "Yo dejé las llaves en el hotel ayer.",
+      "p": "Я оставил ключи в отеле вчера."
+    },
+    {
+      "id": "248",
+      "g": "2",
+      "w": "tú dejaste",
+      "t": "ты оставил",
+      "e": "Tú dejaste las llaves en el hotel ayer.",
+      "p": "Ты оставил ключи в отеле вчера."
+    },
+    {
+      "id": "249",
+      "g": "2",
+      "w": "él/ella dejó",
+      "t": "он оставил",
+      "e": "Él dejó las llaves en el hotel ayer.",
+      "p": "Он оставил ключи в отеле вчера."
+    },
+    {
+      "id": "250",
+      "g": "2",
+      "w": "nosotros dejamos",
+      "t": "мы оставили",
+      "e": "Nosotros dejamos las llaves en el hotel ayer.",
+      "p": "Мы оставили ключи в отеле вчера."
+    },
+    {
+      "id": "251",
+      "g": "2",
+      "w": "vosotros dejasteis",
+      "t": "вы оставили",
+      "e": "Vosotros dejasteis las llaves en el hotel ayer.",
+      "p": "Вы оставили ключи в отеле вчера."
+    },
+    {
+      "id": "252",
+      "g": "2",
+      "w": "ellos dejaron",
+      "t": "они оставили",
+      "e": "Ellos dejaron las llaves en el hotel ayer.",
+      "p": "Они оставили ключи в отеле вчера."
+    },
+    {
+      "id": "253",
+      "g": "2",
+      "w": "yo sentí",
+      "t": "я почувствовал",
+      "e": "Yo sentí miedo al conducir de noche ayer.",
+      "p": "Я почувствовал страх за рулём ночью вчера."
+    },
+    {
+      "id": "254",
+      "g": "2",
+      "w": "tú sentiste",
+      "t": "ты почувствовал",
+      "e": "Tú sentiste miedo al conducir de noche ayer.",
+      "p": "Ты почувствовал страх за рулём ночью вчера."
+    },
+    {
+      "id": "255",
+      "g": "2",
+      "w": "él/ella sintió",
+      "t": "он почувствовал",
+      "e": "Él sintió miedo al conducir de noche ayer.",
+      "p": "Он почувствовал страх за рулём ночью вчера."
+    },
+    {
+      "id": "256",
+      "g": "2",
+      "w": "nosotros sentimos",
+      "t": "мы почувствовали",
+      "e": "Nosotros sentimos miedo al conducir de noche ayer.",
+      "p": "Мы почувствовали страх за рулём ночью вчера."
+    },
+    {
+      "id": "257",
+      "g": "2",
+      "w": "vosotros sentisteis",
+      "t": "вы почувствовали",
+      "e": "Vosotros sentisteis miedo al conducir de noche ayer.",
+      "p": "Вы почувствовали страх за рулём ночью вчера."
+    },
+    {
+      "id": "258",
+      "g": "2",
+      "w": "ellos sintieron",
+      "t": "они почувствовали",
+      "e": "Ellos sintieron miedo al conducir de noche ayer.",
+      "p": "Они почувствовали страх за рулём ночью вчера."
+    },
+    {
+      "id": "259",
+      "g": "2",
+      "w": "yo pensé",
+      "t": "я подумал",
+      "e": "Yo pensé en cambiar de trabajo ayer.",
+      "p": "Я подумал о смене работы вчера."
+    },
+    {
+      "id": "260",
+      "g": "2",
+      "w": "tú pensaste",
+      "t": "ты подумал",
+      "e": "Tú pensaste en cambiar de trabajo ayer.",
+      "p": "Ты подумал о смене работы вчера."
+    },
+    {
+      "id": "261",
+      "g": "2",
+      "w": "él/ella pensó",
+      "t": "он подумал",
+      "e": "Él pensó en cambiar de trabajo ayer.",
+      "p": "Он подумал о смене работы вчера."
+    },
+    {
+      "id": "262",
+      "g": "2",
+      "w": "nosotros pensamos",
+      "t": "мы подумали",
+      "e": "Nosotros pensamos en cambiar de trabajo ayer.",
+      "p": "Мы подумали о смене работы вчера."
+    },
+    {
+      "id": "263",
+      "g": "2",
+      "w": "vosotros pensasteis",
+      "t": "вы подумали",
+      "e": "Vosotros pensasteis en cambiar de trabajo ayer.",
+      "p": "Вы подумали о смене работы вчера."
+    },
+    {
+      "id": "264",
+      "g": "2",
+      "w": "ellos pensaron",
+      "t": "они подумали",
+      "e": "Ellos pensaron en cambiar de trabajo ayer.",
+      "p": "Они подумали о смене работы вчера."
+    },
+    {
+      "id": "265",
+      "g": "2",
+      "w": "yo esperé",
+      "t": "я ждал",
+      "e": "Yo esperé una hora en el hospital ayer.",
+      "p": "Я ждал целый час в больнице вчера."
+    },
+    {
+      "id": "266",
+      "g": "2",
+      "w": "tú esperaste",
+      "t": "ты ждал",
+      "e": "Tú esperaste una hora en el hospital ayer.",
+      "p": "Ты ждал целый час в больнице вчера."
+    },
+    {
+      "id": "267",
+      "g": "2",
+      "w": "él/ella esperó",
+      "t": "он ждал",
+      "e": "Él esperó una hora en el hospital ayer.",
+      "p": "Он ждал целый час в больнице вчера."
+    },
+    {
+      "id": "268",
+      "g": "2",
+      "w": "nosotros esperamos",
+      "t": "мы ждали",
+      "e": "Nosotros esperamos una hora en el hospital ayer.",
+      "p": "Мы ждали целый час в больнице вчера."
+    },
+    {
+      "id": "269",
+      "g": "2",
+      "w": "vosotros esperasteis",
+      "t": "вы ждали",
+      "e": "Vosotros esperasteis una hora en el hospital ayer.",
+      "p": "Вы ждали целый час в больнице вчера."
+    },
+    {
+      "id": "270",
+      "g": "2",
+      "w": "ellos esperaron",
+      "t": "они ждали",
+      "e": "Ellos esperaron una hora en el hospital ayer.",
+      "p": "Они ждали целый час в больнице вчера."
+    },
+    {
+      "id": "271",
+      "g": "2",
+      "w": "yo vine",
+      "t": "я пришёл",
+      "e": "Yo vine a la oficina temprano ayer.",
+      "p": "Я пришёл в офис рано вчера."
+    },
+    {
+      "id": "272",
+      "g": "2",
+      "w": "tú viniste",
+      "t": "ты пришёл",
+      "e": "Tú viniste a la oficina temprano ayer.",
+      "p": "Ты пришёл в офис рано вчера."
+    },
+    {
+      "id": "273",
+      "g": "2",
+      "w": "él/ella vino",
+      "t": "он пришёл",
+      "e": "Él vino a la oficina temprano ayer.",
+      "p": "Он пришёл в офис рано вчера."
+    },
+    {
+      "id": "274",
+      "g": "2",
+      "w": "nosotros vinimos",
+      "t": "мы пришли",
+      "e": "Nosotros vinimos a la oficina temprano ayer.",
+      "p": "Мы пришли в офис рано вчера."
+    },
+    {
+      "id": "275",
+      "g": "2",
+      "w": "vosotros vinisteis",
+      "t": "вы пришли",
+      "e": "Vosotros vinisteis a la oficina temprano ayer.",
+      "p": "Вы пришли в офис рано вчера."
+    },
+    {
+      "id": "276",
+      "g": "2",
+      "w": "ellos vinieron",
+      "t": "они пришли",
+      "e": "Ellos vinieron a la oficina temprano ayer.",
+      "p": "Они пришли в офис рано вчера."
+    },
+    {
+      "id": "277",
+      "g": "2",
+      "w": "yo necesité",
+      "t": "я нуждался в",
+      "e": "Yo necesité ayuda con el coche ayer.",
+      "p": "Мне вчера понадобилась помощь с машиной."
+    },
+    {
+      "id": "278",
+      "g": "2",
+      "w": "tú necesitaste",
+      "t": "ты нуждался в",
+      "e": "Tú necesitaste ayuda con el coche ayer.",
+      "p": "Тебе вчера понадобилась помощь с машиной."
+    },
+    {
+      "id": "279",
+      "g": "2",
+      "w": "él/ella necesitó",
+      "t": "он нуждался в",
+      "e": "Él necesitó ayuda con el coche ayer.",
+      "p": "Ему вчера понадобилась помощь с машиной."
+    },
+    {
+      "id": "280",
+      "g": "2",
+      "w": "nosotros necesitamos",
+      "t": "мы нуждались в",
+      "e": "Nosotros necesitamos ayuda con el coche ayer.",
+      "p": "Нам вчера понадобилась помощь с машиной."
+    },
+    {
+      "id": "281",
+      "g": "2",
+      "w": "vosotros necesitasteis",
+      "t": "вы нуждались в",
+      "e": "Vosotros necesitasteis ayuda con el coche ayer.",
+      "p": "Вам вчера понадобилась помощь с машиной."
+    },
+    {
+      "id": "282",
+      "g": "2",
+      "w": "ellos necesitaron",
+      "t": "они нуждались в",
+      "e": "Ellos necesitaron ayuda con el coche ayer.",
+      "p": "Им вчера понадобилась помощь с машиной."
+    },
+    {
+      "id": "283",
+      "g": "2",
+      "w": "yo miré",
+      "t": "я посмотрел",
+      "e": "Yo miré el menú antes de pedir.",
+      "p": "Я посмотрел меню перед заказом."
+    },
+    {
+      "id": "284",
+      "g": "2",
+      "w": "tú miraste",
+      "t": "ты посмотрел",
+      "e": "Tú miraste el menú antes de pedir.",
+      "p": "Ты посмотрел меню перед заказом."
+    },
+    {
+      "id": "285",
+      "g": "2",
+      "w": "él/ella miró",
+      "t": "он посмотрел",
+      "e": "Él miró el menú antes de pedir.",
+      "p": "Он посмотрел меню перед заказом."
+    },
+    {
+      "id": "286",
+      "g": "2",
+      "w": "nosotros miramos",
+      "t": "мы посмотрели",
+      "e": "Nosotros miramos el menú antes de pedir.",
+      "p": "Мы посмотрели меню перед заказом."
+    },
+    {
+      "id": "287",
+      "g": "2",
+      "w": "vosotros mirasteis",
+      "t": "вы посмотрели",
+      "e": "Vosotros mirasteis el menú antes de pedir.",
+      "p": "Вы посмотрели меню перед заказом."
+    },
+    {
+      "id": "288",
+      "g": "2",
+      "w": "ellos miraron",
+      "t": "они посмотрели",
+      "e": "Ellos miraron el menú antes de pedir.",
+      "p": "Они посмотрели меню перед заказом."
+    },
+    {
+      "id": "289",
+      "g": "2",
+      "w": "yo volví",
+      "t": "я вернулся",
+      "e": "Yo volví de las vacaciones ayer.",
+      "p": "Я вернулся из отпуска вчера."
+    },
+    {
+      "id": "290",
+      "g": "2",
+      "w": "tú volviste",
+      "t": "ты вернулся",
+      "e": "Tú volviste de las vacaciones ayer.",
+      "p": "Ты вернулся из отпуска вчера."
+    },
+    {
+      "id": "291",
+      "g": "2",
+      "w": "él/ella volvió",
+      "t": "он вернулся",
+      "e": "Él volvió de las vacaciones ayer.",
+      "p": "Он вернулся из отпуска вчера."
+    },
+    {
+      "id": "292",
+      "g": "2",
+      "w": "nosotros volvimos",
+      "t": "мы вернулись",
+      "e": "Nosotros volvimos de las vacaciones ayer.",
+      "p": "Мы вернулись из отпуска вчера."
+    },
+    {
+      "id": "293",
+      "g": "2",
+      "w": "vosotros volvisteis",
+      "t": "вы вернулись",
+      "e": "Vosotros volvisteis de las vacaciones ayer.",
+      "p": "Вы вернулись из отпуска вчера."
+    },
+    {
+      "id": "294",
+      "g": "2",
+      "w": "ellos volvieron",
+      "t": "они вернулись",
+      "e": "Ellos volvieron de las vacaciones ayer.",
+      "p": "Они вернулись из отпуска вчера."
+    },
+    {
+      "id": "295",
+      "g": "2",
+      "w": "yo parecí",
+      "t": "я показался",
+      "e": "Yo parecí muy serio en la entrevista.",
+      "p": "Я показался очень серьёзным на собеседовании."
+    },
+    {
+      "id": "296",
+      "g": "2",
+      "w": "tú pareciste",
+      "t": "ты показался",
+      "e": "Tú pareciste muy serio en la entrevista.",
+      "p": "Ты показался очень серьёзным на собеседовании."
+    },
+    {
+      "id": "297",
+      "g": "2",
+      "w": "él/ella pareció",
+      "t": "он показался",
+      "e": "Él pareció muy serio en la entrevista.",
+      "p": "Он показался очень серьёзным на собеседовании."
+    },
+    {
+      "id": "298",
+      "g": "2",
+      "w": "nosotros parecimos",
+      "t": "мы показались",
+      "e": "Nosotros parecimos muy serios en la entrevista.",
+      "p": "Мы показались очень серьёзными на собеседовании."
+    },
+    {
+      "id": "299",
+      "g": "2",
+      "w": "vosotros parecisteis",
+      "t": "вы показались",
+      "e": "Vosotros parecisteis muy serios en la entrevista.",
+      "p": "Вы показались очень серьёзными на собеседовании."
+    },
+    {
+      "id": "300",
+      "g": "2",
+      "w": "ellos parecieron",
+      "t": "они показались",
+      "e": "Ellos parecieron muy serios en la entrevista.",
+      "p": "Они показались очень серьёзными на собеседовании."
+    },
+    {
+      "id": "301",
+      "g": "3",
+      "w": "yo era",
+      "t": "я был",
+      "e": "Yo era muy joven en aquella época.",
+      "p": "Я был очень молодым в то время."
+    },
+    {
+      "id": "302",
+      "g": "3",
+      "w": "tú eras",
+      "t": "ты был",
+      "e": "Tú eras muy joven en aquella época.",
+      "p": "Ты был очень молодым в то время."
+    },
+    {
+      "id": "303",
+      "g": "3",
+      "w": "él/ella era",
+      "t": "он был",
+      "e": "Él era muy joven en aquella época.",
+      "p": "Он был очень молодым в то время."
+    },
+    {
+      "id": "304",
+      "g": "3",
+      "w": "nosotros éramos",
+      "t": "мы были",
+      "e": "Nosotros éramos muy jóvenes en aquella época.",
+      "p": "Мы были очень молодыми в то время."
+    },
+    {
+      "id": "305",
+      "g": "3",
+      "w": "vosotros erais",
+      "t": "вы были",
+      "e": "Vosotros erais muy jóvenes en aquella época.",
+      "p": "Вы были очень молодыми в то время."
+    },
+    {
+      "id": "306",
+      "g": "3",
+      "w": "ellos eran",
+      "t": "они были",
+      "e": "Ellos eran muy jóvenes en aquella época.",
+      "p": "Они были очень молодыми в то время."
+    },
+    {
+      "id": "307",
+      "g": "3",
+      "w": "yo estaba",
+      "t": "я был",
+      "e": "Yo estaba en un hotel pequeño durante las vacaciones.",
+      "p": "Я был в маленьком отеле во время отпуска."
+    },
+    {
+      "id": "308",
+      "g": "3",
+      "w": "tú estabas",
+      "t": "ты был",
+      "e": "Tú estabas en un hotel pequeño durante las vacaciones.",
+      "p": "Ты был в маленьком отеле во время отпуска."
+    },
+    {
+      "id": "309",
+      "g": "3",
+      "w": "él/ella estaba",
+      "t": "он был",
+      "e": "Él estaba en un hotel pequeño durante las vacaciones.",
+      "p": "Он был в маленьком отеле во время отпуска."
+    },
+    {
+      "id": "310",
+      "g": "3",
+      "w": "nosotros estábamos",
+      "t": "мы были",
+      "e": "Nosotros estábamos en un hotel pequeño durante las vacaciones.",
+      "p": "Мы были в маленьком отеле во время отпуска."
+    },
+    {
+      "id": "311",
+      "g": "3",
+      "w": "vosotros estabais",
+      "t": "вы были",
+      "e": "Vosotros estabais en un hotel pequeño durante las vacaciones.",
+      "p": "Вы были в маленьком отеле во время отпуска."
+    },
+    {
+      "id": "312",
+      "g": "3",
+      "w": "ellos estaban",
+      "t": "они были",
+      "e": "Ellos estaban en un hotel pequeño durante las vacaciones.",
+      "p": "Они были в маленьком отеле во время отпуска."
+    },
+    {
+      "id": "313",
+      "g": "3",
+      "w": "yo había reservado",
+      "t": "я уже забронировал",
+      "e": "Yo ya había reservado una habitación antes del viaje.",
+      "p": "Я уже забронировал номер до поездки."
+    },
+    {
+      "id": "314",
+      "g": "3",
+      "w": "tú habías reservado",
+      "t": "ты уже забронировал",
+      "e": "Tú ya habías reservado una habitación antes del viaje.",
+      "p": "Ты уже забронировал номер до поездки."
+    },
+    {
+      "id": "315",
+      "g": "3",
+      "w": "él/ella había reservado",
+      "t": "он уже забронировал",
+      "e": "Él ya había reservado una habitación antes del viaje.",
+      "p": "Он уже забронировал номер до поездки."
+    },
+    {
+      "id": "316",
+      "g": "3",
+      "w": "nosotros habíamos reservado",
+      "t": "мы уже забронировали",
+      "e": "Nosotros ya habíamos reservado una habitación antes del viaje.",
+      "p": "Мы уже забронировали номер до поездки."
+    },
+    {
+      "id": "317",
+      "g": "3",
+      "w": "vosotros habíais reservado",
+      "t": "вы уже забронировали",
+      "e": "Vosotros ya habíais reservado una habitación antes del viaje.",
+      "p": "Вы уже забронировали номер до поездки."
+    },
+    {
+      "id": "318",
+      "g": "3",
+      "w": "ellos habían reservado",
+      "t": "они уже забронировали",
+      "e": "Ellos ya habían reservado una habitación antes del viaje.",
+      "p": "Они уже забронировали номер до поездки."
+    },
+    {
+      "id": "319",
+      "g": "3",
+      "w": "yo tenía",
+      "t": "я имел",
+      "e": "Yo tenía mucho trabajo en verano.",
+      "p": "У меня летом было много работы."
+    },
+    {
+      "id": "320",
+      "g": "3",
+      "w": "tú tenías",
+      "t": "ты имел",
+      "e": "Tú tenías mucho trabajo en verano.",
+      "p": "У тебя летом было много работы."
+    },
+    {
+      "id": "321",
+      "g": "3",
+      "w": "él/ella tenía",
+      "t": "он имел",
+      "e": "Él tenía mucho trabajo en verano.",
+      "p": "У него летом было много работы."
+    },
+    {
+      "id": "322",
+      "g": "3",
+      "w": "nosotros teníamos",
+      "t": "мы имели",
+      "e": "Nosotros teníamos mucho trabajo en verano.",
+      "p": "У нас летом было много работы."
+    },
+    {
+      "id": "323",
+      "g": "3",
+      "w": "vosotros teníais",
+      "t": "вы имели",
+      "e": "Vosotros teníais mucho trabajo en verano.",
+      "p": "У вас летом было много работы."
+    },
+    {
+      "id": "324",
+      "g": "3",
+      "w": "ellos tenían",
+      "t": "они имели",
+      "e": "Ellos tenían mucho trabajo en verano.",
+      "p": "У них летом было много работы."
+    },
+    {
+      "id": "325",
+      "g": "3",
+      "w": "yo iba",
+      "t": "я ездил",
+      "e": "Yo iba a la playa cada verano.",
+      "p": "Я ездил на пляж каждое лето."
+    },
+    {
+      "id": "326",
+      "g": "3",
+      "w": "tú ibas",
+      "t": "ты ездил",
+      "e": "Tú ibas a la playa cada verano.",
+      "p": "Ты ездил на пляж каждое лето."
+    },
+    {
+      "id": "327",
+      "g": "3",
+      "w": "él/ella iba",
+      "t": "он ездил",
+      "e": "Él iba a la playa cada verano.",
+      "p": "Он ездил на пляж каждое лето."
+    },
+    {
+      "id": "328",
+      "g": "3",
+      "w": "nosotros íbamos",
+      "t": "мы ездили",
+      "e": "Nosotros íbamos a la playa cada verano.",
+      "p": "Мы ездили на пляж каждое лето."
+    },
+    {
+      "id": "329",
+      "g": "3",
+      "w": "vosotros ibais",
+      "t": "вы ездили",
+      "e": "Vosotros ibais a la playa cada verano.",
+      "p": "Вы ездили на пляж каждое лето."
+    },
+    {
+      "id": "330",
+      "g": "3",
+      "w": "ellos iban",
+      "t": "они ездили",
+      "e": "Ellos iban a la playa cada verano.",
+      "p": "Они ездили на пляж каждое лето."
+    },
+    {
+      "id": "331",
+      "g": "3",
+      "w": "yo podía",
+      "t": "я мог",
+      "e": "Yo podía descansar después del trabajo.",
+      "p": "Я мог отдыхать после работы."
+    },
+    {
+      "id": "332",
+      "g": "3",
+      "w": "tú podías",
+      "t": "ты мог",
+      "e": "Tú podías descansar después del trabajo.",
+      "p": "Ты мог отдыхать после работы."
+    },
+    {
+      "id": "333",
+      "g": "3",
+      "w": "él/ella podía",
+      "t": "он мог",
+      "e": "Él podía descansar después del trabajo.",
+      "p": "Он мог отдыхать после работы."
+    },
+    {
+      "id": "334",
+      "g": "3",
+      "w": "nosotros podíamos",
+      "t": "мы могли",
+      "e": "Nosotros podíamos descansar después del trabajo.",
+      "p": "Мы могли отдыхать после работы."
+    },
+    {
+      "id": "335",
+      "g": "3",
+      "w": "vosotros podíais",
+      "t": "вы могли",
+      "e": "Vosotros podíais descansar después del trabajo.",
+      "p": "Вы могли отдыхать после работы."
+    },
+    {
+      "id": "336",
+      "g": "3",
+      "w": "ellos podían",
+      "t": "они могли",
+      "e": "Ellos podían descansar después del trabajo.",
+      "p": "Они могли отдыхать после работы."
+    },
+    {
+      "id": "337",
+      "g": "3",
+      "w": "yo hacía",
+      "t": "я занимался",
+      "e": "Yo hacía deporte cada mañana.",
+      "p": "Я занимался спортом каждое утро."
+    },
+    {
+      "id": "338",
+      "g": "3",
+      "w": "tú hacías",
+      "t": "ты занимался",
+      "e": "Tú hacías deporte cada mañana.",
+      "p": "Ты занимался спортом каждое утро."
+    },
+    {
+      "id": "339",
+      "g": "3",
+      "w": "él/ella hacía",
+      "t": "он занимался",
+      "e": "Él hacía deporte cada mañana.",
+      "p": "Он занимался спортом каждое утро."
+    },
+    {
+      "id": "340",
+      "g": "3",
+      "w": "nosotros hacíamos",
+      "t": "мы занимались",
+      "e": "Nosotros hacíamos deporte cada mañana.",
+      "p": "Мы занимались спортом каждое утро."
+    },
+    {
+      "id": "341",
+      "g": "3",
+      "w": "vosotros hacíais",
+      "t": "вы занимались",
+      "e": "Vosotros hacíais deporte cada mañana.",
+      "p": "Вы занимались спортом каждое утро."
+    },
+    {
+      "id": "342",
+      "g": "3",
+      "w": "ellos hacían",
+      "t": "они занимались",
+      "e": "Ellos hacían deporte cada mañana.",
+      "p": "Они занимались спортом каждое утро."
+    },
+    {
+      "id": "343",
+      "g": "3",
+      "w": "yo decía",
+      "t": "я говорил",
+      "e": "Yo decía hola a los vecinos cada día.",
+      "p": "Я говорил привет соседям каждый день."
+    },
+    {
+      "id": "344",
+      "g": "3",
+      "w": "tú decías",
+      "t": "ты говорил",
+      "e": "Tú decías hola a los vecinos cada día.",
+      "p": "Ты говорил привет соседям каждый день."
+    },
+    {
+      "id": "345",
+      "g": "3",
+      "w": "él/ella decía",
+      "t": "он говорил",
+      "e": "Él decía hola a los vecinos cada día.",
+      "p": "Он говорил привет соседям каждый день."
+    },
+    {
+      "id": "346",
+      "g": "3",
+      "w": "nosotros decíamos",
+      "t": "мы говорили",
+      "e": "Nosotros decíamos hola a los vecinos cada día.",
+      "p": "Мы говорили привет соседям каждый день."
+    },
+    {
+      "id": "347",
+      "g": "3",
+      "w": "vosotros decíais",
+      "t": "вы говорили",
+      "e": "Vosotros decíais hola a los vecinos cada día.",
+      "p": "Вы говорили привет соседям каждый день."
+    },
+    {
+      "id": "348",
+      "g": "3",
+      "w": "ellos decían",
+      "t": "они говорили",
+      "e": "Ellos decían hola a los vecinos cada día.",
+      "p": "Они говорили привет соседям каждый день."
+    },
+    {
+      "id": "349",
+      "g": "3",
+      "w": "yo sabía",
+      "t": "я умел",
+      "e": "Yo sabía conducir bien hace años.",
+      "p": "Я умел хорошо водить машину много лет назад."
+    },
+    {
+      "id": "350",
+      "g": "3",
+      "w": "tú sabías",
+      "t": "ты умел",
+      "e": "Tú sabías conducir bien hace años.",
+      "p": "Ты умел хорошо водить машину много лет назад."
+    },
+    {
+      "id": "351",
+      "g": "3",
+      "w": "él/ella sabía",
+      "t": "он умел",
+      "e": "Él sabía conducir bien hace años.",
+      "p": "Он умел хорошо водить машину много лет назад."
+    },
+    {
+      "id": "352",
+      "g": "3",
+      "w": "nosotros sabíamos",
+      "t": "мы умели",
+      "e": "Nosotros sabíamos conducir bien hace años.",
+      "p": "Мы умели хорошо водить машину много лет назад."
+    },
+    {
+      "id": "353",
+      "g": "3",
+      "w": "vosotros sabíais",
+      "t": "вы умели",
+      "e": "Vosotros sabíais conducir bien hace años.",
+      "p": "Вы умели хорошо водить машину много лет назад."
+    },
+    {
+      "id": "354",
+      "g": "3",
+      "w": "ellos sabían",
+      "t": "они умели",
+      "e": "Ellos sabían conducir bien hace años.",
+      "p": "Они умели хорошо водить машину много лет назад."
+    },
+    {
+      "id": "355",
+      "g": "3",
+      "w": "yo quería",
+      "t": "я хотел",
+      "e": "Yo quería viajar a Italia cada verano.",
+      "p": "Я хотел ездить в Италию каждое лето."
+    },
+    {
+      "id": "356",
+      "g": "3",
+      "w": "tú querías",
+      "t": "ты хотел",
+      "e": "Tú querías viajar a Italia cada verano.",
+      "p": "Ты хотел ездить в Италию каждое лето."
+    },
+    {
+      "id": "357",
+      "g": "3",
+      "w": "él/ella quería",
+      "t": "он хотел",
+      "e": "Él quería viajar a Italia cada verano.",
+      "p": "Он хотел ездить в Италию каждое лето."
+    },
+    {
+      "id": "358",
+      "g": "3",
+      "w": "nosotros queríamos",
+      "t": "мы хотели",
+      "e": "Nosotros queríamos viajar a Italia cada verano.",
+      "p": "Мы хотели ездить в Италию каждое лето."
+    },
+    {
+      "id": "359",
+      "g": "3",
+      "w": "vosotros queríais",
+      "t": "вы хотели",
+      "e": "Vosotros queríais viajar a Italia cada verano.",
+      "p": "Вы хотели ездить в Италию каждое лето."
+    },
+    {
+      "id": "360",
+      "g": "3",
+      "w": "ellos querían",
+      "t": "они хотели",
+      "e": "Ellos querían viajar a Italia cada verano.",
+      "p": "Они хотели ездить в Италию каждое лето."
+    },
+    {
+      "id": "361",
+      "g": "3",
+      "w": "yo veía",
+      "t": "я видел",
+      "e": "Yo veía a mis amigos cada fin de semana.",
+      "p": "Я видел друзей каждые выходные."
+    },
+    {
+      "id": "362",
+      "g": "3",
+      "w": "tú veías",
+      "t": "ты видел",
+      "e": "Tú veías a mis amigos cada fin de semana.",
+      "p": "Ты видел друзей каждые выходные."
+    },
+    {
+      "id": "363",
+      "g": "3",
+      "w": "él/ella veía",
+      "t": "он видел",
+      "e": "Él veía a mis amigos cada fin de semana.",
+      "p": "Он видел друзей каждые выходные."
+    },
+    {
+      "id": "364",
+      "g": "3",
+      "w": "nosotros veíamos",
+      "t": "мы видели",
+      "e": "Nosotros veíamos a mis amigos cada fin de semana.",
+      "p": "Мы видели друзей каждые выходные."
+    },
+    {
+      "id": "365",
+      "g": "3",
+      "w": "vosotros veíais",
+      "t": "вы видели",
+      "e": "Vosotros veíais a mis amigos cada fin de semana.",
+      "p": "Вы видели друзей каждые выходные."
+    },
+    {
+      "id": "366",
+      "g": "3",
+      "w": "ellos veían",
+      "t": "они видели",
+      "e": "Ellos veían a mis amigos cada fin de semana.",
+      "p": "Они видели друзей каждые выходные."
+    },
+    {
+      "id": "367",
+      "g": "3",
+      "w": "yo creía",
+      "t": "я считал",
+      "e": "Yo creía que el examen era fácil.",
+      "p": "Я считал что экзамен был лёгким."
+    },
+    {
+      "id": "368",
+      "g": "3",
+      "w": "tú creías",
+      "t": "ты считал",
+      "e": "Tú creías que el examen era fácil.",
+      "p": "Ты считал что экзамен был лёгким."
+    },
+    {
+      "id": "369",
+      "g": "3",
+      "w": "él/ella creía",
+      "t": "он считал",
+      "e": "Él creía que el examen era fácil.",
+      "p": "Он считал что экзамен был лёгким."
+    },
+    {
+      "id": "370",
+      "g": "3",
+      "w": "nosotros creíamos",
+      "t": "мы считали",
+      "e": "Nosotros creíamos que el examen era fácil.",
+      "p": "Мы считали что экзамен был лёгким."
+    },
+    {
+      "id": "371",
+      "g": "3",
+      "w": "vosotros creíais",
+      "t": "вы считали",
+      "e": "Vosotros creíais que el examen era fácil.",
+      "p": "Вы считали что экзамен был лёгким."
+    },
+    {
+      "id": "372",
+      "g": "3",
+      "w": "ellos creían",
+      "t": "они считали",
+      "e": "Ellos creían que el examen era fácil.",
+      "p": "Они считали что экзамен был лёгким."
+    },
+    {
+      "id": "373",
+      "g": "3",
+      "w": "yo debía",
+      "t": "я должен был",
+      "e": "Yo debía pagar la factura cada mes.",
+      "p": "Я должен был оплачивать счёт каждый месяц."
+    },
+    {
+      "id": "374",
+      "g": "3",
+      "w": "tú debías",
+      "t": "ты должен был",
+      "e": "Tú debías pagar la factura cada mes.",
+      "p": "Ты должен был оплачивать счёт каждый месяц."
+    },
+    {
+      "id": "375",
+      "g": "3",
+      "w": "él/ella debía",
+      "t": "он должен был",
+      "e": "Él debía pagar la factura cada mes.",
+      "p": "Он должен был оплачивать счёт каждый месяц."
+    },
+    {
+      "id": "376",
+      "g": "3",
+      "w": "nosotros debíamos",
+      "t": "мы должны были",
+      "e": "Nosotros debíamos pagar la factura cada mes.",
+      "p": "Мы должны были оплачивать счёт каждый месяц."
+    },
+    {
+      "id": "377",
+      "g": "3",
+      "w": "vosotros debíais",
+      "t": "вы должны были",
+      "e": "Vosotros debíais pagar la factura cada mes.",
+      "p": "Вы должны были оплачивать счёт каждый месяц."
+    },
+    {
+      "id": "378",
+      "g": "3",
+      "w": "ellos debían",
+      "t": "они должны были",
+      "e": "Ellos debían pagar la factura cada mes.",
+      "p": "Они должны были оплачивать счёт каждый месяц."
+    },
+    {
+      "id": "379",
+      "g": "3",
+      "w": "yo daba",
+      "t": "я гулял",
+      "e": "Yo daba un paseo por el parque cada tarde.",
+      "p": "Я гулял по парку каждый вечер."
+    },
+    {
+      "id": "380",
+      "g": "3",
+      "w": "tú dabas",
+      "t": "ты гулял",
+      "e": "Tú dabas un paseo por el parque cada tarde.",
+      "p": "Ты гулял по парку каждый вечер."
+    },
+    {
+      "id": "381",
+      "g": "3",
+      "w": "él/ella daba",
+      "t": "он гулял",
+      "e": "Él daba un paseo por el parque cada tarde.",
+      "p": "Он гулял по парку каждый вечер."
+    },
+    {
+      "id": "382",
+      "g": "3",
+      "w": "nosotros dábamos",
+      "t": "мы гуляли",
+      "e": "Nosotros dábamos un paseo por el parque cada tarde.",
+      "p": "Мы гуляли по парку каждый вечер."
+    },
+    {
+      "id": "383",
+      "g": "3",
+      "w": "vosotros dabais",
+      "t": "вы гуляли",
+      "e": "Vosotros dabais un paseo por el parque cada tarde.",
+      "p": "Вы гуляли по парку каждый вечер."
+    },
+    {
+      "id": "384",
+      "g": "3",
+      "w": "ellos daban",
+      "t": "они гуляли",
+      "e": "Ellos daban un paseo por el parque cada tarde.",
+      "p": "Они гуляли по парку каждый вечер."
+    },
+    {
+      "id": "385",
+      "g": "3",
+      "w": "yo pasaba",
+      "t": "я проводил",
+      "e": "Yo pasaba las vacaciones con mi familia.",
+      "p": "Я проводил отпуск с семьёй."
+    },
+    {
+      "id": "386",
+      "g": "3",
+      "w": "tú pasabas",
+      "t": "ты проводил",
+      "e": "Tú pasabas las vacaciones con mi familia.",
+      "p": "Ты проводил отпуск с семьёй."
+    },
+    {
+      "id": "387",
+      "g": "3",
+      "w": "él/ella pasaba",
+      "t": "он проводил",
+      "e": "Él pasaba las vacaciones con mi familia.",
+      "p": "Он проводил отпуск с семьёй."
+    },
+    {
+      "id": "388",
+      "g": "3",
+      "w": "nosotros pasábamos",
+      "t": "мы проводили",
+      "e": "Nosotros pasábamos las vacaciones con mi familia.",
+      "p": "Мы проводили отпуск с семьёй."
+    },
+    {
+      "id": "389",
+      "g": "3",
+      "w": "vosotros pasabais",
+      "t": "вы проводили",
+      "e": "Vosotros pasabais las vacaciones con mi familia.",
+      "p": "Вы проводили отпуск с семьёй."
+    },
+    {
+      "id": "390",
+      "g": "3",
+      "w": "ellos pasaban",
+      "t": "они проводили",
+      "e": "Ellos pasaban las vacaciones con mi familia.",
+      "p": "Они проводили отпуск с семьёй."
+    },
+    {
+      "id": "391",
+      "g": "3",
+      "w": "yo hablaba",
+      "t": "я разговаривал",
+      "e": "Yo hablaba con mi abuela cada domingo.",
+      "p": "Я разговаривал с бабушкой каждое воскресенье."
+    },
+    {
+      "id": "392",
+      "g": "3",
+      "w": "tú hablabas",
+      "t": "ты разговаривал",
+      "e": "Tú hablabas con mi abuela cada domingo.",
+      "p": "Ты разговаривал с бабушкой каждое воскресенье."
+    },
+    {
+      "id": "393",
+      "g": "3",
+      "w": "él/ella hablaba",
+      "t": "он разговаривал",
+      "e": "Él hablaba con mi abuela cada domingo.",
+      "p": "Он разговаривал с бабушкой каждое воскресенье."
+    },
+    {
+      "id": "394",
+      "g": "3",
+      "w": "nosotros hablábamos",
+      "t": "мы разговаривали",
+      "e": "Nosotros hablábamos con mi abuela cada domingo.",
+      "p": "Мы разговаривали с бабушкой каждое воскресенье."
+    },
+    {
+      "id": "395",
+      "g": "3",
+      "w": "vosotros hablabais",
+      "t": "вы разговаривали",
+      "e": "Vosotros hablabais con mi abuela cada domingo.",
+      "p": "Вы разговаривали с бабушкой каждое воскресенье."
+    },
+    {
+      "id": "396",
+      "g": "3",
+      "w": "ellos hablaban",
+      "t": "они разговаривали",
+      "e": "Ellos hablaban con mi abuela cada domingo.",
+      "p": "Они разговаривали с бабушкой каждое воскресенье."
+    },
+    {
+      "id": "397",
+      "g": "3",
+      "w": "yo dejaba",
+      "t": "я оставлял",
+      "e": "Yo dejaba la bicicleta en el garaje.",
+      "p": "Я оставлял велосипед в гараже."
+    },
+    {
+      "id": "398",
+      "g": "3",
+      "w": "tú dejabas",
+      "t": "ты оставлял",
+      "e": "Tú dejabas la bicicleta en el garaje.",
+      "p": "Ты оставлял велосипед в гараже."
+    },
+    {
+      "id": "399",
+      "g": "3",
+      "w": "él/ella dejaba",
+      "t": "он оставлял",
+      "e": "Él dejaba la bicicleta en el garaje.",
+      "p": "Он оставлял велосипед в гараже."
+    },
+    {
+      "id": "400",
+      "g": "3",
+      "w": "nosotros dejábamos",
+      "t": "мы оставляли",
+      "e": "Nosotros dejábamos la bicicleta en el garaje.",
+      "p": "Мы оставляли велосипед в гараже."
+    },
+    {
+      "id": "401",
+      "g": "3",
+      "w": "vosotros dejabais",
+      "t": "вы оставляли",
+      "e": "Vosotros dejabais la bicicleta en el garaje.",
+      "p": "Вы оставляли велосипед в гараже."
+    },
+    {
+      "id": "402",
+      "g": "3",
+      "w": "ellos dejaban",
+      "t": "они оставляли",
+      "e": "Ellos dejaban la bicicleta en el garaje.",
+      "p": "Они оставляли велосипед в гараже."
+    },
+    {
+      "id": "403",
+      "g": "3",
+      "w": "yo sentía",
+      "t": "я чувствовал",
+      "e": "Yo sentía frío en invierno.",
+      "p": "Я чувствовал холод зимой."
+    },
+    {
+      "id": "404",
+      "g": "3",
+      "w": "tú sentías",
+      "t": "ты чувствовал",
+      "e": "Tú sentías frío en invierno.",
+      "p": "Ты чувствовал холод зимой."
+    },
+    {
+      "id": "405",
+      "g": "3",
+      "w": "él/ella sentía",
+      "t": "он чувствовал",
+      "e": "Él sentía frío en invierno.",
+      "p": "Он чувствовал холод зимой."
+    },
+    {
+      "id": "406",
+      "g": "3",
+      "w": "nosotros sentíamos",
+      "t": "мы чувствовали",
+      "e": "Nosotros sentíamos frío en invierno.",
+      "p": "Мы чувствовали холод зимой."
+    },
+    {
+      "id": "407",
+      "g": "3",
+      "w": "vosotros sentíais",
+      "t": "вы чувствовали",
+      "e": "Vosotros sentíais frío en invierno.",
+      "p": "Вы чувствовали холод зимой."
+    },
+    {
+      "id": "408",
+      "g": "3",
+      "w": "ellos sentían",
+      "t": "они чувствовали",
+      "e": "Ellos sentían frío en invierno.",
+      "p": "Они чувствовали холод зимой."
+    },
+    {
+      "id": "409",
+      "g": "3",
+      "w": "yo pensaba",
+      "t": "я думал",
+      "e": "Yo pensaba en mi familia durante el viaje.",
+      "p": "Я думал о семье во время поездки."
+    },
+    {
+      "id": "410",
+      "g": "3",
+      "w": "tú pensabas",
+      "t": "ты думал",
+      "e": "Tú pensabas en mi familia durante el viaje.",
+      "p": "Ты думал о семье во время поездки."
+    },
+    {
+      "id": "411",
+      "g": "3",
+      "w": "él/ella pensaba",
+      "t": "он думал",
+      "e": "Él pensaba en mi familia durante el viaje.",
+      "p": "Он думал о семье во время поездки."
+    },
+    {
+      "id": "412",
+      "g": "3",
+      "w": "nosotros pensábamos",
+      "t": "мы думали",
+      "e": "Nosotros pensábamos en mi familia durante el viaje.",
+      "p": "Мы думали о семье во время поездки."
+    },
+    {
+      "id": "413",
+      "g": "3",
+      "w": "vosotros pensabais",
+      "t": "вы думали",
+      "e": "Vosotros pensabais en mi familia durante el viaje.",
+      "p": "Вы думали о семье во время поездки."
+    },
+    {
+      "id": "414",
+      "g": "3",
+      "w": "ellos pensaban",
+      "t": "они думали",
+      "e": "Ellos pensaban en mi familia durante el viaje.",
+      "p": "Они думали о семье во время поездки."
+    },
+    {
+      "id": "415",
+      "g": "3",
+      "w": "yo esperaba",
+      "t": "я ждал",
+      "e": "Yo esperaba a mis amigos cerca del cine.",
+      "p": "Я ждал друзей около кинотеатра."
+    },
+    {
+      "id": "416",
+      "g": "3",
+      "w": "tú esperabas",
+      "t": "ты ждал",
+      "e": "Tú esperabas a mis amigos cerca del cine.",
+      "p": "Ты ждал друзей около кинотеатра."
+    },
+    {
+      "id": "417",
+      "g": "3",
+      "w": "él/ella esperaba",
+      "t": "он ждал",
+      "e": "Él esperaba a mis amigos cerca del cine.",
+      "p": "Он ждал друзей около кинотеатра."
+    },
+    {
+      "id": "418",
+      "g": "3",
+      "w": "nosotros esperábamos",
+      "t": "мы ждали",
+      "e": "Nosotros esperábamos a mis amigos cerca del cine.",
+      "p": "Мы ждали друзей около кинотеатра."
+    },
+    {
+      "id": "419",
+      "g": "3",
+      "w": "vosotros esperabais",
+      "t": "вы ждали",
+      "e": "Vosotros esperabais a mis amigos cerca del cine.",
+      "p": "Вы ждали друзей около кинотеатра."
+    },
+    {
+      "id": "420",
+      "g": "3",
+      "w": "ellos esperaban",
+      "t": "они ждали",
+      "e": "Ellos esperaban a mis amigos cerca del cine.",
+      "p": "Они ждали друзей около кинотеатра."
+    },
+    {
+      "id": "421",
+      "g": "3",
+      "w": "yo venía",
+      "t": "я приезжал",
+      "e": "Yo venía a este pueblo cada verano.",
+      "p": "Я приезжал в эту деревню каждое лето."
+    },
+    {
+      "id": "422",
+      "g": "3",
+      "w": "tú venías",
+      "t": "ты приезжал",
+      "e": "Tú venías a este pueblo cada verano.",
+      "p": "Ты приезжал в эту деревню каждое лето."
+    },
+    {
+      "id": "423",
+      "g": "3",
+      "w": "él/ella venía",
+      "t": "он приезжал",
+      "e": "Él venía a este pueblo cada verano.",
+      "p": "Он приезжал в эту деревню каждое лето."
+    },
+    {
+      "id": "424",
+      "g": "3",
+      "w": "nosotros veníamos",
+      "t": "мы приезжали",
+      "e": "Nosotros veníamos a este pueblo cada verano.",
+      "p": "Мы приезжали в эту деревню каждое лето."
+    },
+    {
+      "id": "425",
+      "g": "3",
+      "w": "vosotros veníais",
+      "t": "вы приезжали",
+      "e": "Vosotros veníais a este pueblo cada verano.",
+      "p": "Вы приезжали в эту деревню каждое лето."
+    },
+    {
+      "id": "426",
+      "g": "3",
+      "w": "ellos venían",
+      "t": "они приезжали",
+      "e": "Ellos venían a este pueblo cada verano.",
+      "p": "Они приезжали в эту деревню каждое лето."
+    },
+    {
+      "id": "427",
+      "g": "3",
+      "w": "yo necesitaba",
+      "t": "я нуждался в",
+      "e": "Yo necesitaba un descanso después del trabajo.",
+      "p": "Мне был нужен отдых после работы."
+    },
+    {
+      "id": "428",
+      "g": "3",
+      "w": "tú necesitabas",
+      "t": "ты нуждался в",
+      "e": "Tú necesitabas un descanso después del trabajo.",
+      "p": "Тебе был нужен отдых после работы."
+    },
+    {
+      "id": "429",
+      "g": "3",
+      "w": "él/ella necesitaba",
+      "t": "он нуждался в",
+      "e": "Él necesitaba un descanso después del trabajo.",
+      "p": "Ему был нужен отдых после работы."
+    },
+    {
+      "id": "430",
+      "g": "3",
+      "w": "nosotros necesitábamos",
+      "t": "мы нуждались в",
+      "e": "Nosotros necesitábamos un descanso después del trabajo.",
+      "p": "Нам был нужен отдых после работы."
+    },
+    {
+      "id": "431",
+      "g": "3",
+      "w": "vosotros necesitabais",
+      "t": "вы нуждались в",
+      "e": "Vosotros necesitabais un descanso después del trabajo.",
+      "p": "Вам был нужен отдых после работы."
+    },
+    {
+      "id": "432",
+      "g": "3",
+      "w": "ellos necesitaban",
+      "t": "они нуждались в",
+      "e": "Ellos necesitaban un descanso después del trabajo.",
+      "p": "Им был нужен отдых после работы."
+    },
+    {
+      "id": "433",
+      "g": "3",
+      "w": "yo miraba",
+      "t": "я смотрел",
+      "e": "Yo miraba las estrellas por la noche.",
+      "p": "Я смотрел на звёзды по ночам."
+    },
+    {
+      "id": "434",
+      "g": "3",
+      "w": "tú mirabas",
+      "t": "ты смотрел",
+      "e": "Tú mirabas las estrellas por la noche.",
+      "p": "Ты смотрел на звёзды по ночам."
+    },
+    {
+      "id": "435",
+      "g": "3",
+      "w": "él/ella miraba",
+      "t": "он смотрел",
+      "e": "Él miraba las estrellas por la noche.",
+      "p": "Он смотрел на звёзды по ночам."
+    },
+    {
+      "id": "436",
+      "g": "3",
+      "w": "nosotros mirábamos",
+      "t": "мы смотрели",
+      "e": "Nosotros mirábamos las estrellas por la noche.",
+      "p": "Мы смотрели на звёзды по ночам."
+    },
+    {
+      "id": "437",
+      "g": "3",
+      "w": "vosotros mirabais",
+      "t": "вы смотрели",
+      "e": "Vosotros mirabais las estrellas por la noche.",
+      "p": "Вы смотрели на звёзды по ночам."
+    },
+    {
+      "id": "438",
+      "g": "3",
+      "w": "ellos miraban",
+      "t": "они смотрели",
+      "e": "Ellos miraban las estrellas por la noche.",
+      "p": "Они смотрели на звёзды по ночам."
+    },
+    {
+      "id": "439",
+      "g": "3",
+      "w": "yo volvía",
+      "t": "я возвращался",
+      "e": "Yo volvía al pueblo cada verano.",
+      "p": "Я возвращался в деревню каждое лето."
+    },
+    {
+      "id": "440",
+      "g": "3",
+      "w": "tú volvías",
+      "t": "ты возвращался",
+      "e": "Tú volvías al pueblo cada verano.",
+      "p": "Ты возвращался в деревню каждое лето."
+    },
+    {
+      "id": "441",
+      "g": "3",
+      "w": "él/ella volvía",
+      "t": "он возвращался",
+      "e": "Él volvía al pueblo cada verano.",
+      "p": "Он возвращался в деревню каждое лето."
+    },
+    {
+      "id": "442",
+      "g": "3",
+      "w": "nosotros volvíamos",
+      "t": "мы возвращались",
+      "e": "Nosotros volvíamos al pueblo cada verano.",
+      "p": "Мы возвращались в деревню каждое лето."
+    },
+    {
+      "id": "443",
+      "g": "3",
+      "w": "vosotros volvíais",
+      "t": "вы возвращались",
+      "e": "Vosotros volvíais al pueblo cada verano.",
+      "p": "Вы возвращались в деревню каждое лето."
+    },
+    {
+      "id": "444",
+      "g": "3",
+      "w": "ellos volvían",
+      "t": "они возвращались",
+      "e": "Ellos volvían al pueblo cada verano.",
+      "p": "Они возвращались в деревню каждое лето."
+    },
+    {
+      "id": "445",
+      "g": "3",
+      "w": "yo parecía",
+      "t": "я выглядел",
+      "e": "Yo parecía cansado durante el viaje.",
+      "p": "Я выглядел уставшим во время поездки."
+    },
+    {
+      "id": "446",
+      "g": "3",
+      "w": "tú parecías",
+      "t": "ты выглядел",
+      "e": "Tú parecías cansado durante el viaje.",
+      "p": "Ты выглядел уставшим во время поездки."
+    },
+    {
+      "id": "447",
+      "g": "3",
+      "w": "él/ella parecía",
+      "t": "он выглядел",
+      "e": "Él parecía cansado durante el viaje.",
+      "p": "Он выглядел уставшим во время поездки."
+    },
+    {
+      "id": "448",
+      "g": "3",
+      "w": "nosotros parecíamos",
+      "t": "мы выглядели",
+      "e": "Nosotros parecíamos cansados durante el viaje.",
+      "p": "Мы выглядели уставшими во время поездки."
+    },
+    {
+      "id": "449",
+      "g": "3",
+      "w": "vosotros parecíais",
+      "t": "вы выглядели",
+      "e": "Vosotros parecíais cansados durante el viaje.",
+      "p": "Вы выглядели уставшими во время поездки."
+    },
+    {
+      "id": "450",
+      "g": "3",
+      "w": "ellos parecían",
+      "t": "они выглядели",
+      "e": "Ellos parecían cansados durante el viaje.",
+      "p": "Они выглядели уставшими во время поездки."
+    },
+    {
+      "id": "451",
+      "g": "4",
+      "w": "yo seré",
+      "t": "я буду",
+      "e": "Yo seré parte del nuevo equipo.",
+      "p": "Я буду частью новой команды."
+    },
+    {
+      "id": "452",
+      "g": "4",
+      "w": "tú serás",
+      "t": "ты будешь",
+      "e": "Tú serás parte del nuevo equipo.",
+      "p": "Ты будешь частью новой команды."
+    },
+    {
+      "id": "453",
+      "g": "4",
+      "w": "él/ella será",
+      "t": "он будет",
+      "e": "Él será parte del nuevo equipo.",
+      "p": "Он будет частью новой команды."
+    },
+    {
+      "id": "454",
+      "g": "4",
+      "w": "nosotros seremos",
+      "t": "мы будем",
+      "e": "Nosotros seremos parte del nuevo equipo.",
+      "p": "Мы будем частью новой команды."
+    },
+    {
+      "id": "455",
+      "g": "4",
+      "w": "vosotros seréis",
+      "t": "вы будете",
+      "e": "Vosotros seréis parte del nuevo equipo.",
+      "p": "Вы будете частью новой команды."
+    },
+    {
+      "id": "456",
+      "g": "4",
+      "w": "ellos serán",
+      "t": "они будут",
+      "e": "Ellos serán parte del nuevo equipo.",
+      "p": "Они будут частью новой команды."
+    },
+    {
+      "id": "457",
+      "g": "4",
+      "w": "yo estaré",
+      "t": "я буду",
+      "e": "Yo estaré en Madrid la semana que viene.",
+      "p": "Я буду в Мадриде на следующей неделе."
+    },
+    {
+      "id": "458",
+      "g": "4",
+      "w": "tú estarás",
+      "t": "ты будешь",
+      "e": "Tú estarás en Madrid la semana que viene.",
+      "p": "Ты будешь в Мадриде на следующей неделе."
+    },
+    {
+      "id": "459",
+      "g": "4",
+      "w": "él/ella estará",
+      "t": "он будет",
+      "e": "Él estará en Madrid la semana que viene.",
+      "p": "Он будет в Мадриде на следующей неделе."
+    },
+    {
+      "id": "460",
+      "g": "4",
+      "w": "nosotros estaremos",
+      "t": "мы будем",
+      "e": "Nosotros estaremos en Madrid la semana que viene.",
+      "p": "Мы будем в Мадриде на следующей неделе."
+    },
+    {
+      "id": "461",
+      "g": "4",
+      "w": "vosotros estaréis",
+      "t": "вы будете",
+      "e": "Vosotros estaréis en Madrid la semana que viene.",
+      "p": "Вы будете в Мадриде на следующей неделе."
+    },
+    {
+      "id": "462",
+      "g": "4",
+      "w": "ellos estarán",
+      "t": "они будут",
+      "e": "Ellos estarán en Madrid la semana que viene.",
+      "p": "Они будут в Мадриде на следующей неделе."
+    },
+    {
+      "id": "463",
+      "g": "4",
+      "w": "yo habré terminado",
+      "t": "я уже закончу (к сроку)",
+      "e": "Yo habré terminado el trabajo para el viernes.",
+      "p": "К пятнице я уже закончу работу."
+    },
+    {
+      "id": "464",
+      "g": "4",
+      "w": "tú habrás terminado",
+      "t": "ты уже закончишь (к сроку)",
+      "e": "Tú habrás terminado el trabajo para el viernes.",
+      "p": "К пятнице ты уже закончишь работу."
+    },
+    {
+      "id": "465",
+      "g": "4",
+      "w": "él/ella habrá terminado",
+      "t": "он уже закончит (к сроку)",
+      "e": "Él habrá terminado el trabajo para el viernes.",
+      "p": "К пятнице он уже закончит работу."
+    },
+    {
+      "id": "466",
+      "g": "4",
+      "w": "nosotros habremos terminado",
+      "t": "мы уже закончим (к сроку)",
+      "e": "Nosotros habremos terminado el trabajo para el viernes.",
+      "p": "К пятнице мы уже закончим работу."
+    },
+    {
+      "id": "467",
+      "g": "4",
+      "w": "vosotros habréis terminado",
+      "t": "вы уже закончите (к сроку)",
+      "e": "Vosotros habréis terminado el trabajo para el viernes.",
+      "p": "К пятнице вы уже закончите работу."
+    },
+    {
+      "id": "468",
+      "g": "4",
+      "w": "ellos habrán terminado",
+      "t": "они уже закончат (к сроку)",
+      "e": "Ellos habrán terminado el trabajo para el viernes.",
+      "p": "К пятнице они уже закончат работу."
+    },
+    {
+      "id": "469",
+      "g": "4",
+      "w": "yo tendré",
+      "t": "я буду иметь",
+      "e": "Yo tendré una entrevista el lunes.",
+      "p": "У меня в понедельник будет собеседование."
+    },
+    {
+      "id": "470",
+      "g": "4",
+      "w": "tú tendrás",
+      "t": "ты будешь иметь",
+      "e": "Tú tendrás una entrevista el lunes.",
+      "p": "У тебя в понедельник будет собеседование."
+    },
+    {
+      "id": "471",
+      "g": "4",
+      "w": "él/ella tendrá",
+      "t": "он будет иметь",
+      "e": "Él tendrá una entrevista el lunes.",
+      "p": "У него в понедельник будет собеседование."
+    },
+    {
+      "id": "472",
+      "g": "4",
+      "w": "nosotros tendremos",
+      "t": "мы будем иметь",
+      "e": "Nosotros tendremos una entrevista el lunes.",
+      "p": "У нас в понедельник будет собеседование."
+    },
+    {
+      "id": "473",
+      "g": "4",
+      "w": "vosotros tendréis",
+      "t": "вы будете иметь",
+      "e": "Vosotros tendréis una entrevista el lunes.",
+      "p": "У вас в понедельник будет собеседование."
+    },
+    {
+      "id": "474",
+      "g": "4",
+      "w": "ellos tendrán",
+      "t": "они будут иметь",
+      "e": "Ellos tendrán una entrevista el lunes.",
+      "p": "У них в понедельник будет собеседование."
+    },
+    {
+      "id": "475",
+      "g": "4",
+      "w": "yo iré",
+      "t": "я пойду",
+      "e": "Yo iré al mercado mañana.",
+      "p": "Я пойду на рынок завтра."
+    },
+    {
+      "id": "476",
+      "g": "4",
+      "w": "tú irás",
+      "t": "ты пойдёшь",
+      "e": "Tú irás al mercado mañana.",
+      "p": "Ты пойдёшь на рынок завтра."
+    },
+    {
+      "id": "477",
+      "g": "4",
+      "w": "él/ella irá",
+      "t": "он пойдёт",
+      "e": "Él irá al mercado mañana.",
+      "p": "Он пойдёт на рынок завтра."
+    },
+    {
+      "id": "478",
+      "g": "4",
+      "w": "nosotros iremos",
+      "t": "мы пойдём",
+      "e": "Nosotros iremos al mercado mañana.",
+      "p": "Мы пойдём на рынок завтра."
+    },
+    {
+      "id": "479",
+      "g": "4",
+      "w": "vosotros iréis",
+      "t": "вы пойдёте",
+      "e": "Vosotros iréis al mercado mañana.",
+      "p": "Вы пойдёте на рынок завтра."
+    },
+    {
+      "id": "480",
+      "g": "4",
+      "w": "ellos irán",
+      "t": "они пойдут",
+      "e": "Ellos irán al mercado mañana.",
+      "p": "Они пойдут на рынок завтра."
+    },
+    {
+      "id": "481",
+      "g": "4",
+      "w": "yo podré",
+      "t": "я смогу",
+      "e": "Yo podré comprar el billete mañana.",
+      "p": "Я смогу купить билет завтра."
+    },
+    {
+      "id": "482",
+      "g": "4",
+      "w": "tú podrás",
+      "t": "ты сможешь",
+      "e": "Tú podrás comprar el billete mañana.",
+      "p": "Ты сможешь купить билет завтра."
+    },
+    {
+      "id": "483",
+      "g": "4",
+      "w": "él/ella podrá",
+      "t": "он сможет",
+      "e": "Él podrá comprar el billete mañana.",
+      "p": "Он сможет купить билет завтра."
+    },
+    {
+      "id": "484",
+      "g": "4",
+      "w": "nosotros podremos",
+      "t": "мы сможем",
+      "e": "Nosotros podremos comprar el billete mañana.",
+      "p": "Мы сможем купить билет завтра."
+    },
+    {
+      "id": "485",
+      "g": "4",
+      "w": "vosotros podréis",
+      "t": "вы сможете",
+      "e": "Vosotros podréis comprar el billete mañana.",
+      "p": "Вы сможете купить билет завтра."
+    },
+    {
+      "id": "486",
+      "g": "4",
+      "w": "ellos podrán",
+      "t": "они смогут",
+      "e": "Ellos podrán comprar el billete mañana.",
+      "p": "Они смогут купить билет завтра."
+    },
+    {
+      "id": "487",
+      "g": "4",
+      "w": "yo haré",
+      "t": "я сделаю",
+      "e": "Yo haré una llamada esta tarde.",
+      "p": "Я сделаю один звонок сегодня вечером."
+    },
+    {
+      "id": "488",
+      "g": "4",
+      "w": "tú harás",
+      "t": "ты сделаешь",
+      "e": "Tú harás una llamada esta tarde.",
+      "p": "Ты сделаешь один звонок сегодня вечером."
+    },
+    {
+      "id": "489",
+      "g": "4",
+      "w": "él/ella hará",
+      "t": "он сделает",
+      "e": "Él hará una llamada esta tarde.",
+      "p": "Он сделает один звонок сегодня вечером."
+    },
+    {
+      "id": "490",
+      "g": "4",
+      "w": "nosotros haremos",
+      "t": "мы сделаем",
+      "e": "Nosotros haremos una llamada esta tarde.",
+      "p": "Мы сделаем один звонок сегодня вечером."
+    },
+    {
+      "id": "491",
+      "g": "4",
+      "w": "vosotros haréis",
+      "t": "вы сделаете",
+      "e": "Vosotros haréis una llamada esta tarde.",
+      "p": "Вы сделаете один звонок сегодня вечером."
+    },
+    {
+      "id": "492",
+      "g": "4",
+      "w": "ellos harán",
+      "t": "они сделают",
+      "e": "Ellos harán una llamada esta tarde.",
+      "p": "Они сделают один звонок сегодня вечером."
+    },
+    {
+      "id": "493",
+      "g": "4",
+      "w": "yo diré",
+      "t": "я скажу",
+      "e": "Yo diré mi opinión en la reunión.",
+      "p": "Я скажу своё мнение на совещании."
+    },
+    {
+      "id": "494",
+      "g": "4",
+      "w": "tú dirás",
+      "t": "ты скажешь",
+      "e": "Tú dirás mi opinión en la reunión.",
+      "p": "Ты скажешь своё мнение на совещании."
+    },
+    {
+      "id": "495",
+      "g": "4",
+      "w": "él/ella dirá",
+      "t": "он скажет",
+      "e": "Él dirá mi opinión en la reunión.",
+      "p": "Он скажет своё мнение на совещании."
+    },
+    {
+      "id": "496",
+      "g": "4",
+      "w": "nosotros diremos",
+      "t": "мы скажем",
+      "e": "Nosotros diremos mi opinión en la reunión.",
+      "p": "Мы скажем своё мнение на совещании."
+    },
+    {
+      "id": "497",
+      "g": "4",
+      "w": "vosotros diréis",
+      "t": "вы скажете",
+      "e": "Vosotros diréis mi opinión en la reunión.",
+      "p": "Вы скажете своё мнение на совещании."
+    },
+    {
+      "id": "498",
+      "g": "4",
+      "w": "ellos dirán",
+      "t": "они скажут",
+      "e": "Ellos dirán mi opinión en la reunión.",
+      "p": "Они скажут своё мнение на совещании."
+    },
+    {
+      "id": "499",
+      "g": "4",
+      "w": "yo sabré",
+      "t": "я узнаю",
+      "e": "Yo sabré la respuesta mañana.",
+      "p": "Я узнаю ответ завтра."
+    },
+    {
+      "id": "500",
+      "g": "4",
+      "w": "tú sabrás",
+      "t": "ты узнаешь",
+      "e": "Tú sabrás la respuesta mañana.",
+      "p": "Ты узнаешь ответ завтра."
+    },
+    {
+      "id": "501",
+      "g": "4",
+      "w": "él/ella sabrá",
+      "t": "он узнает",
+      "e": "Él sabrá la respuesta mañana.",
+      "p": "Он узнает ответ завтра."
+    },
+    {
+      "id": "502",
+      "g": "4",
+      "w": "nosotros sabremos",
+      "t": "мы узнаем",
+      "e": "Nosotros sabremos la respuesta mañana.",
+      "p": "Мы узнаем ответ завтра."
+    },
+    {
+      "id": "503",
+      "g": "4",
+      "w": "vosotros sabréis",
+      "t": "вы узнаете",
+      "e": "Vosotros sabréis la respuesta mañana.",
+      "p": "Вы узнаете ответ завтра."
+    },
+    {
+      "id": "504",
+      "g": "4",
+      "w": "ellos sabrán",
+      "t": "они узнают",
+      "e": "Ellos sabrán la respuesta mañana.",
+      "p": "Они узнают ответ завтра."
+    },
+    {
+      "id": "505",
+      "g": "4",
+      "w": "yo querré",
+      "t": "я захочу",
+      "e": "Yo querré pasar más tiempo con mi familia el próximo verano.",
+      "p": "Я захочу проводить больше времени с семьёй следующим летом."
+    },
+    {
+      "id": "506",
+      "g": "4",
+      "w": "tú querrás",
+      "t": "ты захочешь",
+      "e": "Tú querrás pasar más tiempo con mi familia el próximo verano.",
+      "p": "Ты захочешь проводить больше времени с семьёй следующим летом."
+    },
+    {
+      "id": "507",
+      "g": "4",
+      "w": "él/ella querrá",
+      "t": "он захочет",
+      "e": "Él querrá pasar más tiempo con mi familia el próximo verano.",
+      "p": "Он захочет проводить больше времени с семьёй следующим летом."
+    },
+    {
+      "id": "508",
+      "g": "4",
+      "w": "nosotros querremos",
+      "t": "мы захотим",
+      "e": "Nosotros querremos pasar más tiempo con mi familia el próximo verano.",
+      "p": "Мы захотим проводить больше времени с семьёй следующим летом."
+    },
+    {
+      "id": "509",
+      "g": "4",
+      "w": "vosotros querréis",
+      "t": "вы захотите",
+      "e": "Vosotros querréis pasar más tiempo con mi familia el próximo verano.",
+      "p": "Вы захотите проводить больше времени с семьёй следующим летом."
+    },
+    {
+      "id": "510",
+      "g": "4",
+      "w": "ellos querrán",
+      "t": "они захотят",
+      "e": "Ellos querrán pasar más tiempo con mi familia el próximo verano.",
+      "p": "Они захотят проводить больше времени с семьёй следующим летом."
+    },
+    {
+      "id": "511",
+      "g": "4",
+      "w": "yo veré",
+      "t": "я посещу",
+      "e": "Yo veré al médico el jueves.",
+      "p": "Я посещу врача в четверг."
+    },
+    {
+      "id": "512",
+      "g": "4",
+      "w": "tú verás",
+      "t": "ты посетишь",
+      "e": "Tú verás al médico el jueves.",
+      "p": "Ты посетишь врача в четверг."
+    },
+    {
+      "id": "513",
+      "g": "4",
+      "w": "él/ella verá",
+      "t": "он посетит",
+      "e": "Él verá al médico el jueves.",
+      "p": "Он посетит врача в четверг."
+    },
+    {
+      "id": "514",
+      "g": "4",
+      "w": "nosotros veremos",
+      "t": "мы посетим",
+      "e": "Nosotros veremos al médico el jueves.",
+      "p": "Мы посетим врача в четверг."
+    },
+    {
+      "id": "515",
+      "g": "4",
+      "w": "vosotros veréis",
+      "t": "вы посетите",
+      "e": "Vosotros veréis al médico el jueves.",
+      "p": "Вы посетите врача в четверг."
+    },
+    {
+      "id": "516",
+      "g": "4",
+      "w": "ellos verán",
+      "t": "они посетят",
+      "e": "Ellos verán al médico el jueves.",
+      "p": "Они посетят врача в четверг."
+    },
+    {
+      "id": "517",
+      "g": "4",
+      "w": "yo creeré",
+      "t": "я буду верить",
+      "e": "Yo creeré en ti en los momentos difíciles.",
+      "p": "Я буду верить в тебя в трудные моменты."
+    },
+    {
+      "id": "518",
+      "g": "4",
+      "w": "tú creerás",
+      "t": "ты будешь верить",
+      "e": "Tú creerás en ti en los momentos difíciles.",
+      "p": "Ты будешь верить в тебя в трудные моменты."
+    },
+    {
+      "id": "519",
+      "g": "4",
+      "w": "él/ella creerá",
+      "t": "он будет верить",
+      "e": "Él creerá en ti en los momentos difíciles.",
+      "p": "Он будет верить в тебя в трудные моменты."
+    },
+    {
+      "id": "520",
+      "g": "4",
+      "w": "nosotros creeremos",
+      "t": "мы будем верить",
+      "e": "Nosotros creeremos en ti en los momentos difíciles.",
+      "p": "Мы будем верить в тебя в трудные моменты."
+    },
+    {
+      "id": "521",
+      "g": "4",
+      "w": "vosotros creeréis",
+      "t": "вы будете верить",
+      "e": "Vosotros creeréis en ti en los momentos difíciles.",
+      "p": "Вы будете верить в тебя в трудные моменты."
+    },
+    {
+      "id": "522",
+      "g": "4",
+      "w": "ellos creerán",
+      "t": "они будут верить",
+      "e": "Ellos creerán en ti en los momentos difíciles.",
+      "p": "Они будут верить в тебя в трудные моменты."
+    },
+    {
+      "id": "523",
+      "g": "4",
+      "w": "yo deberé",
+      "t": "я буду должен",
+      "e": "Yo deberé trabajar el domingo.",
+      "p": "Мне придётся работать в воскресенье."
+    },
+    {
+      "id": "524",
+      "g": "4",
+      "w": "tú deberás",
+      "t": "ты будешь должен",
+      "e": "Tú deberás trabajar el domingo.",
+      "p": "Тебе придётся работать в воскресенье."
+    },
+    {
+      "id": "525",
+      "g": "4",
+      "w": "él/ella deberá",
+      "t": "он будет должен",
+      "e": "Él deberá trabajar el domingo.",
+      "p": "Ему придётся работать в воскресенье."
+    },
+    {
+      "id": "526",
+      "g": "4",
+      "w": "nosotros deberemos",
+      "t": "мы будем должны",
+      "e": "Nosotros deberemos trabajar el domingo.",
+      "p": "Нам придётся работать в воскресенье."
+    },
+    {
+      "id": "527",
+      "g": "4",
+      "w": "vosotros deberéis",
+      "t": "вы будете должны",
+      "e": "Vosotros deberéis trabajar el domingo.",
+      "p": "Вам придётся работать в воскресенье."
+    },
+    {
+      "id": "528",
+      "g": "4",
+      "w": "ellos deberán",
+      "t": "они будут должны",
+      "e": "Ellos deberán trabajar el domingo.",
+      "p": "Им придётся работать в воскресенье."
+    },
+    {
+      "id": "529",
+      "g": "4",
+      "w": "yo daré",
+      "t": "я дам",
+      "e": "Yo daré una respuesta mañana.",
+      "p": "Я дам ответ завтра."
+    },
+    {
+      "id": "530",
+      "g": "4",
+      "w": "tú darás",
+      "t": "ты дашь",
+      "e": "Tú darás una respuesta mañana.",
+      "p": "Ты дашь ответ завтра."
+    },
+    {
+      "id": "531",
+      "g": "4",
+      "w": "él/ella dará",
+      "t": "он даст",
+      "e": "Él dará una respuesta mañana.",
+      "p": "Он даст ответ завтра."
+    },
+    {
+      "id": "532",
+      "g": "4",
+      "w": "nosotros daremos",
+      "t": "мы дадим",
+      "e": "Nosotros daremos una respuesta mañana.",
+      "p": "Мы дадим ответ завтра."
+    },
+    {
+      "id": "533",
+      "g": "4",
+      "w": "vosotros daréis",
+      "t": "вы дадите",
+      "e": "Vosotros daréis una respuesta mañana.",
+      "p": "Вы дадите ответ завтра."
+    },
+    {
+      "id": "534",
+      "g": "4",
+      "w": "ellos darán",
+      "t": "они дадут",
+      "e": "Ellos darán una respuesta mañana.",
+      "p": "Они дадут ответ завтра."
+    },
+    {
+      "id": "535",
+      "g": "4",
+      "w": "yo pasaré",
+      "t": "я проведу",
+      "e": "Yo pasaré el fin de semana en casa.",
+      "p": "Я проведу выходные дома."
+    },
+    {
+      "id": "536",
+      "g": "4",
+      "w": "tú pasarás",
+      "t": "ты проведёшь",
+      "e": "Tú pasarás el fin de semana en casa.",
+      "p": "Ты проведёшь выходные дома."
+    },
+    {
+      "id": "537",
+      "g": "4",
+      "w": "él/ella pasará",
+      "t": "он проведёт",
+      "e": "Él pasará el fin de semana en casa.",
+      "p": "Он проведёт выходные дома."
+    },
+    {
+      "id": "538",
+      "g": "4",
+      "w": "nosotros pasaremos",
+      "t": "мы проведём",
+      "e": "Nosotros pasaremos el fin de semana en casa.",
+      "p": "Мы проведём выходные дома."
+    },
+    {
+      "id": "539",
+      "g": "4",
+      "w": "vosotros pasaréis",
+      "t": "вы проведёте",
+      "e": "Vosotros pasaréis el fin de semana en casa.",
+      "p": "Вы проведёте выходные дома."
+    },
+    {
+      "id": "540",
+      "g": "4",
+      "w": "ellos pasarán",
+      "t": "они проведут",
+      "e": "Ellos pasarán el fin de semana en casa.",
+      "p": "Они проведут выходные дома."
+    },
+    {
+      "id": "541",
+      "g": "4",
+      "w": "yo hablaré",
+      "t": "я поговорю",
+      "e": "Yo hablaré con el jefe mañana.",
+      "p": "Я поговорю с начальником завтра."
+    },
+    {
+      "id": "542",
+      "g": "4",
+      "w": "tú hablarás",
+      "t": "ты поговоришь",
+      "e": "Tú hablarás con el jefe mañana.",
+      "p": "Ты поговоришь с начальником завтра."
+    },
+    {
+      "id": "543",
+      "g": "4",
+      "w": "él/ella hablará",
+      "t": "он поговорит",
+      "e": "Él hablará con el jefe mañana.",
+      "p": "Он поговорит с начальником завтра."
+    },
+    {
+      "id": "544",
+      "g": "4",
+      "w": "nosotros hablaremos",
+      "t": "мы поговорим",
+      "e": "Nosotros hablaremos con el jefe mañana.",
+      "p": "Мы поговорим с начальником завтра."
+    },
+    {
+      "id": "545",
+      "g": "4",
+      "w": "vosotros hablaréis",
+      "t": "вы поговорите",
+      "e": "Vosotros hablaréis con el jefe mañana.",
+      "p": "Вы поговорите с начальником завтра."
+    },
+    {
+      "id": "546",
+      "g": "4",
+      "w": "ellos hablarán",
+      "t": "они поговорят",
+      "e": "Ellos hablarán con el jefe mañana.",
+      "p": "Они поговорят с начальником завтра."
+    },
+    {
+      "id": "547",
+      "g": "4",
+      "w": "yo dejaré",
+      "t": "я оставлю",
+      "e": "Yo dejaré la maleta en recepción.",
+      "p": "Я оставлю чемодан на стойке регистрации."
+    },
+    {
+      "id": "548",
+      "g": "4",
+      "w": "tú dejarás",
+      "t": "ты оставишь",
+      "e": "Tú dejarás la maleta en recepción.",
+      "p": "Ты оставишь чемодан на стойке регистрации."
+    },
+    {
+      "id": "549",
+      "g": "4",
+      "w": "él/ella dejará",
+      "t": "он оставит",
+      "e": "Él dejará la maleta en recepción.",
+      "p": "Он оставит чемодан на стойке регистрации."
+    },
+    {
+      "id": "550",
+      "g": "4",
+      "w": "nosotros dejaremos",
+      "t": "мы оставим",
+      "e": "Nosotros dejaremos la maleta en recepción.",
+      "p": "Мы оставим чемодан на стойке регистрации."
+    },
+    {
+      "id": "551",
+      "g": "4",
+      "w": "vosotros dejaréis",
+      "t": "вы оставите",
+      "e": "Vosotros dejaréis la maleta en recepción.",
+      "p": "Вы оставите чемодан на стойке регистрации."
+    },
+    {
+      "id": "552",
+      "g": "4",
+      "w": "ellos dejarán",
+      "t": "они оставят",
+      "e": "Ellos dejarán la maleta en recepción.",
+      "p": "Они оставят чемодан на стойке регистрации."
+    },
+    {
+      "id": "553",
+      "g": "4",
+      "w": "yo sentiré",
+      "t": "я почувствую",
+      "e": "Yo sentiré alegría al ver a mis amigos.",
+      "p": "Я почувствую радость при встрече с друзьями."
+    },
+    {
+      "id": "554",
+      "g": "4",
+      "w": "tú sentirás",
+      "t": "ты почувствуешь",
+      "e": "Tú sentirás alegría al ver a mis amigos.",
+      "p": "Ты почувствуешь радость при встрече с друзьями."
+    },
+    {
+      "id": "555",
+      "g": "4",
+      "w": "él/ella sentirá",
+      "t": "он почувствует",
+      "e": "Él sentirá alegría al ver a mis amigos.",
+      "p": "Он почувствует радость при встрече с друзьями."
+    },
+    {
+      "id": "556",
+      "g": "4",
+      "w": "nosotros sentiremos",
+      "t": "мы почувствуем",
+      "e": "Nosotros sentiremos alegría al ver a mis amigos.",
+      "p": "Мы почувствуем радость при встрече с друзьями."
+    },
+    {
+      "id": "557",
+      "g": "4",
+      "w": "vosotros sentiréis",
+      "t": "вы почувствуете",
+      "e": "Vosotros sentiréis alegría al ver a mis amigos.",
+      "p": "Вы почувствуете радость при встрече с друзьями."
+    },
+    {
+      "id": "558",
+      "g": "4",
+      "w": "ellos sentirán",
+      "t": "они почувствуют",
+      "e": "Ellos sentirán alegría al ver a mis amigos.",
+      "p": "Они почувствуют радость при встрече с друзьями."
+    },
+    {
+      "id": "559",
+      "g": "4",
+      "w": "yo pensaré",
+      "t": "я подумаю",
+      "e": "Yo pensaré en una solución esta tarde.",
+      "p": "Я подумаю над решением сегодня вечером."
+    },
+    {
+      "id": "560",
+      "g": "4",
+      "w": "tú pensarás",
+      "t": "ты подумаешь",
+      "e": "Tú pensarás en una solución esta tarde.",
+      "p": "Ты подумаешь над решением сегодня вечером."
+    },
+    {
+      "id": "561",
+      "g": "4",
+      "w": "él/ella pensará",
+      "t": "он подумает",
+      "e": "Él pensará en una solución esta tarde.",
+      "p": "Он подумает над решением сегодня вечером."
+    },
+    {
+      "id": "562",
+      "g": "4",
+      "w": "nosotros pensaremos",
+      "t": "мы подумаем",
+      "e": "Nosotros pensaremos en una solución esta tarde.",
+      "p": "Мы подумаем над решением сегодня вечером."
+    },
+    {
+      "id": "563",
+      "g": "4",
+      "w": "vosotros pensaréis",
+      "t": "вы подумаете",
+      "e": "Vosotros pensaréis en una solución esta tarde.",
+      "p": "Вы подумаете над решением сегодня вечером."
+    },
+    {
+      "id": "564",
+      "g": "4",
+      "w": "ellos pensarán",
+      "t": "они подумают",
+      "e": "Ellos pensarán en una solución esta tarde.",
+      "p": "Они подумают над решением сегодня вечером."
+    },
+    {
+      "id": "565",
+      "g": "4",
+      "w": "yo esperaré",
+      "t": "я буду ждать",
+      "e": "Yo esperaré la respuesta del hotel mañana.",
+      "p": "Я буду ждать ответ из отеля завтра."
+    },
+    {
+      "id": "566",
+      "g": "4",
+      "w": "tú esperarás",
+      "t": "ты будешь ждать",
+      "e": "Tú esperarás la respuesta del hotel mañana.",
+      "p": "Ты будешь ждать ответ из отеля завтра."
+    },
+    {
+      "id": "567",
+      "g": "4",
+      "w": "él/ella esperará",
+      "t": "он будет ждать",
+      "e": "Él esperará la respuesta del hotel mañana.",
+      "p": "Он будет ждать ответ из отеля завтра."
+    },
+    {
+      "id": "568",
+      "g": "4",
+      "w": "nosotros esperaremos",
+      "t": "мы будем ждать",
+      "e": "Nosotros esperaremos la respuesta del hotel mañana.",
+      "p": "Мы будем ждать ответ из отеля завтра."
+    },
+    {
+      "id": "569",
+      "g": "4",
+      "w": "vosotros esperaréis",
+      "t": "вы будете ждать",
+      "e": "Vosotros esperaréis la respuesta del hotel mañana.",
+      "p": "Вы будете ждать ответ из отеля завтра."
+    },
+    {
+      "id": "570",
+      "g": "4",
+      "w": "ellos esperarán",
+      "t": "они будут ждать",
+      "e": "Ellos esperarán la respuesta del hotel mañana.",
+      "p": "Они будут ждать ответ из отеля завтра."
+    },
+    {
+      "id": "571",
+      "g": "4",
+      "w": "yo vendré",
+      "t": "я приду",
+      "e": "Yo vendré a la fiesta el sábado.",
+      "p": "Я приду на праздник в субботу."
+    },
+    {
+      "id": "572",
+      "g": "4",
+      "w": "tú vendrás",
+      "t": "ты придёшь",
+      "e": "Tú vendrás a la fiesta el sábado.",
+      "p": "Ты придёшь на праздник в субботу."
+    },
+    {
+      "id": "573",
+      "g": "4",
+      "w": "él/ella vendrá",
+      "t": "он придёт",
+      "e": "Él vendrá a la fiesta el sábado.",
+      "p": "Он придёт на праздник в субботу."
+    },
+    {
+      "id": "574",
+      "g": "4",
+      "w": "nosotros vendremos",
+      "t": "мы придём",
+      "e": "Nosotros vendremos a la fiesta el sábado.",
+      "p": "Мы придём на праздник в субботу."
+    },
+    {
+      "id": "575",
+      "g": "4",
+      "w": "vosotros vendréis",
+      "t": "вы придёте",
+      "e": "Vosotros vendréis a la fiesta el sábado.",
+      "p": "Вы придёте на праздник в субботу."
+    },
+    {
+      "id": "576",
+      "g": "4",
+      "w": "ellos vendrán",
+      "t": "они придут",
+      "e": "Ellos vendrán a la fiesta el sábado.",
+      "p": "Они придут на праздник в субботу."
+    },
+    {
+      "id": "577",
+      "g": "4",
+      "w": "yo necesitaré",
+      "t": "я буду нуждаться в",
+      "e": "Yo necesitaré un billete para el tren mañana.",
+      "p": "Мне завтра понадобится билет на поезд."
+    },
+    {
+      "id": "578",
+      "g": "4",
+      "w": "tú necesitarás",
+      "t": "ты будешь нуждаться в",
+      "e": "Tú necesitarás un billete para el tren mañana.",
+      "p": "Тебе завтра понадобится билет на поезд."
+    },
+    {
+      "id": "579",
+      "g": "4",
+      "w": "él/ella necesitará",
+      "t": "он будет нуждаться в",
+      "e": "Él necesitará un billete para el tren mañana.",
+      "p": "Ему завтра понадобится билет на поезд."
+    },
+    {
+      "id": "580",
+      "g": "4",
+      "w": "nosotros necesitaremos",
+      "t": "мы будем нуждаться в",
+      "e": "Nosotros necesitaremos un billete para el tren mañana.",
+      "p": "Нам завтра понадобится билет на поезд."
+    },
+    {
+      "id": "581",
+      "g": "4",
+      "w": "vosotros necesitaréis",
+      "t": "вы будете нуждаться в",
+      "e": "Vosotros necesitaréis un billete para el tren mañana.",
+      "p": "Вам завтра понадобится билет на поезд."
+    },
+    {
+      "id": "582",
+      "g": "4",
+      "w": "ellos necesitarán",
+      "t": "они будут нуждаться в",
+      "e": "Ellos necesitarán un billete para el tren mañana.",
+      "p": "Им завтра понадобится билет на поезд."
+    },
+    {
+      "id": "583",
+      "g": "4",
+      "w": "yo miraré",
+      "t": "я посмотрю",
+      "e": "Yo miraré los precios antes de comprar.",
+      "p": "Я посмотрю цены перед покупкой."
+    },
+    {
+      "id": "584",
+      "g": "4",
+      "w": "tú mirarás",
+      "t": "ты посмотришь",
+      "e": "Tú mirarás los precios antes de comprar.",
+      "p": "Ты посмотришь цены перед покупкой."
+    },
+    {
+      "id": "585",
+      "g": "4",
+      "w": "él/ella mirará",
+      "t": "он посмотрит",
+      "e": "Él mirará los precios antes de comprar.",
+      "p": "Он посмотрит цены перед покупкой."
+    },
+    {
+      "id": "586",
+      "g": "4",
+      "w": "nosotros miraremos",
+      "t": "мы посмотрим",
+      "e": "Nosotros miraremos los precios antes de comprar.",
+      "p": "Мы посмотрим цены перед покупкой."
+    },
+    {
+      "id": "587",
+      "g": "4",
+      "w": "vosotros miraréis",
+      "t": "вы посмотрите",
+      "e": "Vosotros miraréis los precios antes de comprar.",
+      "p": "Вы посмотрите цены перед покупкой."
+    },
+    {
+      "id": "588",
+      "g": "4",
+      "w": "ellos mirarán",
+      "t": "они посмотрят",
+      "e": "Ellos mirarán los precios antes de comprar.",
+      "p": "Они посмотрят цены перед покупкой."
+    },
+    {
+      "id": "589",
+      "g": "4",
+      "w": "yo volveré",
+      "t": "я вернусь",
+      "e": "Yo volveré al hotel antes de las diez.",
+      "p": "Я вернусь в отель до десяти."
+    },
+    {
+      "id": "590",
+      "g": "4",
+      "w": "tú volverás",
+      "t": "ты вернёшься",
+      "e": "Tú volverás al hotel antes de las diez.",
+      "p": "Ты вернёшься в отель до десяти."
+    },
+    {
+      "id": "591",
+      "g": "4",
+      "w": "él/ella volverá",
+      "t": "он вернётся",
+      "e": "Él volverá al hotel antes de las diez.",
+      "p": "Он вернётся в отель до десяти."
+    },
+    {
+      "id": "592",
+      "g": "4",
+      "w": "nosotros volveremos",
+      "t": "мы вернёмся",
+      "e": "Nosotros volveremos al hotel antes de las diez.",
+      "p": "Мы вернёмся в отель до десяти."
+    },
+    {
+      "id": "593",
+      "g": "4",
+      "w": "vosotros volveréis",
+      "t": "вы вернётесь",
+      "e": "Vosotros volveréis al hotel antes de las diez.",
+      "p": "Вы вернётесь в отель до десяти."
+    },
+    {
+      "id": "594",
+      "g": "4",
+      "w": "ellos volverán",
+      "t": "они вернутся",
+      "e": "Ellos volverán al hotel antes de las diez.",
+      "p": "Они вернутся в отель до десяти."
+    },
+    {
+      "id": "595",
+      "g": "4",
+      "w": "yo pareceré",
+      "t": "я буду казаться",
+      "e": "Yo pareceré un turista en esta ciudad.",
+      "p": "Я буду казаться туристом в этом городе."
+    },
+    {
+      "id": "596",
+      "g": "4",
+      "w": "tú parecerás",
+      "t": "ты будешь казаться",
+      "e": "Tú parecerás un turista en esta ciudad.",
+      "p": "Ты будешь казаться туристом в этом городе."
+    },
+    {
+      "id": "597",
+      "g": "4",
+      "w": "él/ella parecerá",
+      "t": "он будет казаться",
+      "e": "Él parecerá un turista en esta ciudad.",
+      "p": "Он будет казаться туристом в этом городе."
+    },
+    {
+      "id": "598",
+      "g": "4",
+      "w": "nosotros pareceremos",
+      "t": "мы будем казаться",
+      "e": "Nosotros pareceremos turistas en esta ciudad.",
+      "p": "Мы будем казаться туристами в этом городе."
+    },
+    {
+      "id": "599",
+      "g": "4",
+      "w": "vosotros pareceréis",
+      "t": "вы будете казаться",
+      "e": "Vosotros pareceréis turistas en esta ciudad.",
+      "p": "Вы будете казаться туристами в этом городе."
+    },
+    {
+      "id": "600",
+      "g": "4",
+      "w": "ellos parecerán",
+      "t": "они будут казаться",
+      "e": "Ellos parecerán turistas en esta ciudad.",
+      "p": "Они будут казаться туристами в этом городе."
+    },
+    {
+      "id": "601",
+      "g": "5",
+      "w": "yo he sido",
+      "t": "я был",
+      "e": "Yo he sido muy amable con los clientes esta semana.",
+      "p": "Я был очень вежливым с клиентами на этой неделе."
+    },
+    {
+      "id": "602",
+      "g": "5",
+      "w": "tú has sido",
+      "t": "ты был",
+      "e": "Tú has sido muy amable con los clientes esta semana.",
+      "p": "Ты был очень вежливым с клиентами на этой неделе."
+    },
+    {
+      "id": "603",
+      "g": "5",
+      "w": "él/ella ha sido",
+      "t": "он был",
+      "e": "Él ha sido muy amable con los clientes esta semana.",
+      "p": "Он был очень вежливым с клиентами на этой неделе."
+    },
+    {
+      "id": "604",
+      "g": "5",
+      "w": "nosotros hemos sido",
+      "t": "мы были",
+      "e": "Nosotros hemos sido muy amables con los clientes esta semana.",
+      "p": "Мы были очень вежливыми с клиентами на этой неделе."
+    },
+    {
+      "id": "605",
+      "g": "5",
+      "w": "vosotros habéis sido",
+      "t": "вы были",
+      "e": "Vosotros habéis sido muy amables con los clientes esta semana.",
+      "p": "Вы были очень вежливыми с клиентами на этой неделе."
+    },
+    {
+      "id": "606",
+      "g": "5",
+      "w": "ellos han sido",
+      "t": "они были",
+      "e": "Ellos han sido muy amables con los clientes esta semana.",
+      "p": "Они были очень вежливыми с клиентами на этой неделе."
+    },
+    {
+      "id": "607",
+      "g": "5",
+      "w": "yo he estado",
+      "t": "я был",
+      "e": "Yo he estado en una reunión esta mañana.",
+      "p": "Я был сегодня утром на совещании."
+    },
+    {
+      "id": "608",
+      "g": "5",
+      "w": "tú has estado",
+      "t": "ты был",
+      "e": "Tú has estado en una reunión esta mañana.",
+      "p": "Ты был сегодня утром на совещании."
+    },
+    {
+      "id": "609",
+      "g": "5",
+      "w": "él/ella ha estado",
+      "t": "он был",
+      "e": "Él ha estado en una reunión esta mañana.",
+      "p": "Он был сегодня утром на совещании."
+    },
+    {
+      "id": "610",
+      "g": "5",
+      "w": "nosotros hemos estado",
+      "t": "мы были",
+      "e": "Nosotros hemos estado en una reunión esta mañana.",
+      "p": "Мы были сегодня утром на совещании."
+    },
+    {
+      "id": "611",
+      "g": "5",
+      "w": "vosotros habéis estado",
+      "t": "вы были",
+      "e": "Vosotros habéis estado en una reunión esta mañana.",
+      "p": "Вы были сегодня утром на совещании."
+    },
+    {
+      "id": "612",
+      "g": "5",
+      "w": "ellos han estado",
+      "t": "они были",
+      "e": "Ellos han estado en una reunión esta mañana.",
+      "p": "Они были сегодня утром на совещании."
+    },
+    {
+      "id": "613",
+      "g": "5",
+      "w": "yo me las he habido con",
+      "t": "мне пришлось иметь дело с",
+      "e": "Yo me las he habido con un cliente difícil esta semana.",
+      "p": "На этой неделе мне пришлось иметь дело с трудным клиентом."
+    },
+    {
+      "id": "614",
+      "g": "5",
+      "w": "tú te las has habido con",
+      "t": "тебе пришлось иметь дело с",
+      "e": "Tú te las has habido con un cliente difícil esta semana.",
+      "p": "На этой неделе тебе пришлось иметь дело с трудным клиентом."
+    },
+    {
+      "id": "615",
+      "g": "5",
+      "w": "él/ella se las ha habido con",
+      "t": "ему пришлось иметь дело с",
+      "e": "Él se las ha habido con un cliente difícil esta semana.",
+      "p": "На этой неделе ему пришлось иметь дело с трудным клиентом."
+    },
+    {
+      "id": "616",
+      "g": "5",
+      "w": "nosotros nos las hemos habido con",
+      "t": "нам пришлось иметь дело с",
+      "e": "Nosotros nos las hemos habido con un cliente difícil esta semana.",
+      "p": "На этой неделе нам пришлось иметь дело с трудным клиентом."
+    },
+    {
+      "id": "617",
+      "g": "5",
+      "w": "vosotros os las habéis habido con",
+      "t": "вам пришлось иметь дело с",
+      "e": "Vosotros os las habéis habido con un cliente difícil esta semana.",
+      "p": "На этой неделе вам пришлось иметь дело с трудным клиентом."
+    },
+    {
+      "id": "618",
+      "g": "5",
+      "w": "ellos se las han habido con",
+      "t": "им пришлось иметь дело с",
+      "e": "Ellos se las han habido con un cliente difícil esta semana.",
+      "p": "На этой неделе им пришлось иметь дело с трудным клиентом."
+    },
+    {
+      "id": "619",
+      "g": "5",
+      "w": "yo he tenido",
+      "t": "я имел",
+      "e": "Yo he tenido tiempo para descansar esta semana.",
+      "p": "У меня на этой неделе было время отдохнуть."
+    },
+    {
+      "id": "620",
+      "g": "5",
+      "w": "tú has tenido",
+      "t": "ты имел",
+      "e": "Tú has tenido tiempo para descansar esta semana.",
+      "p": "У тебя на этой неделе было время отдохнуть."
+    },
+    {
+      "id": "621",
+      "g": "5",
+      "w": "él/ella ha tenido",
+      "t": "он имел",
+      "e": "Él ha tenido tiempo para descansar esta semana.",
+      "p": "У него на этой неделе было время отдохнуть."
+    },
+    {
+      "id": "622",
+      "g": "5",
+      "w": "nosotros hemos tenido",
+      "t": "мы имели",
+      "e": "Nosotros hemos tenido tiempo para descansar esta semana.",
+      "p": "У нас на этой неделе было время отдохнуть."
+    },
+    {
+      "id": "623",
+      "g": "5",
+      "w": "vosotros habéis tenido",
+      "t": "вы имели",
+      "e": "Vosotros habéis tenido tiempo para descansar esta semana.",
+      "p": "У вас на этой неделе было время отдохнуть."
+    },
+    {
+      "id": "624",
+      "g": "5",
+      "w": "ellos han tenido",
+      "t": "они имели",
+      "e": "Ellos han tenido tiempo para descansar esta semana.",
+      "p": "У них на этой неделе было время отдохнуть."
+    },
+    {
+      "id": "625",
+      "g": "5",
+      "w": "yo he ido",
+      "t": "я сходил",
+      "e": "Yo he ido al médico esta semana.",
+      "p": "Я сходил к врачу на этой неделе."
+    },
+    {
+      "id": "626",
+      "g": "5",
+      "w": "tú has ido",
+      "t": "ты сходил",
+      "e": "Tú has ido al médico esta semana.",
+      "p": "Ты сходил к врачу на этой неделе."
+    },
+    {
+      "id": "627",
+      "g": "5",
+      "w": "él/ella ha ido",
+      "t": "он сходил",
+      "e": "Él ha ido al médico esta semana.",
+      "p": "Он сходил к врачу на этой неделе."
+    },
+    {
+      "id": "628",
+      "g": "5",
+      "w": "nosotros hemos ido",
+      "t": "мы сходили",
+      "e": "Nosotros hemos ido al médico esta semana.",
+      "p": "Мы сходили к врачу на этой неделе."
+    },
+    {
+      "id": "629",
+      "g": "5",
+      "w": "vosotros habéis ido",
+      "t": "вы сходили",
+      "e": "Vosotros habéis ido al médico esta semana.",
+      "p": "Вы сходили к врачу на этой неделе."
+    },
+    {
+      "id": "630",
+      "g": "5",
+      "w": "ellos han ido",
+      "t": "они сходили",
+      "e": "Ellos han ido al médico esta semana.",
+      "p": "Они сходили к врачу на этой неделе."
+    },
+    {
+      "id": "631",
+      "g": "5",
+      "w": "yo he podido",
+      "t": "я смог",
+      "e": "Yo he podido terminar el informe hoy.",
+      "p": "Я смог закончить отчёт сегодня."
+    },
+    {
+      "id": "632",
+      "g": "5",
+      "w": "tú has podido",
+      "t": "ты смог",
+      "e": "Tú has podido terminar el informe hoy.",
+      "p": "Ты смог закончить отчёт сегодня."
+    },
+    {
+      "id": "633",
+      "g": "5",
+      "w": "él/ella ha podido",
+      "t": "он смог",
+      "e": "Él ha podido terminar el informe hoy.",
+      "p": "Он смог закончить отчёт сегодня."
+    },
+    {
+      "id": "634",
+      "g": "5",
+      "w": "nosotros hemos podido",
+      "t": "мы смогли",
+      "e": "Nosotros hemos podido terminar el informe hoy.",
+      "p": "Мы смогли закончить отчёт сегодня."
+    },
+    {
+      "id": "635",
+      "g": "5",
+      "w": "vosotros habéis podido",
+      "t": "вы смогли",
+      "e": "Vosotros habéis podido terminar el informe hoy.",
+      "p": "Вы смогли закончить отчёт сегодня."
+    },
+    {
+      "id": "636",
+      "g": "5",
+      "w": "ellos han podido",
+      "t": "они смогли",
+      "e": "Ellos han podido terminar el informe hoy.",
+      "p": "Они смогли закончить отчёт сегодня."
+    },
+    {
+      "id": "637",
+      "g": "5",
+      "w": "yo he hecho",
+      "t": "я посетил",
+      "e": "Yo he hecho una visita al museo esta semana.",
+      "p": "Я посетил музей на этой неделе."
+    },
+    {
+      "id": "638",
+      "g": "5",
+      "w": "tú has hecho",
+      "t": "ты посетил",
+      "e": "Tú has hecho una visita al museo esta semana.",
+      "p": "Ты посетил музей на этой неделе."
+    },
+    {
+      "id": "639",
+      "g": "5",
+      "w": "él/ella ha hecho",
+      "t": "он посетил",
+      "e": "Él ha hecho una visita al museo esta semana.",
+      "p": "Он посетил музей на этой неделе."
+    },
+    {
+      "id": "640",
+      "g": "5",
+      "w": "nosotros hemos hecho",
+      "t": "мы посетили",
+      "e": "Nosotros hemos hecho una visita al museo esta semana.",
+      "p": "Мы посетили музей на этой неделе."
+    },
+    {
+      "id": "641",
+      "g": "5",
+      "w": "vosotros habéis hecho",
+      "t": "вы посетили",
+      "e": "Vosotros habéis hecho una visita al museo esta semana.",
+      "p": "Вы посетили музей на этой неделе."
+    },
+    {
+      "id": "642",
+      "g": "5",
+      "w": "ellos han hecho",
+      "t": "они посетили",
+      "e": "Ellos han hecho una visita al museo esta semana.",
+      "p": "Они посетили музей на этой неделе."
+    },
+    {
+      "id": "643",
+      "g": "5",
+      "w": "yo he dicho",
+      "t": "я сказал",
+      "e": "Yo he dicho algo importante al médico hoy.",
+      "p": "Я сказал что-то важное врачу сегодня."
+    },
+    {
+      "id": "644",
+      "g": "5",
+      "w": "tú has dicho",
+      "t": "ты сказал",
+      "e": "Tú has dicho algo importante al médico hoy.",
+      "p": "Ты сказал что-то важное врачу сегодня."
+    },
+    {
+      "id": "645",
+      "g": "5",
+      "w": "él/ella ha dicho",
+      "t": "он сказал",
+      "e": "Él ha dicho algo importante al médico hoy.",
+      "p": "Он сказал что-то важное врачу сегодня."
+    },
+    {
+      "id": "646",
+      "g": "5",
+      "w": "nosotros hemos dicho",
+      "t": "мы сказали",
+      "e": "Nosotros hemos dicho algo importante al médico hoy.",
+      "p": "Мы сказали что-то важное врачу сегодня."
+    },
+    {
+      "id": "647",
+      "g": "5",
+      "w": "vosotros habéis dicho",
+      "t": "вы сказали",
+      "e": "Vosotros habéis dicho algo importante al médico hoy.",
+      "p": "Вы сказали что-то важное врачу сегодня."
+    },
+    {
+      "id": "648",
+      "g": "5",
+      "w": "ellos han dicho",
+      "t": "они сказали",
+      "e": "Ellos han dicho algo importante al médico hoy.",
+      "p": "Они сказали что-то важное врачу сегодня."
+    },
+    {
+      "id": "649",
+      "g": "5",
+      "w": "yo he sabido",
+      "t": "я узнал",
+      "e": "Yo he sabido de un nuevo curso de español esta semana.",
+      "p": "Я узнал о новом курсе испанского на этой неделе."
+    },
+    {
+      "id": "650",
+      "g": "5",
+      "w": "tú has sabido",
+      "t": "ты узнал",
+      "e": "Tú has sabido de un nuevo curso de español esta semana.",
+      "p": "Ты узнал о новом курсе испанского на этой неделе."
+    },
+    {
+      "id": "651",
+      "g": "5",
+      "w": "él/ella ha sabido",
+      "t": "он узнал",
+      "e": "Él ha sabido de un nuevo curso de español esta semana.",
+      "p": "Он узнал о новом курсе испанского на этой неделе."
+    },
+    {
+      "id": "652",
+      "g": "5",
+      "w": "nosotros hemos sabido",
+      "t": "мы узнали",
+      "e": "Nosotros hemos sabido de un nuevo curso de español esta semana.",
+      "p": "Мы узнали о новом курсе испанского на этой неделе."
+    },
+    {
+      "id": "653",
+      "g": "5",
+      "w": "vosotros habéis sabido",
+      "t": "вы узнали",
+      "e": "Vosotros habéis sabido de un nuevo curso de español esta semana.",
+      "p": "Вы узнали о новом курсе испанского на этой неделе."
+    },
+    {
+      "id": "654",
+      "g": "5",
+      "w": "ellos han sabido",
+      "t": "они узнали",
+      "e": "Ellos han sabido de un nuevo curso de español esta semana.",
+      "p": "Они узнали о новом курсе испанского на этой неделе."
+    },
+    {
+      "id": "655",
+      "g": "5",
+      "w": "yo he querido",
+      "t": "я хотел",
+      "e": "Yo he querido aprender español desde hace tiempo.",
+      "p": "Я хотел изучать испанский уже давно."
+    },
+    {
+      "id": "656",
+      "g": "5",
+      "w": "tú has querido",
+      "t": "ты хотел",
+      "e": "Tú has querido aprender español desde hace tiempo.",
+      "p": "Ты хотел изучать испанский уже давно."
+    },
+    {
+      "id": "657",
+      "g": "5",
+      "w": "él/ella ha querido",
+      "t": "он хотел",
+      "e": "Él ha querido aprender español desde hace tiempo.",
+      "p": "Он хотел изучать испанский уже давно."
+    },
+    {
+      "id": "658",
+      "g": "5",
+      "w": "nosotros hemos querido",
+      "t": "мы хотели",
+      "e": "Nosotros hemos querido aprender español desde hace tiempo.",
+      "p": "Мы хотели изучать испанский уже давно."
+    },
+    {
+      "id": "659",
+      "g": "5",
+      "w": "vosotros habéis querido",
+      "t": "вы хотели",
+      "e": "Vosotros habéis querido aprender español desde hace tiempo.",
+      "p": "Вы хотели изучать испанский уже давно."
+    },
+    {
+      "id": "660",
+      "g": "5",
+      "w": "ellos han querido",
+      "t": "они хотели",
+      "e": "Ellos han querido aprender español desde hace tiempo.",
+      "p": "Они хотели изучать испанский уже давно."
+    },
+    {
+      "id": "661",
+      "g": "5",
+      "w": "yo he visto",
+      "t": "я посмотрел",
+      "e": "Yo he visto un apartamento nuevo esta semana.",
+      "p": "Я посмотрел новую квартиру на этой неделе."
+    },
+    {
+      "id": "662",
+      "g": "5",
+      "w": "tú has visto",
+      "t": "ты посмотрел",
+      "e": "Tú has visto un apartamento nuevo esta semana.",
+      "p": "Ты посмотрел новую квартиру на этой неделе."
+    },
+    {
+      "id": "663",
+      "g": "5",
+      "w": "él/ella ha visto",
+      "t": "он посмотрел",
+      "e": "Él ha visto un apartamento nuevo esta semana.",
+      "p": "Он посмотрел новую квартиру на этой неделе."
+    },
+    {
+      "id": "664",
+      "g": "5",
+      "w": "nosotros hemos visto",
+      "t": "мы посмотрели",
+      "e": "Nosotros hemos visto un apartamento nuevo esta semana.",
+      "p": "Мы посмотрели новую квартиру на этой неделе."
+    },
+    {
+      "id": "665",
+      "g": "5",
+      "w": "vosotros habéis visto",
+      "t": "вы посмотрели",
+      "e": "Vosotros habéis visto un apartamento nuevo esta semana.",
+      "p": "Вы посмотрели новую квартиру на этой неделе."
+    },
+    {
+      "id": "666",
+      "g": "5",
+      "w": "ellos han visto",
+      "t": "они посмотрели",
+      "e": "Ellos han visto un apartamento nuevo esta semana.",
+      "p": "Они посмотрели новую квартиру на этой неделе."
+    },
+    {
+      "id": "667",
+      "g": "5",
+      "w": "yo he creído",
+      "t": "я верил",
+      "e": "Yo he creído siempre que viajar es importante.",
+      "p": "Я всегда верил что путешествовать важно."
+    },
+    {
+      "id": "668",
+      "g": "5",
+      "w": "tú has creído",
+      "t": "ты верил",
+      "e": "Tú has creído siempre que viajar es importante.",
+      "p": "Ты всегда верил что путешествовать важно."
+    },
+    {
+      "id": "669",
+      "g": "5",
+      "w": "él/ella ha creído",
+      "t": "он верил",
+      "e": "Él ha creído siempre que viajar es importante.",
+      "p": "Он всегда верил что путешествовать важно."
+    },
+    {
+      "id": "670",
+      "g": "5",
+      "w": "nosotros hemos creído",
+      "t": "мы верили",
+      "e": "Nosotros hemos creído siempre que viajar es importante.",
+      "p": "Мы всегда верили что путешествовать важно."
+    },
+    {
+      "id": "671",
+      "g": "5",
+      "w": "vosotros habéis creído",
+      "t": "вы верили",
+      "e": "Vosotros habéis creído siempre que viajar es importante.",
+      "p": "Вы всегда верили что путешествовать важно."
+    },
+    {
+      "id": "672",
+      "g": "5",
+      "w": "ellos han creído",
+      "t": "они верили",
+      "e": "Ellos han creído siempre que viajar es importante.",
+      "p": "Они всегда верили что путешествовать важно."
+    },
+    {
+      "id": "673",
+      "g": "5",
+      "w": "yo he debido",
+      "t": "я был вынужден",
+      "e": "Yo he debido cambiar la cita dos veces esta semana.",
+      "p": "Я был вынужден дважды переносить запись на этой неделе."
+    },
+    {
+      "id": "674",
+      "g": "5",
+      "w": "tú has debido",
+      "t": "ты был вынужден",
+      "e": "Tú has debido cambiar la cita dos veces esta semana.",
+      "p": "Ты был вынужден дважды переносить запись на этой неделе."
+    },
+    {
+      "id": "675",
+      "g": "5",
+      "w": "él/ella ha debido",
+      "t": "он был вынужден",
+      "e": "Él ha debido cambiar la cita dos veces esta semana.",
+      "p": "Он был вынужден дважды переносить запись на этой неделе."
+    },
+    {
+      "id": "676",
+      "g": "5",
+      "w": "nosotros hemos debido",
+      "t": "мы были вынуждены",
+      "e": "Nosotros hemos debido cambiar la cita dos veces esta semana.",
+      "p": "Мы были вынуждены дважды переносить запись на этой неделе."
+    },
+    {
+      "id": "677",
+      "g": "5",
+      "w": "vosotros habéis debido",
+      "t": "вы были вынуждены",
+      "e": "Vosotros habéis debido cambiar la cita dos veces esta semana.",
+      "p": "Вы были вынуждены дважды переносить запись на этой неделе."
+    },
+    {
+      "id": "678",
+      "g": "5",
+      "w": "ellos han debido",
+      "t": "они были вынуждены",
+      "e": "Ellos han debido cambiar la cita dos veces esta semana.",
+      "p": "Они были вынуждены дважды переносить запись на этой неделе."
+    },
+    {
+      "id": "679",
+      "g": "5",
+      "w": "yo he dado",
+      "t": "я поблагодарил",
+      "e": "Yo he dado las gracias al camarero hoy.",
+      "p": "Я поблагодарил официанта сегодня."
+    },
+    {
+      "id": "680",
+      "g": "5",
+      "w": "tú has dado",
+      "t": "ты поблагодарил",
+      "e": "Tú has dado las gracias al camarero hoy.",
+      "p": "Ты поблагодарил официанта сегодня."
+    },
+    {
+      "id": "681",
+      "g": "5",
+      "w": "él/ella ha dado",
+      "t": "он поблагодарил",
+      "e": "Él ha dado las gracias al camarero hoy.",
+      "p": "Он поблагодарил официанта сегодня."
+    },
+    {
+      "id": "682",
+      "g": "5",
+      "w": "nosotros hemos dado",
+      "t": "мы поблагодарили",
+      "e": "Nosotros hemos dado las gracias al camarero hoy.",
+      "p": "Мы поблагодарили официанта сегодня."
+    },
+    {
+      "id": "683",
+      "g": "5",
+      "w": "vosotros habéis dado",
+      "t": "вы поблагодарили",
+      "e": "Vosotros habéis dado las gracias al camarero hoy.",
+      "p": "Вы поблагодарили официанта сегодня."
+    },
+    {
+      "id": "684",
+      "g": "5",
+      "w": "ellos han dado",
+      "t": "они поблагодарили",
+      "e": "Ellos han dado las gracias al camarero hoy.",
+      "p": "Они поблагодарили официанта сегодня."
+    },
+    {
+      "id": "685",
+      "g": "5",
+      "w": "yo he pasado",
+      "t": "я провёл",
+      "e": "Yo he pasado dos horas en el hospital esta semana.",
+      "p": "Я провёл два часа в больнице на этой неделе."
+    },
+    {
+      "id": "686",
+      "g": "5",
+      "w": "tú has pasado",
+      "t": "ты провёл",
+      "e": "Tú has pasado dos horas en el hospital esta semana.",
+      "p": "Ты провёл два часа в больнице на этой неделе."
+    },
+    {
+      "id": "687",
+      "g": "5",
+      "w": "él/ella ha pasado",
+      "t": "он провёл",
+      "e": "Él ha pasado dos horas en el hospital esta semana.",
+      "p": "Он провёл два часа в больнице на этой неделе."
+    },
+    {
+      "id": "688",
+      "g": "5",
+      "w": "nosotros hemos pasado",
+      "t": "мы провели",
+      "e": "Nosotros hemos pasado dos horas en el hospital esta semana.",
+      "p": "Мы провели два часа в больнице на этой неделе."
+    },
+    {
+      "id": "689",
+      "g": "5",
+      "w": "vosotros habéis pasado",
+      "t": "вы провели",
+      "e": "Vosotros habéis pasado dos horas en el hospital esta semana.",
+      "p": "Вы провели два часа в больнице на этой неделе."
+    },
+    {
+      "id": "690",
+      "g": "5",
+      "w": "ellos han pasado",
+      "t": "они провели",
+      "e": "Ellos han pasado dos horas en el hospital esta semana.",
+      "p": "Они провели два часа в больнице на этой неделе."
+    },
+    {
+      "id": "691",
+      "g": "5",
+      "w": "yo he hablado",
+      "t": "я поговорил",
+      "e": "Yo he hablado con el médico hoy.",
+      "p": "Я поговорил с врачом сегодня."
+    },
+    {
+      "id": "692",
+      "g": "5",
+      "w": "tú has hablado",
+      "t": "ты поговорил",
+      "e": "Tú has hablado con el médico hoy.",
+      "p": "Ты поговорил с врачом сегодня."
+    },
+    {
+      "id": "693",
+      "g": "5",
+      "w": "él/ella ha hablado",
+      "t": "он поговорил",
+      "e": "Él ha hablado con el médico hoy.",
+      "p": "Он поговорил с врачом сегодня."
+    },
+    {
+      "id": "694",
+      "g": "5",
+      "w": "nosotros hemos hablado",
+      "t": "мы поговорили",
+      "e": "Nosotros hemos hablado con el médico hoy.",
+      "p": "Мы поговорили с врачом сегодня."
+    },
+    {
+      "id": "695",
+      "g": "5",
+      "w": "vosotros habéis hablado",
+      "t": "вы поговорили",
+      "e": "Vosotros habéis hablado con el médico hoy.",
+      "p": "Вы поговорили с врачом сегодня."
+    },
+    {
+      "id": "696",
+      "g": "5",
+      "w": "ellos han hablado",
+      "t": "они поговорили",
+      "e": "Ellos han hablado con el médico hoy.",
+      "p": "Они поговорили с врачом сегодня."
+    },
+    {
+      "id": "697",
+      "g": "5",
+      "w": "yo he dejado",
+      "t": "я оставил",
+      "e": "Yo he dejado el móvil en casa hoy.",
+      "p": "Я оставил телефон дома сегодня."
+    },
+    {
+      "id": "698",
+      "g": "5",
+      "w": "tú has dejado",
+      "t": "ты оставил",
+      "e": "Tú has dejado el móvil en casa hoy.",
+      "p": "Ты оставил телефон дома сегодня."
+    },
+    {
+      "id": "699",
+      "g": "5",
+      "w": "él/ella ha dejado",
+      "t": "он оставил",
+      "e": "Él ha dejado el móvil en casa hoy.",
+      "p": "Он оставил телефон дома сегодня."
+    },
+    {
+      "id": "700",
+      "g": "5",
+      "w": "nosotros hemos dejado",
+      "t": "мы оставили",
+      "e": "Nosotros hemos dejado el móvil en casa hoy.",
+      "p": "Мы оставили телефон дома сегодня."
+    },
+    {
+      "id": "701",
+      "g": "5",
+      "w": "vosotros habéis dejado",
+      "t": "вы оставили",
+      "e": "Vosotros habéis dejado el móvil en casa hoy.",
+      "p": "Вы оставили телефон дома сегодня."
+    },
+    {
+      "id": "702",
+      "g": "5",
+      "w": "ellos han dejado",
+      "t": "они оставили",
+      "e": "Ellos han dejado el móvil en casa hoy.",
+      "p": "Они оставили телефон дома сегодня."
+    },
+    {
+      "id": "703",
+      "g": "5",
+      "w": "yo he sentido",
+      "t": "я ощущал",
+      "e": "Yo he sentido mucho cansancio esta semana.",
+      "p": "Я ощущал сильную усталость на этой неделе."
+    },
+    {
+      "id": "704",
+      "g": "5",
+      "w": "tú has sentido",
+      "t": "ты ощущал",
+      "e": "Tú has sentido mucho cansancio esta semana.",
+      "p": "Ты ощущал сильную усталость на этой неделе."
+    },
+    {
+      "id": "705",
+      "g": "5",
+      "w": "él/ella ha sentido",
+      "t": "он ощущал",
+      "e": "Él ha sentido mucho cansancio esta semana.",
+      "p": "Он ощущал сильную усталость на этой неделе."
+    },
+    {
+      "id": "706",
+      "g": "5",
+      "w": "nosotros hemos sentido",
+      "t": "мы ощущали",
+      "e": "Nosotros hemos sentido mucho cansancio esta semana.",
+      "p": "Мы ощущали сильную усталость на этой неделе."
+    },
+    {
+      "id": "707",
+      "g": "5",
+      "w": "vosotros habéis sentido",
+      "t": "вы ощущали",
+      "e": "Vosotros habéis sentido mucho cansancio esta semana.",
+      "p": "Вы ощущали сильную усталость на этой неделе."
+    },
+    {
+      "id": "708",
+      "g": "5",
+      "w": "ellos han sentido",
+      "t": "они ощущали",
+      "e": "Ellos han sentido mucho cansancio esta semana.",
+      "p": "Они ощущали сильную усталость на этой неделе."
+    },
+    {
+      "id": "709",
+      "g": "5",
+      "w": "yo he pensado",
+      "t": "я думал",
+      "e": "Yo he pensado mucho en esa conversación.",
+      "p": "Я думал много об этом разговоре."
+    },
+    {
+      "id": "710",
+      "g": "5",
+      "w": "tú has pensado",
+      "t": "ты думал",
+      "e": "Tú has pensado mucho en esa conversación.",
+      "p": "Ты думал много об этом разговоре."
+    },
+    {
+      "id": "711",
+      "g": "5",
+      "w": "él/ella ha pensado",
+      "t": "он думал",
+      "e": "Él ha pensado mucho en esa conversación.",
+      "p": "Он думал много об этом разговоре."
+    },
+    {
+      "id": "712",
+      "g": "5",
+      "w": "nosotros hemos pensado",
+      "t": "мы думали",
+      "e": "Nosotros hemos pensado mucho en esa conversación.",
+      "p": "Мы думали много об этом разговоре."
+    },
+    {
+      "id": "713",
+      "g": "5",
+      "w": "vosotros habéis pensado",
+      "t": "вы думали",
+      "e": "Vosotros habéis pensado mucho en esa conversación.",
+      "p": "Вы думали много об этом разговоре."
+    },
+    {
+      "id": "714",
+      "g": "5",
+      "w": "ellos han pensado",
+      "t": "они думали",
+      "e": "Ellos han pensado mucho en esa conversación.",
+      "p": "Они думали много об этом разговоре."
+    },
+    {
+      "id": "715",
+      "g": "5",
+      "w": "yo he esperado",
+      "t": "я прождал",
+      "e": "Yo he esperado mucho tiempo en la estación hoy.",
+      "p": "Я прождал много времени на вокзале сегодня."
+    },
+    {
+      "id": "716",
+      "g": "5",
+      "w": "tú has esperado",
+      "t": "ты прождал",
+      "e": "Tú has esperado mucho tiempo en la estación hoy.",
+      "p": "Ты прождал много времени на вокзале сегодня."
+    },
+    {
+      "id": "717",
+      "g": "5",
+      "w": "él/ella ha esperado",
+      "t": "он прождал",
+      "e": "Él ha esperado mucho tiempo en la estación hoy.",
+      "p": "Он прождал много времени на вокзале сегодня."
+    },
+    {
+      "id": "718",
+      "g": "5",
+      "w": "nosotros hemos esperado",
+      "t": "мы прождали",
+      "e": "Nosotros hemos esperado mucho tiempo en la estación hoy.",
+      "p": "Мы прождали много времени на вокзале сегодня."
+    },
+    {
+      "id": "719",
+      "g": "5",
+      "w": "vosotros habéis esperado",
+      "t": "вы прождали",
+      "e": "Vosotros habéis esperado mucho tiempo en la estación hoy.",
+      "p": "Вы прождали много времени на вокзале сегодня."
+    },
+    {
+      "id": "720",
+      "g": "5",
+      "w": "ellos han esperado",
+      "t": "они прождали",
+      "e": "Ellos han esperado mucho tiempo en la estación hoy.",
+      "p": "Они прождали много времени на вокзале сегодня."
+    },
+    {
+      "id": "721",
+      "g": "5",
+      "w": "yo he venido",
+      "t": "я приезжал",
+      "e": "Yo he venido a la ciudad dos veces este mes.",
+      "p": "Я приезжал в город два раза в этом месяце."
+    },
+    {
+      "id": "722",
+      "g": "5",
+      "w": "tú has venido",
+      "t": "ты приезжал",
+      "e": "Tú has venido a la ciudad dos veces este mes.",
+      "p": "Ты приезжал в город два раза в этом месяце."
+    },
+    {
+      "id": "723",
+      "g": "5",
+      "w": "él/ella ha venido",
+      "t": "он приезжал",
+      "e": "Él ha venido a la ciudad dos veces este mes.",
+      "p": "Он приезжал в город два раза в этом месяце."
+    },
+    {
+      "id": "724",
+      "g": "5",
+      "w": "nosotros hemos venido",
+      "t": "мы приезжали",
+      "e": "Nosotros hemos venido a la ciudad dos veces este mes.",
+      "p": "Мы приезжали в город два раза в этом месяце."
+    },
+    {
+      "id": "725",
+      "g": "5",
+      "w": "vosotros habéis venido",
+      "t": "вы приезжали",
+      "e": "Vosotros habéis venido a la ciudad dos veces este mes.",
+      "p": "Вы приезжали в город два раза в этом месяце."
+    },
+    {
+      "id": "726",
+      "g": "5",
+      "w": "ellos han venido",
+      "t": "они приезжали",
+      "e": "Ellos han venido a la ciudad dos veces este mes.",
+      "p": "Они приезжали в город два раза в этом месяце."
+    },
+    {
+      "id": "727",
+      "g": "5",
+      "w": "yo he necesitado",
+      "t": "я нуждался в",
+      "e": "Yo he necesitado ayuda de un médico esta semana.",
+      "p": "Мне на этой неделе понадобилась помощь врача."
+    },
+    {
+      "id": "728",
+      "g": "5",
+      "w": "tú has necesitado",
+      "t": "ты нуждался в",
+      "e": "Tú has necesitado ayuda de un médico esta semana.",
+      "p": "Тебе на этой неделе понадобилась помощь врача."
+    },
+    {
+      "id": "729",
+      "g": "5",
+      "w": "él/ella ha necesitado",
+      "t": "он нуждался в",
+      "e": "Él ha necesitado ayuda de un médico esta semana.",
+      "p": "Ему на этой неделе понадобилась помощь врача."
+    },
+    {
+      "id": "730",
+      "g": "5",
+      "w": "nosotros hemos necesitado",
+      "t": "мы нуждались в",
+      "e": "Nosotros hemos necesitado ayuda de un médico esta semana.",
+      "p": "Нам на этой неделе понадобилась помощь врача."
+    },
+    {
+      "id": "731",
+      "g": "5",
+      "w": "vosotros habéis necesitado",
+      "t": "вы нуждались в",
+      "e": "Vosotros habéis necesitado ayuda de un médico esta semana.",
+      "p": "Вам на этой неделе понадобилась помощь врача."
+    },
+    {
+      "id": "732",
+      "g": "5",
+      "w": "ellos han necesitado",
+      "t": "они нуждались в",
+      "e": "Ellos han necesitado ayuda de un médico esta semana.",
+      "p": "Им на этой неделе понадобилась помощь врача."
+    },
+    {
+      "id": "733",
+      "g": "5",
+      "w": "yo he mirado",
+      "t": "я посмотрел",
+      "e": "Yo he mirado las fotos del viaje hoy.",
+      "p": "Я посмотрел фотографии из поездки сегодня."
+    },
+    {
+      "id": "734",
+      "g": "5",
+      "w": "tú has mirado",
+      "t": "ты посмотрел",
+      "e": "Tú has mirado las fotos del viaje hoy.",
+      "p": "Ты посмотрел фотографии из поездки сегодня."
+    },
+    {
+      "id": "735",
+      "g": "5",
+      "w": "él/ella ha mirado",
+      "t": "он посмотрел",
+      "e": "Él ha mirado las fotos del viaje hoy.",
+      "p": "Он посмотрел фотографии из поездки сегодня."
+    },
+    {
+      "id": "736",
+      "g": "5",
+      "w": "nosotros hemos mirado",
+      "t": "мы посмотрели",
+      "e": "Nosotros hemos mirado las fotos del viaje hoy.",
+      "p": "Мы посмотрели фотографии из поездки сегодня."
+    },
+    {
+      "id": "737",
+      "g": "5",
+      "w": "vosotros habéis mirado",
+      "t": "вы посмотрели",
+      "e": "Vosotros habéis mirado las fotos del viaje hoy.",
+      "p": "Вы посмотрели фотографии из поездки сегодня."
+    },
+    {
+      "id": "738",
+      "g": "5",
+      "w": "ellos han mirado",
+      "t": "они посмотрели",
+      "e": "Ellos han mirado las fotos del viaje hoy.",
+      "p": "Они посмотрели фотографии из поездки сегодня."
+    },
+    {
+      "id": "739",
+      "g": "5",
+      "w": "yo he vuelto",
+      "t": "я вернулся",
+      "e": "Yo he vuelto al mismo restaurante tres veces este mes.",
+      "p": "Я вернулся в тот же ресторан трижды в этом месяце."
+    },
+    {
+      "id": "740",
+      "g": "5",
+      "w": "tú has vuelto",
+      "t": "ты вернулся",
+      "e": "Tú has vuelto al mismo restaurante tres veces este mes.",
+      "p": "Ты вернулся в тот же ресторан трижды в этом месяце."
+    },
+    {
+      "id": "741",
+      "g": "5",
+      "w": "él/ella ha vuelto",
+      "t": "он вернулся",
+      "e": "Él ha vuelto al mismo restaurante tres veces este mes.",
+      "p": "Он вернулся в тот же ресторан трижды в этом месяце."
+    },
+    {
+      "id": "742",
+      "g": "5",
+      "w": "nosotros hemos vuelto",
+      "t": "мы вернулись",
+      "e": "Nosotros hemos vuelto al mismo restaurante tres veces este mes.",
+      "p": "Мы вернулись в тот же ресторан трижды в этом месяце."
+    },
+    {
+      "id": "743",
+      "g": "5",
+      "w": "vosotros habéis vuelto",
+      "t": "вы вернулись",
+      "e": "Vosotros habéis vuelto al mismo restaurante tres veces este mes.",
+      "p": "Вы вернулись в тот же ресторан трижды в этом месяце."
+    },
+    {
+      "id": "744",
+      "g": "5",
+      "w": "ellos han vuelto",
+      "t": "они вернулись",
+      "e": "Ellos han vuelto al mismo restaurante tres veces este mes.",
+      "p": "Они вернулись в тот же ресторан трижды в этом месяце."
+    },
+    {
+      "id": "745",
+      "g": "5",
+      "w": "yo he parecido",
+      "t": "я выглядел",
+      "e": "Yo he parecido nervioso en las reuniones de esta semana.",
+      "p": "Я выглядел взволнованным на встречах этой недели."
+    },
+    {
+      "id": "746",
+      "g": "5",
+      "w": "tú has parecido",
+      "t": "ты выглядел",
+      "e": "Tú has parecido nervioso en las reuniones de esta semana.",
+      "p": "Ты выглядел взволнованным на встречах этой недели."
+    },
+    {
+      "id": "747",
+      "g": "5",
+      "w": "él/ella ha parecido",
+      "t": "он выглядел",
+      "e": "Él ha parecido nervioso en las reuniones de esta semana.",
+      "p": "Он выглядел взволнованным на встречах этой недели."
+    },
+    {
+      "id": "748",
+      "g": "5",
+      "w": "nosotros hemos parecido",
+      "t": "мы выглядели",
+      "e": "Nosotros hemos parecido nerviosos en las reuniones de esta semana.",
+      "p": "Мы выглядели взволнованными на встречах этой недели."
+    },
+    {
+      "id": "749",
+      "g": "5",
+      "w": "vosotros habéis parecido",
+      "t": "вы выглядели",
+      "e": "Vosotros habéis parecido nerviosos en las reuniones de esta semana.",
+      "p": "Вы выглядели взволнованными на встречах этой недели."
+    },
+    {
+      "id": "750",
+      "g": "5",
+      "w": "ellos han parecido",
+      "t": "они выглядели",
+      "e": "Ellos han parecido nerviosos en las reuniones de esta semana.",
+      "p": "Они выглядели взволнованными на встречах этой недели."
+    }
+  ]
+}
